@@ -16,12 +16,12 @@
   <div class="topbar">
     <div class="title">
       <h1>Verdent 6月德国 KOL 推荐名单</h1>
-      <p>按最新口径重排：正选 <b>4 个 YouTube + 6 个短视频</b>；主线聚焦 builder / AI coding / 前端构建场景，先锋新闻类只保留长短各 1 个。所有人默认先确认档期，若无档期则从同方向替补池顺位替换。</p>
+      <p>按最新口径重排：正选 <b>4 个 YouTube + 6 个短视频</b>；短视频已按“德语优先 + 最近视频表现 + builder/AI coding 相关性”重筛，剔除俄语内容和 IT 安全类偏离账号。</p>
     </div>
     <div class="meta">Noindex / nofollow<br>数据源：已有候选库 + EasyKOL HAR</div>
   </div>
 
-  <div class="notice">说明：飞书文档暂时无权限，本页先基于用户给定比例、已有 YouTube 候选数据、EasyKOL TikTok LIKE 集合推进。平台分数仅作召回参考，不作为绝对筛选标准。</div>
+  <div class="notice">说明：飞书文档暂时无权限，本页先基于用户给定比例、已有 YouTube 候选数据、EasyKOL TikTok LIKE 集合推进。平台分数仅作召回参考，不作为绝对筛选标准；短视频更看重最近 3–6 条内容是否真的有播放和互动。</div>
 
   <div class="summary" id="summary"></div>
 
@@ -30,6 +30,7 @@
       <button class="tab active" data-filter="all">全部</button>
       <button class="tab" data-filter="primary">正选</button>
       <button class="tab" data-filter="backup">替补</button>
+      <button class="tab" data-filter="rejected">已剔除</button>
       <button class="tab" data-filter="YouTube">YouTube</button>
       <button class="tab" data-filter="TikTok">TikTok</button>
       <button class="tab" data-filter="AI Coding">AI Coding</button>
@@ -50,12 +51,17 @@
       <h3>替换规则</h3>
       <ul>
         <li>AI Coding YouTube 正选无档期：优先 The Morpheus Tutorials / AI mit Arnie / Sebastian Claes。</li>
-        <li>AI Coding 短视频正选无档期：优先 TechSnack / Nader Ait-Laouad / Michael Truch。</li>
+        <li>AI Coding 短视频正选无档期：优先 Akademie für KI / Michael Truch / Mustafan；俄语账号不再考虑。</li>
         <li>前端/设计短视频正选无档期：优先 Ully AI；如接受 YouTube 补位再看 Toomarte / WPerfolg。</li>
-        <li>新闻长视频无档期：Digitale Profis 或 Christoph Magnussen；新闻短视频无档期：inkenai。</li>
+        <li>新闻长视频无档期：Digitale Profis 或 Christoph Magnussen；新闻短视频无档期：MaxFröhlich。IT 安全类不再考虑。</li>
       </ul>
     </div>
     <div class="table" id="backupList"></div>
+  </section>
+
+  <section class="section">
+    <div class="section-head"><div><h2>已剔除：不符合本轮短视频口径</h2><p>保留在页面里是为了说明为什么不再推荐，避免后续又按粉丝/均播误选。</p></div><div class="section-count" id="rejectedCount"></div></div>
+    <div class="table" id="rejectedList"></div>
   </section>
 
   <div class="footer">为减少被搜索引擎收录，页面已加入 <code>robots</code> noindex/nofollow meta，并提供 <code>robots.txt</code> 禁止抓取。GitHub Pages 仍是公开 URL，请勿放入敏感信息。</div>
@@ -68,8 +74,8 @@ function video(v){return `<a class="video" href="${esc(v.url||'#')}" target="_bl
 function card(x){return `<article class="card"><div class="card-main"><img class="avatar" loading="lazy" src="${esc(x.avatar)}" alt="${esc(x.name)}"><div class="name"><h3><a href="${esc(x.profile_url||'#')}" target="_blank" rel="noreferrer">${esc(x.name)}</a></h3><div class="handle">${esc(x.handle)} · ${esc(x.region||'DE')}</div><div class="tags"><span class="tag ${x.status==='primary'?'primary':'backup'}">${x.status==='primary'?'正选':'替补'}</span><span class="tag ${x.platform==='YouTube'?'yt':'tt'}">${esc(x.platform)}</span><span class="tag">${esc(x.campaign)}</span></div></div><div class="metrics"><div class="metric"><b>${fmt(x.followers)}</b><span>粉丝/订阅</span></div><div class="metric"><b>${fmt(x.avg_views)}</b><span>均播</span></div><div class="metric"><b>${esc(x.contact_status||'待确认')}</b><span>档期</span></div><div class="metric"><b>${esc(x.score)}</b><span>参考分</span></div></div><div class="reason"><b>推荐理由：</b>${esc(x.why||x.reason_raw||'')}<div class="links"><a class="btn" href="${esc(x.profile_url||'#')}" target="_blank" rel="noreferrer">主页</a></div></div></div><div class="videos">${(x.videos||[]).slice(0,4).map(video).join('')}</div></article>`}
 function hay(x){return [x.name,x.handle,x.platform,x.campaign,x.why,x.pitch,...(x.videos||[]).map(v=>v.title)].join(' ').toLowerCase()}
 function pass(x){const h=hay(x);return (filter==='all'||x.status===filter||x.platform===filter||h.includes(filter.toLowerCase())) && (!q||h.includes(q.toLowerCase()))}
-function render(){const p=DATA.filter(x=>x.status==='primary'&&pass(x));const b=DATA.filter(x=>x.status==='backup'&&pass(x));document.getElementById('primaryList').innerHTML=p.length?p.map(card).join(''):'<div class="empty">没有匹配的正选</div>';document.getElementById('backupList').innerHTML=b.length?b.map(card).join(''):'<div class="empty">没有匹配的替补</div>';document.getElementById('primaryCount').textContent=`${p.length} 个`;document.getElementById('backupCount').textContent=`${b.length} 个`;}
-function summary(){const primary=DATA.filter(x=>x.status==='primary');const yt=primary.filter(x=>x.platform==='YouTube').length;const tt=primary.filter(x=>x.platform==='TikTok').length;const news=primary.filter(x=>x.campaign.includes('先锋')).length;const frontend=primary.filter(x=>x.campaign.includes('前端')).length;document.getElementById('summary').innerHTML=[['10','正选总数'],[yt,'YouTube 正选'],[tt,'短视频正选'],[frontend,'前端/设计短视频'],[news,'先锋新闻（长短各 1）']].map(([n,l])=>`<div class="stat"><b>${n}</b><span>${l}</span></div>`).join('')}
+function render(){const p=DATA.filter(x=>x.status==='primary'&&pass(x));const b=DATA.filter(x=>x.status==='backup'&&pass(x));const r=DATA.filter(x=>x.status==='rejected'&&pass(x));document.getElementById('primaryList').innerHTML=p.length?p.map(card).join(''):'<div class="empty">没有匹配的正选</div>';document.getElementById('backupList').innerHTML=b.length?b.map(card).join(''):'<div class="empty">没有匹配的替补</div>';document.getElementById('rejectedList').innerHTML=r.length?r.map(card).join(''):'<div class="empty">没有匹配的剔除项</div>';document.getElementById('primaryCount').textContent=`${p.length} 个`;document.getElementById('backupCount').textContent=`${b.length} 个`;document.getElementById('rejectedCount').textContent=`${r.length} 个`;}
+function summary(){const primary=DATA.filter(x=>x.status==='primary');const yt=primary.filter(x=>x.platform==='YouTube').length;const tt=primary.filter(x=>x.platform==='TikTok').length;const news=primary.filter(x=>x.campaign.includes('先锋')).length;const frontend=primary.filter(x=>x.campaign.includes('前端')).length;document.getElementById('summary').innerHTML=[['10','正选总数'],[yt,'YouTube 正选'],[tt,'短视频正选'],[frontend,'前端/工具短视频'],[news,'先锋新闻（长短各 1）']].map(([n,l])=>`<div class="stat"><b>${n}</b><span>${l}</span></div>`).join('')}
 fetch('kol-june.json').then(r=>r.json()).then(d=>{DATA=d;summary();render()});
 document.querySelectorAll('.tab').forEach(btn=>btn.addEventListener('click',()=>{document.querySelectorAll('.tab').forEach(x=>x.classList.remove('active'));btn.classList.add('active');filter=btn.dataset.filter;render()}));
 document.getElementById('search').addEventListener('input',e=>{q=e.target.value.trim();render()});

@@ -51,7 +51,7 @@
     ],
     "status": "primary",
     "campaign": "AI Coding / YouTube Builder",
-    "why": "AI Coding 长视频正选：Claude Code/Build & Deploy Web Apps 近期内容最直接，builder 受众浓度高。",
+    "why": "AI Coding 长视频正选：Claude Code / Build & Deploy Web Apps 近期内容最直接，builder 受众浓度高。",
     "score": 91.1,
     "contact_status": "待确认档期",
     "slot_role": "正选"
@@ -108,7 +108,7 @@
     ],
     "status": "primary",
     "campaign": "AI Coding / YouTube Builder",
-    "why": "AI Coding 长视频正选：产品经理/创始人开发数字平台，无需技术前置；更贴近 builder/solo founder。",
+    "why": "AI Coding 长视频正选：产品经理/创始人开发数字平台，无需技术前置；更贴近 builder / solo founder。",
     "score": 84.4,
     "contact_status": "待确认档期",
     "slot_role": "正选"
@@ -165,7 +165,7 @@
     ],
     "status": "primary",
     "campaign": "AI Coding / YouTube Builder",
-    "why": "AI Coding 长视频正选：Vibe Coding 建 KMU 系统、30 分钟建网站，德国小老板 builder 视角非常强。",
+    "why": "AI Coding 长视频正选：Vibe Coding 建 KMU 系统、30 分钟建网站，德国小老板 builder 视角强。",
     "score": 77.1,
     "contact_status": "待确认档期",
     "slot_role": "正选"
@@ -279,65 +279,69 @@
         "url": "https://www.tiktok.com/@technic_tricks_de/video/7639421059900607776"
       }
     ],
-    "campaign": "前端设计 / TikTok",
+    "campaign": "前端/工具发现 / TikTok",
     "status": "primary",
-    "why": "前端/设计短视频正选：PC tips、网站、AI employee、工具发现类内容，适合 Ship pretty 的短视频入口。",
+    "why": "短视频正选：德语；最近两条 25K/21K，内容是网站、PC tips、AI employee，适合 Ship pretty 的工具发现入口。",
     "score": 91.3,
     "contact_status": "待确认档期",
     "slot_role": "正选"
   },
   {
-    "name": "Herr.Excel",
-    "handle": "@herr.excel",
+    "name": "Ully AI",
+    "handle": "@ully.lemisa",
     "platform": "TikTok",
-    "avatar": "https://p19-common-sign.tiktokcdn-us.com/tos-useast2a-avt-0068-euttp/789e0f720cddcc2df8fb5d2bbaa71e64~tplv-tiktokx-cropcenter:1080:1080.webp?dr=9640&refresh_token=1dd289ec&x-expires=1779951600&x-signature=oqCfQqTVRtY32QZarjbSlKv9eH8%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=2472a6c6&idc=useast8",
-    "followers": 267110,
-    "avg_views": 23841,
+    "avatar": "https://p19-common-sign.tiktokcdn-us.com/tos-maliva-avt-0068/23268c5a18a0834245d1dae7f4d36149~tplv-tiktokx-cropcenter:1080:1080.webp?dr=9640&refresh_token=d549e93b&x-expires=1779951600&x-signature=CFC%2FA%2BX0BWznANuEj5ywBi%2FtJIg%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=2472a6c6&idc=useast8",
+    "followers": 26011,
+    "avg_views": 15522,
     "region": "DE",
-    "desc": "Instagram: Herr.Excel\nHier gehts zum Kurs, heute 50% reduziert!\n👇🏽",
-    "profile_url": "https://www.tiktok.com/@herr.excel",
-    "primary": null,
-    "niches": [],
-    "pitch": "",
-    "reason_raw": "The influencer's profile, visual content, and posts are highly relevant to AI coding, featuring tutorials on Excel functions, VBA, and AI in Excel, with visuals clearly displaying code snippets and software interfaces.",
+    "desc": "1 Mio. für KI begeistern 🤖\n10+ Jahre Tech-Managerin 🚀\nTÜV zert. AI-Trainerin👇",
+    "profile_url": "https://www.tiktok.com/@ully.lemisa",
+    "primary": "AI",
+    "niches": [
+      "Prompt Engineering",
+      "AI工具",
+      "AI技巧"
+    ],
+    "pitch": "中年女性AI博主，分享ChatGPT和Claude等AI工具的使用技巧和效率提升方法，视频内容以教程讲解为主，常出现AI工具和办公场景。",
+    "reason_raw": "The influencer's content and visual style align perfectly with the description of an AI coding content creator, focusing on AI tools like ChatGPT and Claude, tutorials, and insights. The visuals feature the influencer with overlaid text about AI topics, matching the requested style of computer interfaces and abstract representations.",
     "videos": [
       {
-        "title": "Sequenz Funktion in Excel!  #excel #viral",
-        "views": 8540,
-        "duration": "39s",
-        "when": "2026-03-26",
-        "thumb": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast2a-p-0037-euttp/oElEd2o4fAIR4EviCBI0lmAOIiBziCPSohDIA5~tplv-tiktokx-dmt-logoccm:300:400:tos-useast2a-i-0068-euttp/o0BtEEaBiyDI3YAHAAdAQogEAiiPDciMp0ImH.jpeg?dr=9231&refresh_token=a21e5365&x-expires=1779865200&x-signature=bYRgMDMZtbsvz7tIeH8DS%2BOPK7g%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=132edbea&idc=useast2b&biz_tag=tt_video&s=PUBLISH&sc=cover&item=7621254248352779552",
-        "url": "https://www.tiktok.com/@herr.excel/video/7621254248352779552"
+        "title": "ChatGPT gibt in 27% der Fälle falsche Antworten - aber du kannst das ändern. 🤫 Es gibt eine versteckte Einstellung, die die meisten nie nutzen. Einmal gespeichert, überprüft ChatGPT seine eigenen Antworten automatisch auf Logik, Fakten und Vollständigkeit. So geht's: Einstellungen → Personalisierungen → Benutzerdefinierte Anweisungen → diesen Prompt einfügen: ------ Adopt the role of a Meta-Cognitive Reasoning Expert. For every complex problem: 1. DECOMPOSE: Break into sub-problems 2. SOLVE: Address each with explicit confidence (0.0-1.0) 3. VERIFY: Check logic, facts, completeness, bias 4. SYNTHESIZE: Combine using weighted confidence 5. REFLECT: If confidence <0.8, identify weakness and retry For simple questions, skip to direct answer. Always output: Clear answer - Confidence level - Key caveats ------ Der Prompt ist auf Englisch - das ist Absicht. ChatGPT versteht englische Hintergrundanweisungen präziser. Du kannst danach trotzdem auf Deutsch weiterschreiben. Soll ich dir den Prompt schicken? Schreib einfach „Prompt\" in die Kommentare - ich schick ihn dir direkt zu. 📩 #ChatGPT #KITipps #künstlicheintelligenz #AIHack #kiwissen",
+        "views": 107018,
+        "duration": "41s",
+        "when": "2026-05-12",
+        "thumb": "https://p19-common-sign.tiktokcdn-eu.com/tos-no1a-p-0037-no/o4EACUbEjFDALAr9rMIAAFELFGDUMBA4ef2eLI~tplv-tiktokx-cropcenter-q:300:400:q70.jpeg?dr=9232&refresh_token=bd288514&x-expires=1779865200&x-signature=VCFcBjMpARhHVgR5EUyfXYqXMFI%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=132edbea&idc=useast2b&biz_tag=tt_video&s=PUBLISH&sc=cover",
+        "url": "https://www.tiktok.com/@ully.lemisa/video/7638695196191919382"
       },
       {
-        "title": "Anwesenheitsliste per VBA! #excel #büro #vba #fy #viral ",
-        "views": 17555,
-        "duration": "79s",
-        "when": "2026-03-17",
-        "thumb": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast2a-p-0037-euttp/ogI5IDDFRYeuAxDpKFKofIuZdGyECEZQmvWiB9~tplv-tiktokx-dmt-logoccm:300:400:tos-useast2a-i-0068-euttp/owdypJQufAIMfIFAADRplFCqxEDmFEATHWAQu3.jpeg?dr=9231&refresh_token=8f40c775&x-expires=1779865200&x-signature=XiMN9oJp8oH%2FfXCF8dqnkjoT8sk%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=132edbea&idc=useast2b&s=PUBLISH&sc=cover&item=7618228150249508128&biz_tag=tt_video",
-        "url": "https://www.tiktok.com/@herr.excel/video/7618228150249508128"
+        "title": "Wenn du diese 5 Begriffe kennst, verstehst du KI sofort besser. Kontextfenster, Tokens, Halluzination, RAG und System-Prompt -genau diese Begriffe brauchst du, wenn du mit ChatGPT bessere Ergebnisse bekommen willst. Speicher dir das ab und folge mir für einfache KI-Tipps. #ki #künstlicheintelligenz #chatgpt #aitools #kiwissen",
+        "views": 10973,
+        "duration": "94s",
+        "when": "2026-05-07",
+        "thumb": "https://p16-common-sign.tiktokcdn-eu.com/tos-no1a-p-0037-no/o8s3IIOEzGAvf4AkAvLOLrTAHEfAHF09Q9e22I~tplv-tiktokx-cropcenter-q:300:400:q70.jpeg?dr=9232&refresh_token=d4949cd7&x-expires=1779865200&x-signature=e8xSu6n1xXWRJyNkSabFJVZyDwY%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=132edbea&idc=useast2b&biz_tag=tt_video&s=PUBLISH&sc=cover",
+        "url": "https://www.tiktok.com/@ully.lemisa/video/7636837785676156182"
       },
       {
-        "title": "Ki in Excel? 🤯🤯🤯 Bringe deine Excel skills auf ein ganz neues Level! #excel #lernenmittiktok #ap1 #excelshortcuts #ki",
-        "views": 10226,
-        "duration": "59s",
-        "when": "2026-03-15",
-        "thumb": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast2a-p-0037-euttp/oUuDwKDuFUP6tv2PfRKcABzE5kSQQmEfQprAOE~tplv-tiktokx-dmt-logoccm:300:400:tos-useast2a-i-0068-euttp/ogQagAGAjelbAeGTLLLmeTv2Al2IPIAgMzXUFg.jpeg?dr=9231&refresh_token=8368589b&x-expires=1779865200&x-signature=t2oiYGhpA%2F22iZ0vkOn%2B5zia4Q4%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=132edbea&idc=useast2b&s=PUBLISH&sc=cover&item=7617483222875770145&biz_tag=tt_video",
-        "url": "https://www.tiktok.com/@herr.excel/video/7617483222875770145"
+        "title": "7 KI-Tools, die dir echte Zeit sparen und für jede Aufgabe das richtige. 🤖✨ Hier ist deine Kurzübersicht: ⏱ Zeit sparen: ChatGPT 🖼 KI-Bilder: Nano Banana oder GPT Image 2.0  📧 E-Mails schreiben: Claude  📚 Neues lernen: NotebookLM  🎬 KI-Videos: Higgsfield  🌐 Website bauen: bolt.new  🎙 Meeting-Assistent: Supernormal Speicher diesen Post - du wirst ihn brauchen!  💾 Und wenn du mehr über KI erfahren willst: Folge mir für mehr Praxis-Content. 💛 Welches Tool überrascht dich am meisten? 👇 #KITools #ChatGPT #KünstlicheIntelligenz #ai #AITools",
+        "views": 2849,
+        "duration": "22s",
+        "when": "2026-04-30",
+        "thumb": "https://p16-common-sign.tiktokcdn-eu.com/tos-no1a-p-0037-no/ocrEIZSKABhJ7DBECAwiqfE9EPVW0SiBxAU9yA~tplv-tiktokx-cropcenter-q:300:400:q70.jpeg?dr=9232&refresh_token=005e3f1a&x-expires=1779865200&x-signature=R7k5uvV6xUbZd6IYghGYSZOrzRo%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=132edbea&idc=useast2b&biz_tag=tt_video&s=PUBLISH&sc=cover",
+        "url": "https://www.tiktok.com/@ully.lemisa/video/7634256983951953174"
       },
       {
-        "title": "SVERWEIS in Excel!  Wusstest du, dass der Sverweis schon längst überholt ist? Es gibt deutlich effizientere Funktionen in Excel wie beispielsweise der XVerweis! Wenn du dich weiterbilden möchtest wenn es um Excel Formeln geht, dann schau auf den Link in meiner bio!  #lernenmittiktok #fyp #ap1 #excelshortcuts #excel ",
-        "views": 21486,
-        "duration": "89s",
-        "when": "2026-03-15",
-        "thumb": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast2a-p-0037-euttp/oMffZFJSAx0RpDkDQ4kDH2no2lEEtpSmQEB1QV~tplv-tiktokx-dmt-logoccm:300:400:tos-useast2a-i-0068-euttp/o4ibMvAEEgicgy1BCATkxaipBFA08WdACIaj0.jpeg?dr=9231&refresh_token=ad78f7c3&x-expires=1779865200&x-signature=ZXIuG%2FWBvB5rHBszNgiN8Ukv%2Fso%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=132edbea&idc=useast2b&biz_tag=tt_video&s=PUBLISH&sc=cover&item=7617156050298490145",
-        "url": "https://www.tiktok.com/@herr.excel/video/7617156050298490145"
+        "title": "🚨 BREAKING: ChatGPT Images 2.0 ist LIVE! 🎨   Seit gestern, dem 21. April kannst du:  ✨ Perfekte Schrift in Bildern erzeugen  ✨ Ganze Karussells in 1 Prompt bauen  ✨ Bis zu 8 zusammenhängende Bilder erstellen  ✨ 2K-Auflösung + Thinking-Modus nutzen   Speicher dir das Reel, damit du es gleich testest!  💛 Folge mir für mehr KI-Hacks ✨ Quelle Video: https://openai.com/index/introducing-chatgpt-images-2-0/ #chatgpt #kitools #openai #selbstständig #künstlicheintelligenz",
+        "views": 1762,
+        "duration": "70s",
+        "when": "2026-04-23",
+        "thumb": "https://p16-common-sign.tiktokcdn-eu.com/tos-no1a-p-0037-no/oMAARIA4pkpAiQjHG2EICF6CVF3DTg9kNEfDfo~tplv-tiktokx-cropcenter-q:300:400:q70.jpeg?dr=9232&refresh_token=cbbeacde&x-expires=1779865200&x-signature=oTx3y9nsSdnkjI8YPaEBDhCTsF4%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=132edbea&idc=useast2b&biz_tag=tt_video&s=PUBLISH&sc=cover",
+        "url": "https://www.tiktok.com/@ully.lemisa/video/7631665674812689686"
       }
     ],
-    "campaign": "前端设计 / TikTok",
+    "campaign": "前端/AI工具教程 / TikTok",
     "status": "primary",
-    "why": "前端/设计短视频正选：Excel/VBA/AI in Excel，面向非工程师做出漂亮/可用成品的办公自动化人群。",
-    "score": 94.6,
+    "why": "短视频正选：德语；近期 ChatGPT/AI 基础内容有 107K/11K 表现，适合面向非工程师解释“用 AI 做出可用成果”。",
+    "score": 80.7,
     "contact_status": "待确认档期",
     "slot_role": "正选"
   },
@@ -394,187 +398,242 @@
     ],
     "campaign": "AI Coding / TikTok Builder",
     "status": "primary",
-    "why": "AI Coding 短视频正选：424K 德国编程教育大号，roadmap、软件开发、remote work，程序员/builder 受众强。",
+    "why": "短视频正选：德语程序员受众；近期有 31K、10K 编程内容，roadmap/software developer 主题与 builder 匹配。",
     "score": 91.3,
     "contact_status": "待确认档期",
     "slot_role": "正选"
   },
   {
-    "name": "abez9na",
-    "handle": "@den0ver",
+    "name": "Nader Ait-Laouad",
+    "handle": "@nader.aitlaouad",
     "platform": "TikTok",
-    "avatar": "https://p19-common-sign.tiktokcdn-us.com/tos-maliva-avt-0068/8b6406ad795a026bef749d49bb2e0a15~tplv-tiktokx-cropcenter:1080:1080.webp?dr=9640&refresh_token=54109b4b&x-expires=1779951600&x-signature=83C742mo7aK77GtzJdRZuwiBOfk%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=2472a6c6&idc=useast8",
-    "followers": 8960,
-    "avg_views": 59933,
+    "avatar": "https://p19-common-sign.tiktokcdn-us.com/tos-useast2a-avt-0068-euttp/c06bec8bf4608e936ac63b879153ed11~tplv-tiktokx-cropcenter:1080:1080.webp?dr=9640&refresh_token=2287deac&x-expires=1779951600&x-signature=QqRMbOO52jBrnwyG%2FY7xGw%2B1DTo%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=2472a6c6&idc=useast8",
+    "followers": 2753,
+    "avg_views": 3249,
     "region": "DE",
-    "desc": "",
-    "profile_url": "https://www.tiktok.com/@den0ver",
-    "primary": "专业领域",
+    "desc": "AI Agent Workshop:\nhttp://www.patreon.com/cryptobiz/collections",
+    "profile_url": "https://www.tiktok.com/@nader.aitlaouad",
+    "primary": "AI",
     "niches": [
-      "Junior Programmer",
-      "Coding Journey",
-      "Python Development"
+      "AI Agent Workshop",
+      "AI Game",
+      "AI Business"
     ],
-    "pitch": "一位年轻的亚裔男性程序员，分享从 Trainee 到 Junior 的学习和开发日常，视频以编程教学和生活Vlog为主，常出现电脑、代码和游戏场景。",
-    "reason_raw": "The influencer's profile and posts align with the 'AI coding content creator' description, featuring programming tutorials, code demonstrations, and discussions on AI applications. The visuals include code snippets and computer interfaces, with a consistent theme of programming setups and learning.",
+    "pitch": "一位专注于AI Agent的青年男性博主，视频以AI Agent的开发、应用和商业化为主，常出现ChatGPT、Claude等AI工具和AI Agent Workshop等内容。",
+    "reason_raw": "The influencer's content consistently focuses on AI agents, programming, and artificial intelligence applications, aligning perfectly with the description. The visual elements, such as code snippets and computer interfaces, and the use of German language in the posts further reinforce this match.",
     "videos": [
       {
-        "title": "тгк: IT_abez9na #programming ",
-        "views": 1606,
-        "duration": "19s",
-        "when": "2026-05-18",
-        "thumb": "https://p16-common-sign.tiktokcdn-eu.com/tos-alisg-p-0037/o8BKxqwBfAIYiiopEBI1zYAUEiAoiCVYBQvI81~tplv-tiktokx-cropcenter-q:300:400:q70.jpeg?dr=9232&refresh_token=2b4e9d48&x-expires=1779865200&x-signature=Z6FT%2Banu7C3Z8dVuVLiHNQHv%2Bpo%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=132edbea&idc=useast2b&biz_tag=tt_video&s=PUBLISH&sc=cover",
-        "url": "https://www.tiktok.com/@den0ver/video/7640938956506369298"
+        "title": "#aiagent #claude #ki #künstlicheintelligenz #enterpreneur ",
+        "views": 2023,
+        "duration": "30s",
+        "when": "2026-05-16",
+        "thumb": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast2a-p-0037-euttp/oUKzJ0C6IE9f1MzDFUqEIDsBCIoXmXcfQA8FUR~tplv-tiktokx-cropcenter-q:300:400:q70.jpeg?dr=9232&refresh_token=0169174c&x-expires=1779865200&x-signature=HPUz9NnfC7NVcvbRJtlkdKgXJJc%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=132edbea&idc=useast2b&biz_tag=tt_video&s=PUBLISH&sc=cover&item=7640447779277425953",
+        "url": "https://www.tiktok.com/@nader.aitlaouad/video/7640447779277425953"
       },
       {
-        "title": "#программирование #junior #python #django ",
-        "views": 6176,
-        "duration": "33s",
-        "when": "2026-04-21",
-        "thumb": "https://p16-common-sign.tiktokcdn-eu.com/tos-alisg-p-0037/oEfeENQBBGAn7tm8MCXwnFf0puSFcRAxMFfG21~tplv-tiktokx-cropcenter-q:300:400:q70.jpeg?dr=9232&refresh_token=fdbf8587&x-expires=1779865200&x-signature=Jx2bwsHSFKxwhnZFK5ttSFT9C9o%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=132edbea&idc=useast2b&biz_tag=tt_video&s=PUBLISH&sc=cover",
-        "url": "https://www.tiktok.com/@den0ver/video/7631079797283786002"
+        "title": "#ki #ai #aiagent #aigame ",
+        "views": 3772,
+        "duration": "36s",
+        "when": "2026-05-01",
+        "thumb": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast2a-p-0037-euttp/okQjeIQpHnZeD0MDDg8OXNAMCgIIQTfpGQ6TCI~tplv-tiktokx-cropcenter-q:300:400:q70.jpeg?dr=9232&refresh_token=b04eab18&x-expires=1779865200&x-signature=SlpuwQeV%2BkizNNKm141auQeZDNk%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=132edbea&idc=useast2b&biz_tag=tt_video&s=PUBLISH&sc=cover&item=7634872956312636704",
+        "url": "https://www.tiktok.com/@nader.aitlaouad/video/7634872956312636704"
       },
       {
-        "title": "#программирование #django ",
-        "views": 5634,
-        "duration": "41s",
-        "when": "2026-03-23",
-        "thumb": "https://p16-common-sign.tiktokcdn-eu.com/tos-alisg-p-0037/oofeEtvjDp4zIgivPyMiaE9BBXr4wIRA60UACB~tplv-tiktokx-cropcenter-q:300:400:q70.jpeg?dr=9232&refresh_token=a0dcf494&x-expires=1779865200&x-signature=KE67H0IfLrwy00xTpHmCmXTCC9k%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=132edbea&idc=useast2b&sc=cover&biz_tag=tt_video&s=PUBLISH",
-        "url": "https://www.tiktok.com/@den0ver/video/7620159737581161749"
+        "title": "#aiagent #ki #business #ai #chatgpt ",
+        "views": 2025,
+        "duration": "214s",
+        "when": "2026-04-25",
+        "thumb": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast2a-p-0037-euttp/ossqvc0ERIyANmUferEBCGDp4JgFEDXLBQnCs7~tplv-tiktokx-cropcenter-q:300:400:q70.jpeg?dr=9232&refresh_token=ffc60da5&x-expires=1779865200&x-signature=G1rc5wBCQFcVP7zVMg5gbQZgpe4%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=132edbea&idc=useast2b&biz_tag=tt_video&s=PUBLISH&sc=cover&item=7632669864901037345",
+        "url": "https://www.tiktok.com/@nader.aitlaouad/video/7632669864901037345"
       },
       {
-        "title": "показать сайт? #программирование #пайтон #джуниор ",
-        "views": 89196,
-        "duration": "24s",
-        "when": "2026-03-20",
-        "thumb": "https://p19-common-sign.tiktokcdn-eu.com/tos-alisg-p-0037/ocFvGsDSeeIffQlA8vUAwnQEF04FQRm3GQAAEK~tplv-tiktokx-cropcenter-q:300:400:q70.jpeg?dr=9232&refresh_token=651eefd5&x-expires=1779865200&x-signature=NvSHyS7oOTQbPhBYrc%2FWo3%2Frl5g%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=132edbea&idc=useast2b&biz_tag=tt_video&s=PUBLISH&sc=cover",
-        "url": "https://www.tiktok.com/@den0ver/video/7619044064880561428"
+        "title": "#ai #ki #claude #gpt #aiagent",
+        "views": 2791,
+        "duration": "71s",
+        "when": "2026-04-23",
+        "thumb": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast2a-p-0037-euttp/o0AQGI0TMIPGcjNQXiqeDLO1fGGb3HQl9Wznfg~tplv-tiktokx-cropcenter-q:300:400:q70.jpeg?dr=9232&refresh_token=6dfc4331&x-expires=1779865200&x-signature=rTEbhcQ91XU7HG5Wo1k%2BQgJg%2FyA%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=132edbea&idc=useast2b&item=7631977660851277088&biz_tag=tt_video&s=PUBLISH&sc=cover",
+        "url": "https://www.tiktok.com/@nader.aitlaouad/video/7631977660851277088"
       }
     ],
     "campaign": "AI Coding / TikTok Builder",
     "status": "primary",
-    "why": "AI Coding 短视频正选：均播约 60K，Junior Programmer/Python/Django 学习路线，爆发力强。",
-    "score": 89.1,
+    "why": "短视频正选：德语/德国；粉丝虽小但最近 AI agent/Claude 内容稳定 2K–4K，播放/粉丝比高，垂直度强。",
+    "score": 68.1,
     "contact_status": "待确认档期",
     "slot_role": "正选"
   },
   {
-    "name": "Programmierlehrer Frederik",
-    "handle": "@frederikdiekmann",
+    "name": "TechSnack",
+    "handle": "@techfeed5",
     "platform": "TikTok",
-    "avatar": "https://p19-common-sign.tiktokcdn-us.com/tos-useast2a-avt-0068-euttp/61853ec070d52d679283ae1231fa8bcb~tplv-tiktokx-cropcenter:1080:1080.webp?dr=9640&refresh_token=1d392998&x-expires=1779951600&x-signature=QvkXZrFJCbuaKDAL0u%2F1sECxYbs%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=2472a6c6&idc=useast8",
-    "followers": 72307,
-    "avg_views": 1568,
+    "avatar": "https://p19-common-sign.tiktokcdn-us.com/tos-useast2a-avt-0068-euttp/d6139cab9e9c6fd6462eb4279d090a29~tplv-tiktokx-cropcenter:1080:1080.webp?dr=9640&refresh_token=f8466796&x-expires=1779951600&x-signature=kIcbvhdTqfmEvKylBKc7Zb3XsmI%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=2472a6c6&idc=useast8",
+    "followers": 14066,
+    "avg_views": 4637,
     "region": "DE",
-    "desc": "👨‍💻 Softwareentwickler und Programmierlehrer\nLerne hier Programmieren 👇",
-    "profile_url": "https://www.tiktok.com/@frederikdiekmann",
-    "primary": "专业领域",
+    "desc": "👨🏻‍💻AI - Umsetzung statt Theorie\n🤝🏻Berater | Creator",
+    "profile_url": "https://www.tiktok.com/@techfeed5",
+    "primary": "AI",
     "niches": [
-      "编程教学",
-      "JavaScript",
-      "AI"
+      "AI for business",
+      "AI productivity tools",
+      "Claude AI features"
     ],
-    "pitch": "一位年轻的白人男性软件开发者和编程老师，视频以幽默讲解编程知识为主，常出现代码、AI 和编程梗图。",
-    "reason_raw": "The influencer's profile and posts clearly indicate a focus on programming, AI, and software development, aligning perfectly with the target description. The visuals, featuring code-related content like CAPTCHAs and discussions about app development, are directly relevant.",
+    "pitch": "中年男性AI博主，分享Claude等AI工具在编程、设计和商业领域的应用，视频以工具介绍和功能展示为主。",
+    "reason_raw": "The influencer's profile and posts align perfectly with the AI coding content creator description, featuring programming, AI applications, and software development insights, with visuals including code snippets and computer interfaces.",
     "videos": [
       {
-        "title": "Kommentiere PROMPTS für die Liste der Prompts #ki #informatik #programmieren ",
-        "views": 349,
-        "duration": "66s",
-        "when": "2026-05-26",
-        "thumb": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast2a-p-0037-euttp/o4SgQGmDqBE5tfNFEZ1I3AQnEDbpfFcQYRQJAn~tplv-tiktokx-cropcenter-q:300:400:q70.jpeg?dr=9232&refresh_token=107a9d95&x-expires=1779865200&x-signature=v7HZnZpV7U1%2FcDnoCJ7jpM69zHQ%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=132edbea&idc=useast2b&s=PUBLISH&sc=cover&item=7643884291256110369&biz_tag=tt_video",
-        "url": "https://www.tiktok.com/@frederikdiekmann/video/7643884291256110369"
-      },
-      {
-        "title": "Sehr sinnvolles Captcha #programmieren #ki #informatik ",
-        "views": 1325,
-        "duration": "67s",
+        "title": "AI wird viel teurer, weil wir mehr verbrauchen und die Abrechnung umgestellt wird. Da stellt sich die Frage, sind Menschen günstiger als KI Modelle. #microsoft #ki #token #programmieren #informatik",
+        "views": 1332,
+        "duration": "68s",
         "when": "2026-05-25",
-        "thumb": "https://p19-common-sign.tiktokcdn-eu.com/tos-useast2a-p-0037-euttp/oQfRIE4wU1xKAeWTYPBCQITTQBFkDqA0EsDmSE~tplv-tiktokx-cropcenter-q:300:400:q70.jpeg?dr=9232&refresh_token=021cb07f&x-expires=1779865200&x-signature=Kt5dZnXNsSo0qBfOYWDhrE8fb40%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=132edbea&idc=useast2b&biz_tag=tt_video&s=PUBLISH&sc=cover&item=7643539015215500577",
-        "url": "https://www.tiktok.com/@frederikdiekmann/video/7643539015215500577"
+        "thumb": "https://p19-common-sign.tiktokcdn-eu.com/tos-useast2a-p-0037-euttp/osHUS2D6EFAcIBBEkBEmPKEHDqyPfRlTqfUQQ6~tplv-tiktokx-dmt-logoccm:300:400:tos-useast2a-i-0068-euttp/o4IB1CAy8jhZCBn1hNSBcLAAiATUTwAEtofiIK.jpeg?dr=9231&refresh_token=74b01ed8&x-expires=1779865200&x-signature=HyTAniQxH57zdVaQFMSzfaz%2F42o%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=132edbea&idc=useast2b&biz_tag=tt_video&s=PUBLISH&sc=cover&item=7643498355095555360",
+        "url": "https://www.tiktok.com/@techfeed5/video/7643498355095555360"
       },
       {
-        "title": "So würde ich vorgehen, wenn ich eine App entwickle. Kommentiere PROMPTS und ich schick dir die prompts #programmieren #ki #informatik ",
-        "views": 627,
-        "duration": "78s",
-        "when": "2026-05-24",
-        "thumb": "https://p19-common-sign.tiktokcdn-eu.com/tos-useast2a-p-0037-euttp/oMQIjFUtfD6yGPD0QfbBjMGgEUeAuI0XygjAjR~tplv-tiktokx-cropcenter-q:300:400:q70.jpeg?dr=9232&refresh_token=7d48f0b2&x-expires=1779865200&x-signature=WxNAs2zqb3N6sbKPgbt2UZrX12M%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=132edbea&idc=useast2b&biz_tag=tt_video&s=PUBLISH&sc=cover&item=7643163925294353697",
-        "url": "https://www.tiktok.com/@frederikdiekmann/video/7643163925294353697"
+        "title": "Cursor schafft es für wenig Geld Task an die KI zu geben. In einer Zeit in der die AI Kosten steigen, kann das ein Game changer werden. #ai #cursor #agent #coding ",
+        "views": 8093,
+        "duration": "30s",
+        "when": "2026-05-22",
+        "thumb": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast2a-p-0037-euttp/oMIRSmqAGSp0FhrQDDEUUEF0aIBBhQfeEZElOL~tplv-tiktokx-dmt-logoccm:300:400:tos-useast2a-i-0068-euttp/oYQGKYoAZAb2ff6gMNIveQXAIAAKnA8fQyRA6V.jpeg?dr=9231&refresh_token=99cd2a91&x-expires=1779865200&x-signature=TwzTaQN7ZvEhn3xTb2nhVjCtvJc%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=132edbea&idc=useast2b&sc=cover&item=7642719252528549152&biz_tag=tt_video&s=PUBLISH",
+        "url": "https://www.tiktok.com/@techfeed5/video/7642719252528549152"
       },
       {
-        "title": "So ist das manchmal mit dem Code #programmieren #ki #informatik ",
-        "views": 1260,
-        "duration": "64s",
-        "when": "2026-05-23",
-        "thumb": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast2a-p-0037-euttp/o8jiqCAbI5IzUsTayfx6QIFs1lDtiBNUCDioAB~tplv-tiktokx-cropcenter-q:300:400:q70.jpeg?dr=9232&refresh_token=ad32d783&x-expires=1779865200&x-signature=AV0yDQc1TzSwAI1nc8clIGcGJaU%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=132edbea&idc=useast2b&biz_tag=tt_video&s=PUBLISH&sc=cover&item=7642809008696446241",
-        "url": "https://www.tiktok.com/@frederikdiekmann/video/7642809008696446241"
+        "title": "95% der Nutzer brauchen Basic Applikationen und daher nicht das top Model. Das spart massiv tokens und damit bares in der KI Entwicklung. GPT 5.4 XHigh reicht für alles aus. #openai #codex #informatik #programmieren #ai",
+        "views": 1191,
+        "duration": "58s",
+        "when": "2026-05-22",
+        "thumb": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast2a-p-0037-euttp/oofmAA0zCABidq2EBIsQw6AGAHGo51q5BCIQi0~tplv-tiktokx-dmt-logoccm:300:400:tos-useast2a-i-0068-euttp/ocfQQwOEAXRgAIDEQCFqAAADQzmhADm5fAEEo1.jpeg?dr=9231&refresh_token=ae34acb0&x-expires=1779865200&x-signature=rBd3z%2FSSdtjdObuYrn5oUiI4Rnk%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=132edbea&idc=useast2b&biz_tag=tt_video&s=PUBLISH&sc=cover&item=7642612465271967008",
+        "url": "https://www.tiktok.com/@techfeed5/video/7642612465271967008"
+      },
+      {
+        "title": "Karpathy geht zu Anthropic!  #ai #ki #anthropic #agents ",
+        "views": 1824,
+        "duration": "63s",
+        "when": "2026-05-20",
+        "thumb": "https://p19-common-sign.tiktokcdn-eu.com/tos-useast2a-p-0037-euttp/oAEsCjEQmcAFUEapEvRnfDfUWYDaDByIABmqtN~tplv-tiktokx-dmt-logoccm:300:400:tos-useast2a-i-0068-euttp/oMADvZqYATRNEqTEFaAA5IQDbQsmDABCCRfeNm.jpeg?dr=9231&refresh_token=a8a933e5&x-expires=1779865200&x-signature=2FpBOILa5DVMbGUIRZItwsHuu0o%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=132edbea&idc=useast2b&biz_tag=tt_video&s=PUBLISH&sc=cover&item=7641947107292663072",
+        "url": "https://www.tiktok.com/@techfeed5/video/7641947107292663072"
       }
     ],
     "campaign": "AI Coding / TikTok Builder",
     "status": "primary",
-    "why": "AI Coding 短视频正选：72K 编程老师，JS/AI/编程梗+教程，短视频表达稳定。",
-    "score": 77.3,
+    "why": "短视频正选：德语；近期 Cursor/Claude/AI 成本与 agent 工具内容，单条 Cursor 8K，适合 builder 工具切片。",
+    "score": 74.9,
     "contact_status": "待确认档期",
     "slot_role": "正选"
   },
   {
-    "name": "Hood Informatik",
-    "handle": "@hoodinformatik",
+    "name": "inkenai",
+    "handle": "@inkenai",
     "platform": "TikTok",
-    "avatar": "https://p19-common-sign.tiktokcdn-us.com/tos-useast2a-avt-0068-euttp/d65e8920e8d43ef2faa6c05d0fe80608~tplv-tiktokx-cropcenter:1080:1080.webp?dr=9640&refresh_token=cf2aff40&x-expires=1779951600&x-signature=wKLVt6fN%2FzVS5coNx8xIMMNv7uA%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=2472a6c6&idc=useast8",
-    "followers": 108285,
-    "avg_views": 95986,
+    "avatar": "https://p19-common-sign.tiktokcdn-us.com/tos-useast2a-avt-0068-euttp/0d7e4f492d8ae7407d70ef30310e559f~tplv-tiktokx-cropcenter:1080:1080.webp?dr=9640&refresh_token=adfb5156&x-expires=1779951600&x-signature=ErjN7B0vRFrEEzUPsD38ZOUXTcs%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=2472a6c6&idc=useast8",
+    "followers": 35656,
+    "avg_views": 2672,
     "region": "DE",
-    "desc": "Informatik 🧑🏻‍💻 | IT-Security 🔒🥷\n📩 Kooperation:\nhoodinformatik@gmail.com",
-    "profile_url": "https://www.tiktok.com/@hoodinformatik",
-    "primary": "专业领域",
+    "desc": "💚 Ich setze mich dafür ein, \ndass wir KI sicher gestalten. \n👩🏻‍💻Women in AI Safety Germany\n🎤Podcast Co-Host: Reboot Society\n💌 Keynote-Anfragen⬇️",
+    "profile_url": "https://www.tiktok.com/@inkenai",
+    "primary": "AI",
     "niches": [
-      "IT-Security",
-      "Cybersecurity",
-      "IT-Sicherheit"
+      "AI安全",
+      "AI伦理",
+      "AI创业"
     ],
-    "pitch": "一位专注于 IT 安全的博主，视频以安全资讯、工具测评和技术教程为主，常出现 Messenger、Linux 和 Python 等内容。",
-    "reason_raw": "The influencer's profile and posts align perfectly with the description of an AI coding content creator, featuring programming, IT security, and AI applications. Visuals like code snippets and computer interfaces are present, and the content is professional and focused.",
+    "pitch": "一位关注AI机遇与AI安全的女性AI博主，视频以探讨AI未来发展、安全与伦理为主，常出现对AI技术和未来趋势的观点输出。",
+    "reason_raw": "The influencer's content consistently focuses on AI, discussing its societal impact, future implications, and safety concerns, aligning perfectly with the description of an AI coding content creator. The visuals, though primarily featuring the speaker, often incorporate relevant graphics like charts and text overlays that relate to AI concepts.",
     "videos": [
       {
-        "title": "Whatsapp Backups brechen Ende zu Ende Verschlüsselung ?!  #informatik #messenger #whatsapp #itsicherheit #cybersecurity",
-        "views": 70942,
-        "duration": "69s",
+        "title": "Hast du schonmal mit Absicht einen Rechtschreibfehler in eine Email geschrieben, um menschlich zu wirken? #ki #künstlicheintelligenz #menschlich #zukunft ",
+        "views": 1013,
+        "duration": "52s",
+        "when": "2026-05-25",
+        "thumb": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast2a-p-0037-euttp/o8DPAWlKEL4OgIFFQUIGlDewgf8egghLGMoXSj~tplv-tiktokx-cropcenter-q:300:400:q70.jpeg?dr=9232&refresh_token=1add4e64&x-expires=1779865200&x-signature=1cpJrcOx%2BosNxP0oD8OF3VVDaYU%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=132edbea&idc=useast2b&item=7643782952303873313&biz_tag=tt_video&s=PUBLISH&sc=cover",
+        "url": "https://www.tiktok.com/@inkenai/video/7643782952303873313"
+      },
+      {
+        "title": "Es steht uns wahrscheinlich eine Wissensexplosion bevor, aber oft ist das so abstrakt, dass man gar nicht richtig weiß, was das bedeutet. Das Video ist der Versuch hier eine mögliche Auswirkung zu zeigen. #künstlicheintelligenz #wachstum #szenario #zukunft #gedankenspiel",
+        "views": 7463,
+        "duration": "94s",
         "when": "2026-05-24",
-        "thumb": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast2a-p-0037-euttp/oYrAiBAiuEA1AIAonaCCLeIVFGvFBvOBThK1lS~tplv-tiktokx-cropcenter-q:300:400:q70.jpeg?dr=9232&refresh_token=30cc5421&x-expires=1779865200&x-signature=%2BoOBslRhPfGRo8L4JW97I7eoKqg%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=132edbea&idc=useast2b&biz_tag=tt_video&s=PUBLISH&sc=cover&item=7643380514421755169",
-        "url": "https://www.tiktok.com/@hoodinformatik/video/7643380514421755169"
+        "thumb": "https://p19-common-sign.tiktokcdn-eu.com/tos-useast2a-p-0037-euttp/o0qzHmsExbIWEjlqATBQRNVFPfgCeJEmDDCBQd~tplv-tiktokx-cropcenter-q:300:400:q70.jpeg?dr=9232&refresh_token=8fbaae83&x-expires=1779865200&x-signature=C44Njf1dJAbmojs5KYfiSA7ejgc%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=132edbea&idc=useast2b&sc=cover&item=7643482839408807201&biz_tag=tt_video&s=PUBLISH",
+        "url": "https://www.tiktok.com/@inkenai/video/7643482839408807201"
       },
       {
-        "title": "Die CISA und ihre Klartext Passwörter... #informatik #cybersecurity #itsicherheit #news ",
-        "views": 83929,
-        "duration": "100s",
+        "title": "Würdest du deine KI für dich daten lassen? Hi, ich bin Inken, ich denke Dinge gerne weiter und setze mich dafür ein, dass wir KI sicher gestalten. Also eine KI für dich daten zu lassen bringt in meinen Augen nicht den Ertrag. Außer, du möchtest die KI daten, aber dann haben wir ein ganz anderes Problem. #daten #ki #zukunft ",
+        "views": 726,
+        "duration": "68s",
+        "when": "2026-05-23",
+        "thumb": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast2a-p-0037-euttp/oQEe4VREQDAfcQQiJqIQgMKNmBFzbvEDVLNb2k~tplv-tiktokx-cropcenter-q:300:400:q70.jpeg?dr=9232&refresh_token=618d6a75&x-expires=1779865200&x-signature=yV1I40df0Epa02B4kqY4ckKJ%2B1s%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=132edbea&idc=useast2b&sc=cover&item=7642994353861938465&biz_tag=tt_video&s=PUBLISH",
+        "url": "https://www.tiktok.com/@inkenai/video/7642994353861938465"
+      },
+      {
+        "title": "75% glauben, KI wird massenhaft Jobs vernichten. Nur 15% denken, dass ihr eigener Job gefährdet ist. Das zeigt eine Gallup-Studie und dahinter verbirgt sich der „Third Person Effect“ #ki #studie #kiundjobs ",
+        "views": 893,
+        "duration": "40s",
         "when": "2026-05-22",
-        "thumb": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast2a-p-0037-euttp/o8qgb4iEA8RKAQuIECFqAeADQ4mXAD9JfHEEO8~tplv-tiktokx-cropcenter-q:300:400:q70.jpeg?dr=9232&refresh_token=10e240a9&x-expires=1779865200&x-signature=7RXUs19R4%2F8EauGnWDK068HMMeU%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=132edbea&idc=useast2b&biz_tag=tt_video&s=PUBLISH&sc=cover&item=7642741156337503520",
-        "url": "https://www.tiktok.com/@hoodinformatik/video/7642741156337503520"
-      },
-      {
-        "title": "Ist Informatik nur programmieren ?! #informatik #programming #code #itsicherheit ",
-        "views": 46572,
-        "duration": "69s",
-        "when": "2026-05-22",
-        "thumb": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast2a-p-0037-euttp/osQAiEy2qDAKL3CeADCsA6bDFA1EmIfRUEjRPG~tplv-tiktokx-cropcenter-q:300:400:q70.jpeg?dr=9232&refresh_token=73b522a1&x-expires=1779865200&x-signature=bJwSa1ToYizCUV%2BSIgltfJilWg4%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=132edbea&idc=useast2b&biz_tag=tt_video&s=PUBLISH&sc=cover&item=7642376848369896736",
-        "url": "https://www.tiktok.com/@hoodinformatik/video/7642376848369896736"
-      },
-      {
-        "title": "Ist Self-Hosting wirklich besser ?! #informatik #itsicherheit #cybersecurity #homelab",
-        "views": 74568,
-        "duration": "104s",
-        "when": "2026-05-20",
-        "thumb": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast2a-p-0037-euttp/oIAcuptfRqEHAmDkCZDNcTFdAOGDQAfE9l1AIE~tplv-tiktokx-cropcenter-q:300:400:q70.jpeg?dr=9232&refresh_token=78296566&x-expires=1779865200&x-signature=6a9GpNxzQIHvyuFS18fGiRrVkC8%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=132edbea&idc=useast2b&biz_tag=tt_video&s=PUBLISH&sc=cover&item=7641998223850130720",
-        "url": "https://www.tiktok.com/@hoodinformatik/video/7641998223850130720"
+        "thumb": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast2a-p-0037-euttp/oIqEgtDjQgEOBoHEIqSgvDASFRFR2mfkeQaDTE~tplv-tiktokx-cropcenter-q:300:400:q70.jpeg?dr=9232&refresh_token=36987bcd&x-expires=1779865200&x-signature=gUUVh8wAp%2BoCReNIUx12NbeRmIU%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=132edbea&idc=useast2b&biz_tag=tt_video&s=PUBLISH&sc=cover&item=7642686126620151072",
+        "url": "https://www.tiktok.com/@inkenai/video/7642686126620151072"
       }
     ],
     "campaign": "先锋新闻 / TikTok",
     "status": "primary",
-    "why": "新闻短视频唯一正选：IT 安全/技术新闻类，108K 粉、均播约 96K，用于先锋新闻类短视频曝光。",
-    "score": 90.9,
+    "why": "新闻短视频唯一正选：德语；AI 未来、创业、安全/伦理议题，近期“知识爆炸”7.5K，比 IT 安全类更接近 AI builder 受众。",
+    "score": 76.4,
     "contact_status": "待确认档期",
     "slot_role": "正选"
+  },
+  {
+    "name": "Herr.Excel",
+    "handle": "@herr.excel",
+    "platform": "TikTok",
+    "avatar": "https://p19-common-sign.tiktokcdn-us.com/tos-useast2a-avt-0068-euttp/789e0f720cddcc2df8fb5d2bbaa71e64~tplv-tiktokx-cropcenter:1080:1080.webp?dr=9640&refresh_token=1dd289ec&x-expires=1779951600&x-signature=oqCfQqTVRtY32QZarjbSlKv9eH8%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=2472a6c6&idc=useast8",
+    "followers": 267110,
+    "avg_views": 23841,
+    "region": "DE",
+    "desc": "Instagram: Herr.Excel\nHier gehts zum Kurs, heute 50% reduziert!\n👇🏽",
+    "profile_url": "https://www.tiktok.com/@herr.excel",
+    "primary": null,
+    "niches": [],
+    "pitch": "",
+    "reason_raw": "The influencer's profile, visual content, and posts are highly relevant to AI coding, featuring tutorials on Excel functions, VBA, and AI in Excel, with visuals clearly displaying code snippets and software interfaces.",
+    "videos": [
+      {
+        "title": "Sequenz Funktion in Excel!  #excel #viral",
+        "views": 8540,
+        "duration": "39s",
+        "when": "2026-03-26",
+        "thumb": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast2a-p-0037-euttp/oElEd2o4fAIR4EviCBI0lmAOIiBziCPSohDIA5~tplv-tiktokx-dmt-logoccm:300:400:tos-useast2a-i-0068-euttp/o0BtEEaBiyDI3YAHAAdAQogEAiiPDciMp0ImH.jpeg?dr=9231&refresh_token=a21e5365&x-expires=1779865200&x-signature=bYRgMDMZtbsvz7tIeH8DS%2BOPK7g%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=132edbea&idc=useast2b&biz_tag=tt_video&s=PUBLISH&sc=cover&item=7621254248352779552",
+        "url": "https://www.tiktok.com/@herr.excel/video/7621254248352779552"
+      },
+      {
+        "title": "Anwesenheitsliste per VBA! #excel #büro #vba #fy #viral ",
+        "views": 17555,
+        "duration": "79s",
+        "when": "2026-03-17",
+        "thumb": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast2a-p-0037-euttp/ogI5IDDFRYeuAxDpKFKofIuZdGyECEZQmvWiB9~tplv-tiktokx-dmt-logoccm:300:400:tos-useast2a-i-0068-euttp/owdypJQufAIMfIFAADRplFCqxEDmFEATHWAQu3.jpeg?dr=9231&refresh_token=8f40c775&x-expires=1779865200&x-signature=XiMN9oJp8oH%2FfXCF8dqnkjoT8sk%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=132edbea&idc=useast2b&s=PUBLISH&sc=cover&item=7618228150249508128&biz_tag=tt_video",
+        "url": "https://www.tiktok.com/@herr.excel/video/7618228150249508128"
+      },
+      {
+        "title": "Ki in Excel? 🤯🤯🤯 Bringe deine Excel skills auf ein ganz neues Level! #excel #lernenmittiktok #ap1 #excelshortcuts #ki",
+        "views": 10226,
+        "duration": "59s",
+        "when": "2026-03-15",
+        "thumb": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast2a-p-0037-euttp/oUuDwKDuFUP6tv2PfRKcABzE5kSQQmEfQprAOE~tplv-tiktokx-dmt-logoccm:300:400:tos-useast2a-i-0068-euttp/ogQagAGAjelbAeGTLLLmeTv2Al2IPIAgMzXUFg.jpeg?dr=9231&refresh_token=8368589b&x-expires=1779865200&x-signature=t2oiYGhpA%2F22iZ0vkOn%2B5zia4Q4%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=132edbea&idc=useast2b&s=PUBLISH&sc=cover&item=7617483222875770145&biz_tag=tt_video",
+        "url": "https://www.tiktok.com/@herr.excel/video/7617483222875770145"
+      },
+      {
+        "title": "SVERWEIS in Excel!  Wusstest du, dass der Sverweis schon längst überholt ist? Es gibt deutlich effizientere Funktionen in Excel wie beispielsweise der XVerweis! Wenn du dich weiterbilden möchtest wenn es um Excel Formeln geht, dann schau auf den Link in meiner bio!  #lernenmittiktok #fyp #ap1 #excelshortcuts #excel ",
+        "views": 21486,
+        "duration": "89s",
+        "when": "2026-03-15",
+        "thumb": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast2a-p-0037-euttp/oMffZFJSAx0RpDkDQ4kDH2no2lEEtpSmQEB1QV~tplv-tiktokx-dmt-logoccm:300:400:tos-useast2a-i-0068-euttp/o4ibMvAEEgicgy1BCATkxaipBFA08WdACIaj0.jpeg?dr=9231&refresh_token=ad78f7c3&x-expires=1779865200&x-signature=ZXIuG%2FWBvB5rHBszNgiN8Ukv%2Fso%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=132edbea&idc=useast2b&biz_tag=tt_video&s=PUBLISH&sc=cover&item=7617156050298490145",
+        "url": "https://www.tiktok.com/@herr.excel/video/7617156050298490145"
+      }
+    ],
+    "campaign": "前端/办公自动化 / TikTok 替补",
+    "status": "backup",
+    "why": "德语且历史播放不错，但最近视频停在 3 月，时效性不足，降为替补。",
+    "score": 94.6,
+    "contact_status": "待确认档期",
+    "slot_role": "替补"
   },
   {
     "name": "Smarte Meta Ads + KI 🤖",
@@ -628,10 +687,187 @@
         "url": "https://www.tiktok.com/@dawid_przybylski/video/7643520567764684064"
       }
     ],
-    "campaign": "AI Cofounder / TikTok Builder替补",
+    "campaign": "AI Cofounder / TikTok 替补",
     "status": "backup",
-    "why": "Meta Ads + AI 营销/变现，适合 builder 获客/earn sooner 补位。",
+    "why": "德语；AI 营销/Claude 图片/自动化，适合 Earn sooner 或获客变现角度，但近期单条热度不够稳定。",
     "score": 79.2,
+    "contact_status": "待确认档期",
+    "slot_role": "替补"
+  },
+  {
+    "name": "MaxFröhlich",
+    "handle": "@max_froehlich",
+    "platform": "TikTok",
+    "avatar": "https://p19-common-sign.tiktokcdn-us.com/tos-maliva-avt-0068/e2bf4253fee60a21af779de3127ee59b~tplv-tiktokx-cropcenter:1080:1080.webp?dr=9640&refresh_token=335aa87a&x-expires=1779951600&x-signature=HRFKHk%2BqvWud8AW%2FC1zzKW7x9GE%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=2472a6c6&idc=useast8",
+    "followers": 9599,
+    "avg_views": 6155,
+    "region": "DE",
+    "desc": "AI einfach erklärt \nNeues Video jeden Di + Fr\n📍 Berlin\n📐 Mathe Doktorand",
+    "profile_url": "https://www.tiktok.com/@max_froehlich",
+    "primary": "AI",
+    "niches": [
+      "AI伦理",
+      "AI教育",
+      "AI谈判"
+    ],
+    "pitch": "一位来自柏林的数学博士生，以通俗易懂的方式讲解AI知识，视频内容聚焦AI谈判、AI教育、AI模型训练等前沿话题，常引用ChatGPT、Anthropic等AI产品和研究。",
+    "reason_raw": "The influencer's content and visual style are highly relevant to AI and coding, featuring explanations of AI applications and concepts with corresponding visuals. The profile clearly indicates a focus on explaining AI simply, aligning with the target description.",
+    "videos": [
+      {
+        "title": "Dieses Twitter Experiment sagt mehr über uns aus als wir im ersten Moment denken 🧐 🖼️  Folgt für mehr KI Content 🤖  Quellen: -https://www.nature.com/articles/s41598-024-54294-4 -https://www.nature.com/articles/s41598-023-45202-3 -https://www.pnas.org/doi/10.1073/pnas.0706929105 -https://twitter.com/cantworkitout/status/2054280631807316329 #ki #chatgpt #erklärt #twitter #wissen ",
+        "views": 1734,
+        "duration": "65s",
+        "when": "2026-05-24",
+        "thumb": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast2a-p-0037-euttp/osfnATcAuqWSIQEf1LRFwEgDC6AAEQRlr1mAAD~tplv-tiktokx-cropcenter-q:300:400:q70.jpeg?dr=9232&refresh_token=b569b697&x-expires=1779865200&x-signature=wP25cqm10F3UsG8pucOnPXoWpi8%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=132edbea&idc=useast2b&item=7643429780418874657&biz_tag=tt_video&s=PUBLISH&sc=cover",
+        "url": "https://www.tiktok.com/@max_froehlich/video/7643429780418874657"
+      },
+      {
+        "title": "Science-Fiction wird zum Real Life. Zumindest in China 🇨🇳 Dort kann man sich für schlappe 650.000$ den ersten bemannten Riesen-Roboter vorbestellen.  Ist mir die Frage für was man den als Privatperson braucht 🧐😅  Folgt für mehr KI Content 🤖  #ki #china #wissen #erklärt ",
+        "views": 1129,
+        "duration": "68s",
+        "when": "2026-05-22",
+        "thumb": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast2a-p-0037-euttp/owY5zGPwDQQtMgycAjFDmfR4nBfIq8DQEAQEEE~tplv-tiktokx-cropcenter-q:300:400:q70.jpeg?dr=9232&refresh_token=3c9d7250&x-expires=1779865200&x-signature=YGCMjPVz18tK1oiMJ1L4yoMuvP0%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=132edbea&idc=useast2b&item=7642722243209940257&biz_tag=tt_video&s=PUBLISH&sc=cover",
+        "url": "https://www.tiktok.com/@max_froehlich/video/7642722243209940257"
+      },
+      {
+        "title": "Ein einfacher Trick um KI Bilder zu enttarnen 🙌 Basiert auf Geometrie aus der 6. Klasse: Fluchtpunkte.  Aber Vorsicht, nur weil ein Bild diesen Test nicht besteht, heißt es nicht automatisch, dass es KI generiert ist. Genauso andersrum: Wenn es den Test besteht kann es trotzdem KI generiert sein.  Quelle: https://www.science.org/content/article/deepfakes-are-everywhere-godfather-digital-forensics-fighting-back #ki #bild #erklärt #wissen ",
+        "views": 1934,
+        "duration": "90s",
+        "when": "2026-05-20",
+        "thumb": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast2a-p-0037-euttp/oYJiLCAdITIzUCUcOfy2NIug1WNwZBIvBCioAB~tplv-tiktokx-cropcenter-q:300:400:q70.jpeg?dr=9232&refresh_token=9ea42c9a&x-expires=1779865200&x-signature=AxUPjiGH2%2Fdqsmvn4gC9lAyxfys%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=132edbea&idc=useast2b&biz_tag=tt_video&s=PUBLISH&sc=cover&item=7641976738196622624",
+        "url": "https://www.tiktok.com/@max_froehlich/video/7641976738196622624"
+      },
+      {
+        "title": "CEOs feuern Tausende wegen KI und zerstören damit ihr eigenes Geschäftsmodell. Das Paradox heißt „AI Layoff Trap\" und ein Forscherteam aus Wharton hat es gerade in einer Studie gezeigt: Selbst wenn jeder CEO den Abgrund sieht, kann keiner bremsen. Klassisches Gefangenendilemma. 🔥 Quellen: -Falk & Tsoukalas (2026): „The AI Layoff Trap\", Wharton/Boston University – https://arxiv.org/abs/2603.20617 -CNN Business: Block lays off nearly half its staff because of AI (Feb 2026) – https://www.cnn.com/2026/02/26/business/block-layoffs-ai-jack-dorsey -Fortune: Salesforce CEO cuts 4,000 customer service roles (Sep 2025) – https://fortune.com/2025/09/02/salesforce-ceo-billionaire-marc-benioff-ai-agents-jobs-layoffs-customer-service-sales/ #ki #erklärt #wissen",
+        "views": 8357,
+        "duration": "83s",
+        "when": "2026-05-19",
+        "thumb": "https://p16-common-sign.tiktokcdn-eu.com/tos-no1a-p-0037-no/oAk1fHPV8EZuCKtFipZgQTB9iZfAACbADIO7A1~tplv-tiktokx-cropcenter-q:300:400:q70.jpeg?dr=9232&refresh_token=3a7246eb&x-expires=1779865200&x-signature=HebJ6b7FRHAFYAKSla%2BFkpJEhvA%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=132edbea&idc=useast2b&sc=cover&biz_tag=tt_video&s=PUBLISH",
+        "url": "https://www.tiktok.com/@max_froehlich/video/7636743499714415875"
+      }
+    ],
+    "status": "backup",
+    "campaign": "先锋新闻 / TikTok 替补",
+    "why": "德语；AI 观点/教育/AI layoff trap，适合新闻短视频替补，但最近 3 条热度一般。",
+    "score": 0,
+    "contact_status": "待确认档期",
+    "slot_role": "替补"
+  },
+  {
+    "name": "sven_schnurr",
+    "handle": "@sven_schnurr",
+    "platform": "TikTok",
+    "avatar": "https://p19-common-sign.tiktokcdn-us.com/tos-maliva-avt-0068/be840eaad6b6f7e5f35e4352e4f899c3~tplv-tiktokx-cropcenter:1080:1080.webp?dr=9640&refresh_token=8eee7cb2&x-expires=1779951600&x-signature=XDKxk7y%2FWehcxGsMDiAG8wcOK8Y%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=2472a6c6&idc=useast8",
+    "followers": 41361,
+    "avg_views": 2933,
+    "region": "DE",
+    "desc": "Folge mir & gehöre zu den Top 1% Kl Nutzern 🔥",
+    "profile_url": "https://www.tiktok.com/@sven_schnurr",
+    "primary": "AI",
+    "niches": [
+      "AI工具",
+      "Prompt Engineering",
+      "AI软件评测"
+    ],
+    "pitch": "一位青年男性AI博主，分享AI工具和Prompt技巧，视频以AI软件评测和使用教程为主，常出现ChatGPT和Google等AI产品。",
+    "reason_raw": "The influencer's content directly aligns with AI coding, featuring tutorials on website creation with AI, ChatGPT prompts, and AI tools. The visual style includes interfaces and the creator presenting the information, fitting the description of code snippets and computer interfaces.",
+    "videos": [
+      {
+        "title": "Ad | Schau dir das Ergebnis am Ende an 🤯   #fyp #viral #emergent ",
+        "views": 4498,
+        "duration": "49s",
+        "when": "2026-05-07",
+        "thumb": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast2a-p-0037-euttp/oIF7AeRegFHAhI3AITED34f2QA8EguB0GM2Paj~tplv-tiktokx-cropcenter-q:300:400:q70.jpeg?dr=9232&refresh_token=848f6aee&x-expires=1779865200&x-signature=yLiWY%2F%2FAUfgVx57LE1PG%2B2KwRck%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=132edbea&idc=useast2b&sc=cover&item=7636833426972134689&biz_tag=tt_video&s=PUBLISH",
+        "url": "https://www.tiktok.com/@sven_schnurr/video/7636833426972134689"
+      },
+      {
+        "title": "ChatGPT Prompt für emotionale Instagram-Captions mit Storytelling #chatgpt #prompt #aihack",
+        "views": 3345,
+        "duration": "42s",
+        "when": "2026-04-26",
+        "thumb": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast2a-p-4864-euttp/oI5z0BIymBBioMC9E3bYAdUsnziwAeIihmXuvZ~tplv-tiktokx-cropcenter-q:300:400:q70.jpeg?dr=9232&refresh_token=64caf249&x-expires=1779865200&x-signature=wmXgeDK%2BaI4mj2ubz1HQiC391LQ%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=132edbea&idc=useast2b&biz_tag=tt_video&s=PUBLISH&sc=cover",
+        "url": "https://www.tiktok.com/@sven_schnurr/video/7632729497694915873"
+      },
+      {
+        "title": "Ad | Es war noch nie so einfach ein Online Business aufzubauen 🚀 #ki #fyp #emergent ",
+        "views": 956,
+        "duration": "47s",
+        "when": "2026-04-25",
+        "thumb": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast2a-p-0037-euttp/oo4smcoIibBA9zMigvAwb0BOzmwBICCDIu3DfT~tplv-tiktokx-cropcenter-q:300:400:q70.jpeg?dr=9232&refresh_token=7e3cbf5e&x-expires=1779865200&x-signature=QpfAUf1Op96AUC0p3dUPwfNM7xk%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=132edbea&idc=useast2b&item=7632483551765663009&biz_tag=tt_video&s=PUBLISH&sc=cover",
+        "url": "https://www.tiktok.com/@sven_schnurr/video/7632483551765663009"
+      },
+      {
+        "title": "Diese 3 Apps machen 200€ Video-Software kostenlos überflüssig! 🤯 #aitools #fyp #viral",
+        "views": 674,
+        "duration": "54s",
+        "when": "2026-04-24",
+        "thumb": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast2a-p-4864-euttp/ok76mElIDdddkBRgQEf3ExBGRFbRMpDwp5eBsq~tplv-tiktokx-cropcenter-q:300:400:q70.jpeg?dr=9232&refresh_token=b708f343&x-expires=1779865200&x-signature=C5uS5yuS42c79vJH9f3hZQzsXtM%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=132edbea&idc=useast2b&biz_tag=tt_video&s=PUBLISH&sc=cover",
+        "url": "https://www.tiktok.com/@sven_schnurr/video/7631991099115965728"
+      }
+    ],
+    "status": "backup",
+    "campaign": "短视频替补",
+    "why": "德语短视频替补候选。",
+    "score": 0,
+    "contact_status": "待确认档期",
+    "slot_role": "替补"
+  },
+  {
+    "name": "Akademie für KI",
+    "handle": "@akademie4ki",
+    "platform": "TikTok",
+    "avatar": "https://p19-common-sign.tiktokcdn-us.com/tos-maliva-avt-0068/eff297c90eee17263b94c8e2f096c1ff~tplv-tiktokx-cropcenter:1080:1080.webp?dr=9640&refresh_token=4a41c25b&x-expires=1779951600&x-signature=P1gQ9lFueZzBxRE7XRio1cuqhKk%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=2472a6c6&idc=useast8",
+    "followers": 21434,
+    "avg_views": 2105,
+    "region": "DE",
+    "desc": "KI verstehen & anwenden \n🎓 ZFU-zertifiziert · 100k+ auf YouTube\n👇 Werde KI-Experte",
+    "profile_url": "https://www.tiktok.com/@akademie4ki",
+    "primary": "AI",
+    "niches": [
+      "AI工具评测",
+      "AI应用技巧",
+      "AI知识科普"
+    ],
+    "pitch": "一位来自德国的青年男性AI博主，视频内容以AI工具评测和应用技巧分享为主，常出现ChatGPT、Gemini等AI产品。",
+    "reason_raw": "The influencer's content and visuals directly align with the description of an AI coding content creator, featuring discussions on AI tools, programming, and software development insights. Visuals include the influencer presenting AI-related topics, which is consistent with the expected content.",
+    "videos": [
+      {
+        "title": "KI-Experte bewertet KI-Tools 🤖 #künstlicheintelligenz #kitools #chagpt #gemini #nanobanana",
+        "views": 5444,
+        "duration": "54s",
+        "when": "2026-05-22",
+        "thumb": "https://p16-common-sign.tiktokcdn-eu.com/tos-no1a-p-4864-no/owE0HfvlDFwqFZSwLgEpF6QeEBkQw0tgzwBsPE~tplv-tiktokx-cropcenter-q:300:400:q70.jpeg?dr=9232&refresh_token=fa2174a6&x-expires=1779865200&x-signature=ErlsF4hHFJZQF9lnmZUz6wPhYbA%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=132edbea&idc=useast2b&biz_tag=tt_video&s=PUBLISH&sc=cover",
+        "url": "https://www.tiktok.com/@akademie4ki/video/7642700784135703830"
+      },
+      {
+        "title": "ChatGPT, bitte merke dir den Code! 🫠 #chatgpt #künstlicheintelligenz #ki",
+        "views": 3516,
+        "duration": "92s",
+        "when": "2026-05-20",
+        "thumb": "https://p16-common-sign.tiktokcdn-eu.com/tos-no1a-p-4864-no/oUdhQeXKIeINccbNLFMJQtG7DZUAxDMge4Qu8a~tplv-tiktokx-cropcenter-q:300:400:q70.jpeg?dr=9232&refresh_token=ac2fb3e3&x-expires=1779865200&x-signature=DKDstdFiwQct62rMsW95cKgOaV4%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=132edbea&idc=useast2b&biz_tag=tt_video&s=PUBLISH&sc=cover",
+        "url": "https://www.tiktok.com/@akademie4ki/video/7641981591006301462"
+      },
+      {
+        "title": "Die besten KI-Tools für Bilderstellung 🚀 #künstlicheintelligenz #chatgpt #canva #nanobanana #gemini",
+        "views": 1509,
+        "duration": "65s",
+        "when": "2026-05-18",
+        "thumb": "https://p16-common-sign.tiktokcdn-eu.com/tos-no1a-p-4864-no/oUGaLreUJifkULeguqvDJbIkIFQLIQ2AD5wRGH~tplv-tiktokx-cropcenter-q:300:400:q70.jpeg?dr=9232&refresh_token=cdd13343&x-expires=1779865200&x-signature=qAcgTWHxPza3%2BkqIoeYoPSZO20o%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=132edbea&idc=useast2b&biz_tag=tt_video&s=PUBLISH&sc=cover",
+        "url": "https://www.tiktok.com/@akademie4ki/video/7641239283843583254"
+      },
+      {
+        "title": "Das beste KI-Tool für jeden Anwendungsbereich 🚀 #künstlicheintelligenz #chatgpt #claude",
+        "views": 2550,
+        "duration": "62s",
+        "when": "2026-05-16",
+        "thumb": "https://p16-common-sign.tiktokcdn-eu.com/tos-no1a-p-4864-no/oIkQDPcvUQI7g6LjfDEFIIeEQiDIL6J1nAf28z~tplv-tiktokx-cropcenter-q:300:400:q70.jpeg?dr=9232&refresh_token=a634bf35&x-expires=1779865200&x-signature=P%2BWjPnMhjAYgOt7aESWLaie2N6E%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=132edbea&idc=useast2b&biz_tag=tt_video&s=PUBLISH&sc=cover",
+        "url": "https://www.tiktok.com/@akademie4ki/video/7640497237650541847"
+      }
+    ],
+    "status": "backup",
+    "campaign": "AI工具教程 / TikTok 替补",
+    "why": "德语；近期 5.4K/3.5K/1.5K，AI 工具评测稳定，可替补短视频工具教程位。",
+    "score": 0,
     "contact_status": "待确认档期",
     "slot_role": "替补"
   },
@@ -687,128 +923,127 @@
         "url": "https://www.tiktok.com/@michael.truch/video/7642742085912907041"
       }
     ],
-    "campaign": "AI Coding / TikTok Builder 替补",
+    "campaign": "AI Coding / TikTok 替补",
     "status": "backup",
-    "why": "AI agents/software development/marketing 综合，可替补 AI Coding 短视频或 AI Cofounder 概念。",
+    "why": "德语；Claude/GitHub/AI agent 话题很相关，但近期播放多在 1K–3K，先做替补。",
     "score": 75.9,
     "contact_status": "待确认档期",
     "slot_role": "替补"
   },
   {
-    "name": "TechSnack",
-    "handle": "@techfeed5",
+    "name": "Programmierlehrer Frederik",
+    "handle": "@frederikdiekmann",
     "platform": "TikTok",
-    "avatar": "https://p19-common-sign.tiktokcdn-us.com/tos-useast2a-avt-0068-euttp/d6139cab9e9c6fd6462eb4279d090a29~tplv-tiktokx-cropcenter:1080:1080.webp?dr=9640&refresh_token=f8466796&x-expires=1779951600&x-signature=kIcbvhdTqfmEvKylBKc7Zb3XsmI%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=2472a6c6&idc=useast8",
-    "followers": 14066,
-    "avg_views": 4637,
+    "avatar": "https://p19-common-sign.tiktokcdn-us.com/tos-useast2a-avt-0068-euttp/61853ec070d52d679283ae1231fa8bcb~tplv-tiktokx-cropcenter:1080:1080.webp?dr=9640&refresh_token=1d392998&x-expires=1779951600&x-signature=QvkXZrFJCbuaKDAL0u%2F1sECxYbs%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=2472a6c6&idc=useast8",
+    "followers": 72307,
+    "avg_views": 1568,
     "region": "DE",
-    "desc": "👨🏻‍💻AI - Umsetzung statt Theorie\n🤝🏻Berater | Creator",
-    "profile_url": "https://www.tiktok.com/@techfeed5",
-    "primary": "AI",
+    "desc": "👨‍💻 Softwareentwickler und Programmierlehrer\nLerne hier Programmieren 👇",
+    "profile_url": "https://www.tiktok.com/@frederikdiekmann",
+    "primary": "专业领域",
     "niches": [
-      "AI for business",
-      "AI productivity tools",
-      "Claude AI features"
+      "编程教学",
+      "JavaScript",
+      "AI"
     ],
-    "pitch": "中年男性AI博主，分享Claude等AI工具在编程、设计和商业领域的应用，视频以工具介绍和功能展示为主。",
-    "reason_raw": "The influencer's profile and posts align perfectly with the AI coding content creator description, featuring programming, AI applications, and software development insights, with visuals including code snippets and computer interfaces.",
+    "pitch": "一位年轻的白人男性软件开发者和编程老师，视频以幽默讲解编程知识为主，常出现代码、AI 和编程梗图。",
+    "reason_raw": "The influencer's profile and posts clearly indicate a focus on programming, AI, and software development, aligning perfectly with the target description. The visuals, featuring code-related content like CAPTCHAs and discussions about app development, are directly relevant.",
     "videos": [
       {
-        "title": "AI wird viel teurer, weil wir mehr verbrauchen und die Abrechnung umgestellt wird. Da stellt sich die Frage, sind Menschen günstiger als KI Modelle. #microsoft #ki #token #programmieren #informatik",
-        "views": 1332,
-        "duration": "68s",
+        "title": "Kommentiere PROMPTS für die Liste der Prompts #ki #informatik #programmieren ",
+        "views": 349,
+        "duration": "66s",
+        "when": "2026-05-26",
+        "thumb": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast2a-p-0037-euttp/o4SgQGmDqBE5tfNFEZ1I3AQnEDbpfFcQYRQJAn~tplv-tiktokx-cropcenter-q:300:400:q70.jpeg?dr=9232&refresh_token=107a9d95&x-expires=1779865200&x-signature=v7HZnZpV7U1%2FcDnoCJ7jpM69zHQ%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=132edbea&idc=useast2b&s=PUBLISH&sc=cover&item=7643884291256110369&biz_tag=tt_video",
+        "url": "https://www.tiktok.com/@frederikdiekmann/video/7643884291256110369"
+      },
+      {
+        "title": "Sehr sinnvolles Captcha #programmieren #ki #informatik ",
+        "views": 1325,
+        "duration": "67s",
         "when": "2026-05-25",
-        "thumb": "https://p19-common-sign.tiktokcdn-eu.com/tos-useast2a-p-0037-euttp/osHUS2D6EFAcIBBEkBEmPKEHDqyPfRlTqfUQQ6~tplv-tiktokx-dmt-logoccm:300:400:tos-useast2a-i-0068-euttp/o4IB1CAy8jhZCBn1hNSBcLAAiATUTwAEtofiIK.jpeg?dr=9231&refresh_token=74b01ed8&x-expires=1779865200&x-signature=HyTAniQxH57zdVaQFMSzfaz%2F42o%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=132edbea&idc=useast2b&biz_tag=tt_video&s=PUBLISH&sc=cover&item=7643498355095555360",
-        "url": "https://www.tiktok.com/@techfeed5/video/7643498355095555360"
+        "thumb": "https://p19-common-sign.tiktokcdn-eu.com/tos-useast2a-p-0037-euttp/oQfRIE4wU1xKAeWTYPBCQITTQBFkDqA0EsDmSE~tplv-tiktokx-cropcenter-q:300:400:q70.jpeg?dr=9232&refresh_token=021cb07f&x-expires=1779865200&x-signature=Kt5dZnXNsSo0qBfOYWDhrE8fb40%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=132edbea&idc=useast2b&biz_tag=tt_video&s=PUBLISH&sc=cover&item=7643539015215500577",
+        "url": "https://www.tiktok.com/@frederikdiekmann/video/7643539015215500577"
       },
       {
-        "title": "Cursor schafft es für wenig Geld Task an die KI zu geben. In einer Zeit in der die AI Kosten steigen, kann das ein Game changer werden. #ai #cursor #agent #coding ",
-        "views": 8093,
-        "duration": "30s",
-        "when": "2026-05-22",
-        "thumb": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast2a-p-0037-euttp/oMIRSmqAGSp0FhrQDDEUUEF0aIBBhQfeEZElOL~tplv-tiktokx-dmt-logoccm:300:400:tos-useast2a-i-0068-euttp/oYQGKYoAZAb2ff6gMNIveQXAIAAKnA8fQyRA6V.jpeg?dr=9231&refresh_token=99cd2a91&x-expires=1779865200&x-signature=TwzTaQN7ZvEhn3xTb2nhVjCtvJc%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=132edbea&idc=useast2b&sc=cover&item=7642719252528549152&biz_tag=tt_video&s=PUBLISH",
-        "url": "https://www.tiktok.com/@techfeed5/video/7642719252528549152"
+        "title": "So würde ich vorgehen, wenn ich eine App entwickle. Kommentiere PROMPTS und ich schick dir die prompts #programmieren #ki #informatik ",
+        "views": 627,
+        "duration": "78s",
+        "when": "2026-05-24",
+        "thumb": "https://p19-common-sign.tiktokcdn-eu.com/tos-useast2a-p-0037-euttp/oMQIjFUtfD6yGPD0QfbBjMGgEUeAuI0XygjAjR~tplv-tiktokx-cropcenter-q:300:400:q70.jpeg?dr=9232&refresh_token=7d48f0b2&x-expires=1779865200&x-signature=WxNAs2zqb3N6sbKPgbt2UZrX12M%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=132edbea&idc=useast2b&biz_tag=tt_video&s=PUBLISH&sc=cover&item=7643163925294353697",
+        "url": "https://www.tiktok.com/@frederikdiekmann/video/7643163925294353697"
       },
       {
-        "title": "95% der Nutzer brauchen Basic Applikationen und daher nicht das top Model. Das spart massiv tokens und damit bares in der KI Entwicklung. GPT 5.4 XHigh reicht für alles aus. #openai #codex #informatik #programmieren #ai",
-        "views": 1191,
-        "duration": "58s",
-        "when": "2026-05-22",
-        "thumb": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast2a-p-0037-euttp/oofmAA0zCABidq2EBIsQw6AGAHGo51q5BCIQi0~tplv-tiktokx-dmt-logoccm:300:400:tos-useast2a-i-0068-euttp/ocfQQwOEAXRgAIDEQCFqAAADQzmhADm5fAEEo1.jpeg?dr=9231&refresh_token=ae34acb0&x-expires=1779865200&x-signature=rBd3z%2FSSdtjdObuYrn5oUiI4Rnk%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=132edbea&idc=useast2b&biz_tag=tt_video&s=PUBLISH&sc=cover&item=7642612465271967008",
-        "url": "https://www.tiktok.com/@techfeed5/video/7642612465271967008"
-      },
-      {
-        "title": "Karpathy geht zu Anthropic!  #ai #ki #anthropic #agents ",
-        "views": 1824,
-        "duration": "63s",
-        "when": "2026-05-20",
-        "thumb": "https://p19-common-sign.tiktokcdn-eu.com/tos-useast2a-p-0037-euttp/oAEsCjEQmcAFUEapEvRnfDfUWYDaDByIABmqtN~tplv-tiktokx-dmt-logoccm:300:400:tos-useast2a-i-0068-euttp/oMADvZqYATRNEqTEFaAA5IQDbQsmDABCCRfeNm.jpeg?dr=9231&refresh_token=a8a933e5&x-expires=1779865200&x-signature=2FpBOILa5DVMbGUIRZItwsHuu0o%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=132edbea&idc=useast2b&biz_tag=tt_video&s=PUBLISH&sc=cover&item=7641947107292663072",
-        "url": "https://www.tiktok.com/@techfeed5/video/7641947107292663072"
+        "title": "So ist das manchmal mit dem Code #programmieren #ki #informatik ",
+        "views": 1260,
+        "duration": "64s",
+        "when": "2026-05-23",
+        "thumb": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast2a-p-0037-euttp/o8jiqCAbI5IzUsTayfx6QIFs1lDtiBNUCDioAB~tplv-tiktokx-cropcenter-q:300:400:q70.jpeg?dr=9232&refresh_token=ad32d783&x-expires=1779865200&x-signature=AV0yDQc1TzSwAI1nc8clIGcGJaU%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=132edbea&idc=useast2b&biz_tag=tt_video&s=PUBLISH&sc=cover&item=7642809008696446241",
+        "url": "https://www.tiktok.com/@frederikdiekmann/video/7642809008696446241"
       }
     ],
-    "campaign": "AI Coding / TikTok Builder 替补",
+    "campaign": "AI Coding / TikTok 替补",
     "status": "backup",
-    "why": "Claude/Cursor/AI business 工具短视频，相关度高，可替补 AI Coding 短视频位。",
-    "score": 74.9,
+    "why": "德语；编程老师+AI/JS，相关度可以，但近期播放多数低于 1.5K，降为替补。",
+    "score": 77.3,
     "contact_status": "待确认档期",
     "slot_role": "替补"
   },
   {
-    "name": "Nader Ait-Laouad",
-    "handle": "@nader.aitlaouad",
+    "name": "Mustafan",
+    "handle": "@tonymagi19",
     "platform": "TikTok",
-    "avatar": "https://p19-common-sign.tiktokcdn-us.com/tos-useast2a-avt-0068-euttp/c06bec8bf4608e936ac63b879153ed11~tplv-tiktokx-cropcenter:1080:1080.webp?dr=9640&refresh_token=2287deac&x-expires=1779951600&x-signature=QqRMbOO52jBrnwyG%2FY7xGw%2B1DTo%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=2472a6c6&idc=useast8",
-    "followers": 2753,
-    "avg_views": 3249,
+    "avatar": "https://p16-common-sign.tiktokcdn-us.com/tos-useast8-avt-0068-tx2/54821f9030e3390abda6cb9b6a809bf4~tplv-tiktokx-cropcenter:1080:1080.webp?dr=9640&refresh_token=1bf54d17&x-expires=1779951600&x-signature=DbsllTWo8Po03Qo2OmBgnHZs1f4%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=2472a6c6&idc=useast8",
+    "followers": 70891,
+    "avg_views": 875,
     "region": "DE",
-    "desc": "AI Agent Workshop:\nhttp://www.patreon.com/cryptobiz/collections",
-    "profile_url": "https://www.tiktok.com/@nader.aitlaouad",
-    "primary": "AI",
+    "desc": "⭐️⭐️⭐️\nDanke fürs Zuschauen!",
+    "profile_url": "https://www.tiktok.com/@tonymagi19",
+    "primary": "专业领域",
     "niches": [
-      "AI Agent Workshop",
-      "AI Game",
-      "AI Business"
+      "编程学习",
+      "IT技巧"
     ],
-    "pitch": "一位专注于AI Agent的青年男性博主，视频以AI Agent的开发、应用和商业化为主，常出现ChatGPT、Claude等AI工具和AI Agent Workshop等内容。",
-    "reason_raw": "The influencer's content consistently focuses on AI agents, programming, and artificial intelligence applications, aligning perfectly with the description. The visual elements, such as code snippets and computer interfaces, and the use of German language in the posts further reinforce this match.",
+    "pitch": "一位年轻的亚裔男性程序员博主，视频以编程学习技巧分享为主，常出现电脑屏幕和代码。",
+    "reason_raw": "The influencer's content is highly relevant to AI coding, featuring programming tutorials and software development insights as indicated by the video titles like 'Bachelor Informatik' and discussions on laptop specifications relevant to coding. The visual style, including computer interfaces and professional presentations, aligns with the description of an AI coding content creator.",
     "videos": [
       {
-        "title": "#aiagent #claude #ki #künstlicheintelligenz #enterpreneur ",
-        "views": 2023,
-        "duration": "30s",
-        "when": "2026-05-16",
-        "thumb": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast2a-p-0037-euttp/oUKzJ0C6IE9f1MzDFUqEIDsBCIoXmXcfQA8FUR~tplv-tiktokx-cropcenter-q:300:400:q70.jpeg?dr=9232&refresh_token=0169174c&x-expires=1779865200&x-signature=HPUz9NnfC7NVcvbRJtlkdKgXJJc%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=132edbea&idc=useast2b&biz_tag=tt_video&s=PUBLISH&sc=cover&item=7640447779277425953",
-        "url": "https://www.tiktok.com/@nader.aitlaouad/video/7640447779277425953"
+        "title": "Bachelor Informatik ALLES, was du VORHER wissen musst -Teil 2 #viral #viralvideos #it #foryoupage #programmieren ",
+        "views": 1248,
+        "duration": "83s",
+        "when": "2026-05-25",
+        "thumb": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast8-p-0068-tx2/oopM0GKLQAqjfPBIpIZIU706tIEjAeLlUUCE0e~tplv-tiktokx-cropcenter-q:300:400:q70.jpeg?dr=9232&refresh_token=0d7e685c&x-expires=1779865200&x-signature=uZvAFB%2FYgW5y7JwG7o7dSSwejdM%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=132edbea&idc=useast2b&biz_tag=tt_video&s=PUBLISH&sc=cover",
+        "url": "https://www.tiktok.com/@tonymagi19/video/7643847209271741727"
       },
       {
-        "title": "#ki #ai #aiagent #aigame ",
-        "views": 3772,
-        "duration": "36s",
-        "when": "2026-05-01",
-        "thumb": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast2a-p-0037-euttp/okQjeIQpHnZeD0MDDg8OXNAMCgIIQTfpGQ6TCI~tplv-tiktokx-cropcenter-q:300:400:q70.jpeg?dr=9232&refresh_token=b04eab18&x-expires=1779865200&x-signature=SlpuwQeV%2BkizNNKm141auQeZDNk%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=132edbea&idc=useast2b&biz_tag=tt_video&s=PUBLISH&sc=cover&item=7634872956312636704",
-        "url": "https://www.tiktok.com/@nader.aitlaouad/video/7634872956312636704"
+        "title": "Bachelor Informatik ALLES, was du VORHER wissen musst -Teil 1 #viral #viralvideos #it #foryoupage #programmieren ",
+        "views": 10498,
+        "duration": "99s",
+        "when": "2026-05-25",
+        "thumb": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast8-p-0068-tx2/oYAhEBowUhBU6lwaX9IViAiZRPREEdG6HiAMB~tplv-tiktokx-cropcenter-q:300:400:q70.jpeg?dr=9232&refresh_token=77fcae03&x-expires=1779865200&x-signature=6l8VnJMppVAVMX%2BAHMYzPzUlROE%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=132edbea&idc=useast2b&biz_tag=tt_video&s=PUBLISH&sc=cover",
+        "url": "https://www.tiktok.com/@tonymagi19/video/7643846646912027935"
       },
       {
-        "title": "#aiagent #ki #business #ai #chatgpt ",
-        "views": 2025,
-        "duration": "214s",
-        "when": "2026-04-25",
-        "thumb": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast2a-p-0037-euttp/ossqvc0ERIyANmUferEBCGDp4JgFEDXLBQnCs7~tplv-tiktokx-cropcenter-q:300:400:q70.jpeg?dr=9232&refresh_token=ffc60da5&x-expires=1779865200&x-signature=G1rc5wBCQFcVP7zVMg5gbQZgpe4%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=132edbea&idc=useast2b&biz_tag=tt_video&s=PUBLISH&sc=cover&item=7632669864901037345",
-        "url": "https://www.tiktok.com/@nader.aitlaouad/video/7632669864901037345"
+        "title": "Was bedeuten die Zahlen eines Laptop wirklich?-Teil 8 #viral #viralvideos #it #foryoupage #programmieren ",
+        "views": 1058,
+        "duration": "66s",
+        "when": "2026-05-21",
+        "thumb": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast8-p-0068-tx2/oQEkIVFftJOEGJERt3DqYAFr8FnDI0AEA9eKOB~tplv-tiktokx-cropcenter-q:300:400:q70.jpeg?dr=9232&refresh_token=52a1fb85&x-expires=1779865200&x-signature=AIbsLSwhNByz86XjXD10smOUg5g%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=132edbea&idc=useast2b&biz_tag=tt_video&s=PUBLISH&sc=cover",
+        "url": "https://www.tiktok.com/@tonymagi19/video/7642288079822179615"
       },
       {
-        "title": "#ai #ki #claude #gpt #aiagent",
-        "views": 2791,
-        "duration": "71s",
-        "when": "2026-04-23",
-        "thumb": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast2a-p-0037-euttp/o0AQGI0TMIPGcjNQXiqeDLO1fGGb3HQl9Wznfg~tplv-tiktokx-cropcenter-q:300:400:q70.jpeg?dr=9232&refresh_token=6dfc4331&x-expires=1779865200&x-signature=rTEbhcQ91XU7HG5Wo1k%2BQgJg%2FyA%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=132edbea&idc=useast2b&item=7631977660851277088&biz_tag=tt_video&s=PUBLISH&sc=cover",
-        "url": "https://www.tiktok.com/@nader.aitlaouad/video/7631977660851277088"
+        "title": "Was bedeuten die Zahlen eines Laptop wirklich? -Teil 7 #viral #viralvideos #it #foryoupage #programmieren ",
+        "views": 541,
+        "duration": "90s",
+        "when": "2026-05-21",
+        "thumb": "https://p19-common-sign.tiktokcdn-eu.com/tos-useast8-p-0068-tx2/o8cEcYFDIEDCKqAA3MUAfjEfqOIwR6xEViiszB~tplv-tiktokx-cropcenter-q:300:400:q70.jpeg?dr=9232&refresh_token=ecb89636&x-expires=1779865200&x-signature=Wh%2Be%2BdvmoB9WqlmE2Gkjs%2B2%2FEJ8%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=132edbea&idc=useast2b&biz_tag=tt_video&s=PUBLISH&sc=cover",
+        "url": "https://www.tiktok.com/@tonymagi19/video/7642272254637657374"
       }
     ],
-    "campaign": "AI Coding / TikTok Builder 替补",
     "status": "backup",
-    "why": "AI Agent Workshop/Claude/AI business 内容垂直，粉丝小但相关度高。",
-    "score": 68.1,
+    "campaign": "编程学习 / TikTok 替补",
+    "why": "德语；近期有 10K 的 Informatik 学习内容，偏编程基础，可替补 AI Coding 短视频但 AI 相关度较弱。",
+    "score": 0,
     "contact_status": "待确认档期",
     "slot_role": "替补"
   },
@@ -864,7 +1099,7 @@
     ],
     "status": "backup",
     "campaign": "AI Coding / YouTube Builder 替补",
-    "why": "大体量前工程师/dev 受众，可替补 AI Coding 长视频位，但近期内容不如前三个聚焦。",
+    "why": "大体量前工程师/dev 受众，但近期内容不如前三个聚焦。",
     "score": 89.5,
     "contact_status": "待确认档期",
     "slot_role": "替补"
@@ -927,116 +1162,116 @@
     "slot_role": "替补"
   },
   {
-    "name": "Fabian Rappert | Data Science Institute",
-    "handle": "@datascience.institute",
+    "name": "Toomarte",
+    "handle": "@Toomarte",
     "platform": "YouTube",
-    "avatar": "https://yt3.googleusercontent.com/CqqhWmKuiQnJho5zoHlillz6Jf29muM0ivF8KAjopaROG3i3NnGEQ7hkM3zEQzcE9x83UBkcqw=s160-c-k-c0x00ffffff-no-rj",
-    "followers": 64500,
-    "avg_views": 15992,
+    "avatar": "https://yt3.googleusercontent.com/0kUcbgk6ajYjMpyMyutcpYgyuge8dxM4FaicTfKZrOSDPTJ4Mcx-1mLYWt-8Vbqmg2nnjUCOx60=s160-c-k-c0x00ffffff-no-rj",
+    "followers": 5660,
+    "avg_views": 22100,
     "region": "DE",
-    "desc": "Vereinbare jetzt dein kostenloses Beratungsgespräch:  https://data-science-institute.de  Du willst einen gut bezahlten Job in der IT finden? Auf unserem Kanal erfährst du, wie du als Quereinsteiger wertvolle Fähigkeiten erlernen kannst und deine Berufseinstieg in die IT schaffst.",
-    "profile_url": "https://www.youtube.com/@datascience.institute",
-    "primary": "AI Coding / YouTube",
+    "desc": "Ich mag Gurken  Für geschäftliche Anfragen: toomarte.business@gmail.com  ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬  Impressum: Angaben gemäß § 5 DDG  Toomarte c/o IP-Management #4788  Ludwig-Erhard-Str. 18 20459 Hamburg  E-Mail: toomarte.business@gmail.com Kontakt Formular: https://forms.gle/RtpRQY2y",
+    "profile_url": "https://www.youtube.com/@Toomarte",
+    "primary": "前端/游戏短视频邻近 / YouTube",
     "niches": [
-      "Tom (Quereinsteiger)"
+      "Alex (YouTuber)"
     ],
-    "pitch": "IT 培训机构（Git/Python/AI Agents），转码受众；中位互动 4.2% 偏弱但池子大。如想覆盖\"应届/转码\"群体可以加。",
-    "reason_raw": "IT 培训/转码受众大，相关度弱于 Claude Code 主力但池子稳定。",
+    "pitch": "\"5 Devs/12 Devs 用 Verdent 做游戏挑战\"——德国 Builder 圈唯一的\"AI + 游戏\"内容生态位。占住 PDF 里 5/19 产品场景的空白叙事。",
+    "reason_raw": "AI + 游戏挑战稀缺生态位，适合 Ship pretty 的游戏/视觉方向补位。",
     "videos": [
       {
-        "title": "Git + GitHub Tutorial Deutsch | Komplettkurs für Anfänger",
-        "views": 1100,
-        "duration": "2:59:53",
-        "when": "6 days ago",
-        "thumb": "https://i.ytimg.com/vi/1rjNmOr8Q-E/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=1rjNmOr8Q-E"
+        "title": "5 Devs Erstellen 5 Spiele Gegeneinander",
+        "views": 1700,
+        "duration": "25:25",
+        "when": "2 weeks ago",
+        "thumb": "https://i.ytimg.com/vi/EsVV6arKxtw/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=EsVV6arKxtw"
       },
       {
-        "title": "Create an interactive dashboard in Excel | Complete guide",
-        "views": 359,
-        "duration": "31:49",
-        "when": "12 days ago",
-        "thumb": "https://i.ytimg.com/vi/tP7EXHCNCCU/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=tP7EXHCNCCU"
-      },
-      {
-        "title": "Power BI Tutorial Deutsch | Komplettkurs für Anfänger",
-        "views": 5900,
-        "duration": "5:04:13",
+        "title": "Das Dunkle Geheimnis Der Scratch Katze",
+        "views": 1200,
+        "duration": "2:48",
         "when": "1 month ago",
-        "thumb": "https://i.ytimg.com/vi/00kikim8fyE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=00kikim8fyE"
+        "thumb": "https://i.ytimg.com/vi/ZPmrL-YWz7U/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=ZPmrL-YWz7U"
       },
       {
-        "title": "AI Agents | Beginner's Course",
-        "views": 2200,
-        "duration": "46:33",
-        "when": "2 months ago",
-        "thumb": "https://i.ytimg.com/vi/a6Zf9pe1Zvc/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=a6Zf9pe1Zvc"
+        "title": "12 Devs Erstellen 2 Spiele Ohne Kommunikation",
+        "views": 54000,
+        "duration": "17:43",
+        "when": "4 months ago",
+        "thumb": "https://i.ytimg.com/vi/Ht6HA9xI8JI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Ht6HA9xI8JI"
+      },
+      {
+        "title": "Ich Habe Eine Gesamte Konsole In Scratch Erstellt",
+        "views": 68000,
+        "duration": "20:24",
+        "when": "5 months ago",
+        "thumb": "https://i.ytimg.com/vi/12hIWpjUkls/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=12hIWpjUkls"
       }
     ],
     "status": "backup",
-    "campaign": "AI Coding / YouTube Builder 替补",
-    "why": "IT 培训/转码受众大，可补编程学习者人群，但不如正选 builder 直接。",
-    "score": 83.9,
+    "campaign": "前端/游戏创作 / YouTube 替补",
+    "why": "AI+游戏挑战稀缺，适合 Ship pretty/游戏类视觉创作替补，但非短视频首选。",
+    "score": 76.4,
     "contact_status": "待确认档期",
     "slot_role": "替补"
   },
   {
-    "name": "Kevin Chromik",
-    "handle": "@KevinChromik",
+    "name": "Christoph Magnussen",
+    "handle": "@christophmagnussen",
     "platform": "YouTube",
-    "avatar": "https://yt3.googleusercontent.com/RDfIrJ7juTgOVGIFCzY-3WQi-l-I66tQrCBgYQv7Ghyf_6r0E7u4fpwRM2F5dd3_yqvbB3m0Gbc=s160-c-k-c0x00ffffff-no-rj",
-    "followers": 57900,
-    "avg_views": 10050,
+    "avatar": "https://yt3.googleusercontent.com/IBPA_ktdc_o6U1HENefENZjskqxRXF4nsMY5c5rN4NXVFaZC7hyQl0Ajmo0Q4yvA5HvXM-MJWA=s160-c-k-c0x00ffffff-no-rj",
+    "followers": 131000,
+    "avg_views": 20900,
     "region": "DE",
-    "desc": "Ich bin Softwareentwickler, YouTuber, Podcaster und unglaublich Technik-begeistert. Nach meinem Studium in der Wirtschaftsinformatik arbeitete ich über 10 Jahre in der Softwareentwicklung bei Firmen wie Freeletics, PAYBACK und waipu.tv. In meinen Videos teile ich Tipps für den Ei",
-    "profile_url": "https://www.youtube.com/@KevinChromik",
+    "desc": "CREATOR at heart 💛 Blackboat CEO by profession 🔥  Seit über 15 Jahre \"befreie\" ich mit meinem Team bei Blackboat Menschen von ihren alten Arbeitsweisen. Die \"Supercharged Sunday\" Serie dreht sich genau darum: Wie verändern neue Technologien unsere Arbeit? Was wird AI mit unseren ",
+    "profile_url": "https://www.youtube.com/@christophmagnussen",
     "primary": "先锋新闻 / YouTube",
     "niches": [
-      "dev 转型"
+      "企业决策人 / Sarah"
     ],
-    "pitch": "57.9K dev 视角讲职业转型，\"开发者还有未来吗\"24K 播放。可作为转码受众的另一种声音。espmedia。",
-    "reason_raw": "开发者职业转型视角，适合作为“AI 替代/提效”议题替补。",
+    "pitch": "131K Blackboat CEO，\"DSGVO 不是 KI 障碍\"直接打中德国企业合规焦虑。Verdent 借力做\"决策人级背书\"。",
+    "reason_raw": "CEO/企业决策人背书位，德国市场合规/效率叙事强。",
     "videos": [
       {
-        "title": "Wie ich 3x schneller arbeite…mit diesem Setup",
-        "views": 5700,
-        "duration": "9:56",
-        "when": "11 days ago",
-        "thumb": "https://i.ytimg.com/vi/C3QuOl3JB1c/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=C3QuOl3JB1c"
+        "title": "Datenschutz ist kein KI-Verhinderer: Warum die DSGVO ein Verbündeter ist | Dr. Sebastian Kraska",
+        "views": 2700,
+        "duration": "1:11:43",
+        "when": "2 days ago",
+        "thumb": "https://i.ytimg.com/vi/g6lUrCUqgL0/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=g6lUrCUqgL0"
       },
       {
-        "title": "Diese KI ersetzt ALLE Menschen in einer Firma",
-        "views": 4500,
-        "duration": "11:50",
-        "when": "1 month ago",
-        "thumb": "https://i.ytimg.com/vi/LPcC5-cEoOo/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=LPcC5-cEoOo"
+        "title": "ALLE Agents mit PAPERCLIP AI steuern! Das UI der Zukunft?",
+        "views": 14000,
+        "duration": "12:17",
+        "when": "6 days ago",
+        "thumb": "https://i.ytimg.com/vi/kP53c_gjEm8/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=kP53c_gjEm8"
       },
       {
-        "title": "Das Ende für Entwickler? Das passiert gerade WIRKLICH",
-        "views": 24000,
-        "duration": "14:01",
-        "when": "1 month ago",
-        "thumb": "https://i.ytimg.com/vi/fcnxbeyZhPI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=fcnxbeyZhPI"
+        "title": "🔮 MiroFish simuliert die Zukunft mit tausenden Agents | Alles was du wissen musst!",
+        "views": 20000,
+        "duration": "20:10",
+        "when": "13 days ago",
+        "thumb": "https://i.ytimg.com/vi/lpQ3W8v-GS8/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=lpQ3W8v-GS8"
       },
       {
-        "title": "Ein Tag als selbstständiger Softwareentwickler",
-        "views": 8000,
-        "duration": "24:27",
-        "when": "1 month ago",
-        "thumb": "https://i.ytimg.com/vi/k_n6KCk9Zck/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=k_n6KCk9Zck"
+        "title": "Eltern-Initiative statt Fingerpointing: Wie wir KI wirklich in die Schulen bringen | Verena Pausder",
+        "views": 3600,
+        "duration": "1:02:42",
+        "when": "2 weeks ago",
+        "thumb": "https://i.ytimg.com/vi/ifyzcjucVxs/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=ifyzcjucVxs"
       }
     ],
     "status": "backup",
-    "campaign": "AI Coding / YouTube Builder 替补",
-    "why": "开发者职业转型视角，可补“AI 提效/替代开发者”议题。",
-    "score": 82.1,
+    "campaign": "先锋新闻 / YouTube 替补",
+    "why": "企业决策人/合规视角替补；更偏企业背书，不作为 builder 主线正选。",
+    "score": 94.2,
     "contact_status": "待确认档期",
     "slot_role": "替补"
   },
@@ -1098,6 +1333,177 @@
     "slot_role": "替补"
   },
   {
+    "name": "Fabian Rappert | Data Science Institute",
+    "handle": "@datascience.institute",
+    "platform": "YouTube",
+    "avatar": "https://yt3.googleusercontent.com/CqqhWmKuiQnJho5zoHlillz6Jf29muM0ivF8KAjopaROG3i3NnGEQ7hkM3zEQzcE9x83UBkcqw=s160-c-k-c0x00ffffff-no-rj",
+    "followers": 64500,
+    "avg_views": 15992,
+    "region": "DE",
+    "desc": "Vereinbare jetzt dein kostenloses Beratungsgespräch:  https://data-science-institute.de  Du willst einen gut bezahlten Job in der IT finden? Auf unserem Kanal erfährst du, wie du als Quereinsteiger wertvolle Fähigkeiten erlernen kannst und deine Berufseinstieg in die IT schaffst.",
+    "profile_url": "https://www.youtube.com/@datascience.institute",
+    "primary": "AI Coding / YouTube",
+    "niches": [
+      "Tom (Quereinsteiger)"
+    ],
+    "pitch": "IT 培训机构（Git/Python/AI Agents），转码受众；中位互动 4.2% 偏弱但池子大。如想覆盖\"应届/转码\"群体可以加。",
+    "reason_raw": "IT 培训/转码受众大，相关度弱于 Claude Code 主力但池子稳定。",
+    "videos": [
+      {
+        "title": "Git + GitHub Tutorial Deutsch | Komplettkurs für Anfänger",
+        "views": 1100,
+        "duration": "2:59:53",
+        "when": "6 days ago",
+        "thumb": "https://i.ytimg.com/vi/1rjNmOr8Q-E/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=1rjNmOr8Q-E"
+      },
+      {
+        "title": "Create an interactive dashboard in Excel | Complete guide",
+        "views": 359,
+        "duration": "31:49",
+        "when": "12 days ago",
+        "thumb": "https://i.ytimg.com/vi/tP7EXHCNCCU/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=tP7EXHCNCCU"
+      },
+      {
+        "title": "Power BI Tutorial Deutsch | Komplettkurs für Anfänger",
+        "views": 5900,
+        "duration": "5:04:13",
+        "when": "1 month ago",
+        "thumb": "https://i.ytimg.com/vi/00kikim8fyE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=00kikim8fyE"
+      },
+      {
+        "title": "AI Agents | Beginner's Course",
+        "views": 2200,
+        "duration": "46:33",
+        "when": "2 months ago",
+        "thumb": "https://i.ytimg.com/vi/a6Zf9pe1Zvc/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=a6Zf9pe1Zvc"
+      }
+    ],
+    "status": "backup",
+    "campaign": "AI Coding / YouTube Builder 替补",
+    "why": "IT 培训/转码受众大，可补编程学习者人群，但不如正选 builder 直接。",
+    "score": 83.9,
+    "contact_status": "待确认档期",
+    "slot_role": "替补"
+  },
+  {
+    "name": "Digitale Profis",
+    "handle": "@DigitaleProfis",
+    "platform": "YouTube",
+    "avatar": "https://yt3.googleusercontent.com/goMcKDy7P2YhPf66gAgBh0U_MUKyNijI425aXGeBJhbTxdXyDQbww2IFZFcC07-35L4qX_4jew=s160-c-k-c0x00ffffff-no-rj",
+    "followers": 166000,
+    "avg_views": 15320,
+    "region": "DE",
+    "desc": "Hey, wir sind Johannes Ruof und Timothy Meixner!  Wir sind studierte (und leidenschaftliche ;)) Informatiker und haben in der Vergangenheit mit Unternehmen wie Udemy, Google Deutschland und LinkedIn zusammengearbeitet.   Auf unserem Kanal gibt es alles zu Künstlicher Intelligenz.",
+    "profile_url": "https://www.youtube.com/@DigitaleProfis",
+    "primary": "先锋新闻 / YouTube",
+    "niches": [
+      "信息学决策人"
+    ],
+    "pitch": "166K 双信息学，\"AI Tool Trap\"+\"Codex 是最好的 KI-App\"——评测口吻 Builder 友好；月发 10 节奏强。",
+    "reason_raw": "AI 工具评测口吻强，能把 Verdent 放进工具/模型对比语境。",
+    "videos": [
+      {
+        "title": "Google I/O 2026: Our impressions of the year's most important AI conference, straight from Califo...",
+        "views": 9500,
+        "duration": "13:50",
+        "when": "3 days ago",
+        "thumb": "https://i.ytimg.com/vi/vkNmOWuDNqA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=vkNmOWuDNqA"
+      },
+      {
+        "title": "The Great AI Tool Trap: Why Benchmarks, Rankings, and the Best Models Mislead You",
+        "views": 5700,
+        "duration": "13:01",
+        "when": "5 days ago",
+        "thumb": "https://i.ytimg.com/vi/-jvwWKjjmK8/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=-jvwWKjjmK8"
+      },
+      {
+        "title": "ChatGPT war gestern: Codex ist die beste KI-App von OpenAI (nicht nur fürs Programmieren)",
+        "views": 16000,
+        "duration": "26:14",
+        "when": "7 days ago",
+        "thumb": "https://i.ytimg.com/vi/ODWUfwjW5NI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=ODWUfwjW5NI"
+      },
+      {
+        "title": "Former OpenAI CEO showcases the future of AI: Interaction models from Thinking Machines and more ...",
+        "views": 15000,
+        "duration": "10:03",
+        "when": "12 days ago",
+        "thumb": "https://i.ytimg.com/vi/vuFOF3hm08A/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=vuFOF3hm08A"
+      }
+    ],
+    "status": "backup",
+    "campaign": "先锋新闻 / YouTube 替补",
+    "why": "新闻长视频替补：AI 工具评测强，但正选新闻长视频只保留 1 个。",
+    "score": 93.3,
+    "contact_status": "待确认档期",
+    "slot_role": "替补"
+  },
+  {
+    "name": "Kevin Chromik",
+    "handle": "@KevinChromik",
+    "platform": "YouTube",
+    "avatar": "https://yt3.googleusercontent.com/RDfIrJ7juTgOVGIFCzY-3WQi-l-I66tQrCBgYQv7Ghyf_6r0E7u4fpwRM2F5dd3_yqvbB3m0Gbc=s160-c-k-c0x00ffffff-no-rj",
+    "followers": 57900,
+    "avg_views": 10050,
+    "region": "DE",
+    "desc": "Ich bin Softwareentwickler, YouTuber, Podcaster und unglaublich Technik-begeistert. Nach meinem Studium in der Wirtschaftsinformatik arbeitete ich über 10 Jahre in der Softwareentwicklung bei Firmen wie Freeletics, PAYBACK und waipu.tv. In meinen Videos teile ich Tipps für den Ei",
+    "profile_url": "https://www.youtube.com/@KevinChromik",
+    "primary": "先锋新闻 / YouTube",
+    "niches": [
+      "dev 转型"
+    ],
+    "pitch": "57.9K dev 视角讲职业转型，\"开发者还有未来吗\"24K 播放。可作为转码受众的另一种声音。espmedia。",
+    "reason_raw": "开发者职业转型视角，适合作为“AI 替代/提效”议题替补。",
+    "videos": [
+      {
+        "title": "Wie ich 3x schneller arbeite…mit diesem Setup",
+        "views": 5700,
+        "duration": "9:56",
+        "when": "11 days ago",
+        "thumb": "https://i.ytimg.com/vi/C3QuOl3JB1c/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=C3QuOl3JB1c"
+      },
+      {
+        "title": "Diese KI ersetzt ALLE Menschen in einer Firma",
+        "views": 4500,
+        "duration": "11:50",
+        "when": "1 month ago",
+        "thumb": "https://i.ytimg.com/vi/LPcC5-cEoOo/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=LPcC5-cEoOo"
+      },
+      {
+        "title": "Das Ende für Entwickler? Das passiert gerade WIRKLICH",
+        "views": 24000,
+        "duration": "14:01",
+        "when": "1 month ago",
+        "thumb": "https://i.ytimg.com/vi/fcnxbeyZhPI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=fcnxbeyZhPI"
+      },
+      {
+        "title": "Ein Tag als selbstständiger Softwareentwickler",
+        "views": 8000,
+        "duration": "24:27",
+        "when": "1 month ago",
+        "thumb": "https://i.ytimg.com/vi/k_n6KCk9Zck/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=k_n6KCk9Zck"
+      }
+    ],
+    "status": "backup",
+    "campaign": "AI Coding / YouTube Builder 替补",
+    "why": "开发者职业转型视角，可补“AI 提效/替代开发者”议题。",
+    "score": 82.1,
+    "contact_status": "待确认档期",
+    "slot_role": "替补"
+  },
+  {
     "name": "AI mit Arnie",
     "handle": "@Arnold-Oberleiter",
     "platform": "YouTube",
@@ -1155,295 +1561,6 @@
     "slot_role": "替补"
   },
   {
-    "name": "Ully AI",
-    "handle": "@ully.lemisa",
-    "platform": "TikTok",
-    "avatar": "https://p19-common-sign.tiktokcdn-us.com/tos-maliva-avt-0068/23268c5a18a0834245d1dae7f4d36149~tplv-tiktokx-cropcenter:1080:1080.webp?dr=9640&refresh_token=d549e93b&x-expires=1779951600&x-signature=CFC%2FA%2BX0BWznANuEj5ywBi%2FtJIg%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=2472a6c6&idc=useast8",
-    "followers": 26011,
-    "avg_views": 15522,
-    "region": "DE",
-    "desc": "1 Mio. für KI begeistern 🤖\n10+ Jahre Tech-Managerin 🚀\nTÜV zert. AI-Trainerin👇",
-    "profile_url": "https://www.tiktok.com/@ully.lemisa",
-    "primary": "AI",
-    "niches": [
-      "Prompt Engineering",
-      "AI工具",
-      "AI技巧"
-    ],
-    "pitch": "中年女性AI博主，分享ChatGPT和Claude等AI工具的使用技巧和效率提升方法，视频内容以教程讲解为主，常出现AI工具和办公场景。",
-    "reason_raw": "The influencer's content and visual style align perfectly with the description of an AI coding content creator, focusing on AI tools like ChatGPT and Claude, tutorials, and insights. The visuals feature the influencer with overlaid text about AI topics, matching the requested style of computer interfaces and abstract representations.",
-    "videos": [
-      {
-        "title": "ChatGPT gibt in 27% der Fälle falsche Antworten - aber du kannst das ändern. 🤫 Es gibt eine versteckte Einstellung, die die meisten nie nutzen. Einmal gespeichert, überprüft ChatGPT seine eigenen Antworten automatisch auf Logik, Fakten und Vollständigkeit. So geht's: Einstellungen → Personalisierungen → Benutzerdefinierte Anweisungen → diesen Prompt einfügen: ------ Adopt the role of a Meta-Cognitive Reasoning Expert. For every complex problem: 1. DECOMPOSE: Break into sub-problems 2. SOLVE: Address each with explicit confidence (0.0-1.0) 3. VERIFY: Check logic, facts, completeness, bias 4. SYNTHESIZE: Combine using weighted confidence 5. REFLECT: If confidence <0.8, identify weakness and retry For simple questions, skip to direct answer. Always output: Clear answer - Confidence level - Key caveats ------ Der Prompt ist auf Englisch - das ist Absicht. ChatGPT versteht englische Hintergrundanweisungen präziser. Du kannst danach trotzdem auf Deutsch weiterschreiben. Soll ich dir den Prompt schicken? Schreib einfach „Prompt\" in die Kommentare - ich schick ihn dir direkt zu. 📩 #ChatGPT #KITipps #künstlicheintelligenz #AIHack #kiwissen",
-        "views": 107018,
-        "duration": "41s",
-        "when": "2026-05-12",
-        "thumb": "https://p19-common-sign.tiktokcdn-eu.com/tos-no1a-p-0037-no/o4EACUbEjFDALAr9rMIAAFELFGDUMBA4ef2eLI~tplv-tiktokx-cropcenter-q:300:400:q70.jpeg?dr=9232&refresh_token=bd288514&x-expires=1779865200&x-signature=VCFcBjMpARhHVgR5EUyfXYqXMFI%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=132edbea&idc=useast2b&biz_tag=tt_video&s=PUBLISH&sc=cover",
-        "url": "https://www.tiktok.com/@ully.lemisa/video/7638695196191919382"
-      },
-      {
-        "title": "Wenn du diese 5 Begriffe kennst, verstehst du KI sofort besser. Kontextfenster, Tokens, Halluzination, RAG und System-Prompt -genau diese Begriffe brauchst du, wenn du mit ChatGPT bessere Ergebnisse bekommen willst. Speicher dir das ab und folge mir für einfache KI-Tipps. #ki #künstlicheintelligenz #chatgpt #aitools #kiwissen",
-        "views": 10973,
-        "duration": "94s",
-        "when": "2026-05-07",
-        "thumb": "https://p16-common-sign.tiktokcdn-eu.com/tos-no1a-p-0037-no/o8s3IIOEzGAvf4AkAvLOLrTAHEfAHF09Q9e22I~tplv-tiktokx-cropcenter-q:300:400:q70.jpeg?dr=9232&refresh_token=d4949cd7&x-expires=1779865200&x-signature=e8xSu6n1xXWRJyNkSabFJVZyDwY%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=132edbea&idc=useast2b&biz_tag=tt_video&s=PUBLISH&sc=cover",
-        "url": "https://www.tiktok.com/@ully.lemisa/video/7636837785676156182"
-      },
-      {
-        "title": "7 KI-Tools, die dir echte Zeit sparen und für jede Aufgabe das richtige. 🤖✨ Hier ist deine Kurzübersicht: ⏱ Zeit sparen: ChatGPT 🖼 KI-Bilder: Nano Banana oder GPT Image 2.0  📧 E-Mails schreiben: Claude  📚 Neues lernen: NotebookLM  🎬 KI-Videos: Higgsfield  🌐 Website bauen: bolt.new  🎙 Meeting-Assistent: Supernormal Speicher diesen Post - du wirst ihn brauchen!  💾 Und wenn du mehr über KI erfahren willst: Folge mir für mehr Praxis-Content. 💛 Welches Tool überrascht dich am meisten? 👇 #KITools #ChatGPT #KünstlicheIntelligenz #ai #AITools",
-        "views": 2849,
-        "duration": "22s",
-        "when": "2026-04-30",
-        "thumb": "https://p16-common-sign.tiktokcdn-eu.com/tos-no1a-p-0037-no/ocrEIZSKABhJ7DBECAwiqfE9EPVW0SiBxAU9yA~tplv-tiktokx-cropcenter-q:300:400:q70.jpeg?dr=9232&refresh_token=005e3f1a&x-expires=1779865200&x-signature=R7k5uvV6xUbZd6IYghGYSZOrzRo%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=132edbea&idc=useast2b&biz_tag=tt_video&s=PUBLISH&sc=cover",
-        "url": "https://www.tiktok.com/@ully.lemisa/video/7634256983951953174"
-      },
-      {
-        "title": "🚨 BREAKING: ChatGPT Images 2.0 ist LIVE! 🎨   Seit gestern, dem 21. April kannst du:  ✨ Perfekte Schrift in Bildern erzeugen  ✨ Ganze Karussells in 1 Prompt bauen  ✨ Bis zu 8 zusammenhängende Bilder erstellen  ✨ 2K-Auflösung + Thinking-Modus nutzen   Speicher dir das Reel, damit du es gleich testest!  💛 Folge mir für mehr KI-Hacks ✨ Quelle Video: https://openai.com/index/introducing-chatgpt-images-2-0/ #chatgpt #kitools #openai #selbstständig #künstlicheintelligenz",
-        "views": 1762,
-        "duration": "70s",
-        "when": "2026-04-23",
-        "thumb": "https://p16-common-sign.tiktokcdn-eu.com/tos-no1a-p-0037-no/oMAARIA4pkpAiQjHG2EICF6CVF3DTg9kNEfDfo~tplv-tiktokx-cropcenter-q:300:400:q70.jpeg?dr=9232&refresh_token=cbbeacde&x-expires=1779865200&x-signature=oTx3y9nsSdnkjI8YPaEBDhCTsF4%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=132edbea&idc=useast2b&biz_tag=tt_video&s=PUBLISH&sc=cover",
-        "url": "https://www.tiktok.com/@ully.lemisa/video/7631665674812689686"
-      }
-    ],
-    "campaign": "前端设计 / TikTok 替补",
-    "status": "backup",
-    "why": "ChatGPT/Claude 效率教程，适合补前端/设计短视频的人群多样性。",
-    "score": 80.7,
-    "contact_status": "待确认档期",
-    "slot_role": "替补"
-  },
-  {
-    "name": "inkenai",
-    "handle": "@inkenai",
-    "platform": "TikTok",
-    "avatar": "https://p19-common-sign.tiktokcdn-us.com/tos-useast2a-avt-0068-euttp/0d7e4f492d8ae7407d70ef30310e559f~tplv-tiktokx-cropcenter:1080:1080.webp?dr=9640&refresh_token=adfb5156&x-expires=1779951600&x-signature=ErjN7B0vRFrEEzUPsD38ZOUXTcs%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=2472a6c6&idc=useast8",
-    "followers": 35656,
-    "avg_views": 2672,
-    "region": "DE",
-    "desc": "💚 Ich setze mich dafür ein, \ndass wir KI sicher gestalten. \n👩🏻‍💻Women in AI Safety Germany\n🎤Podcast Co-Host: Reboot Society\n💌 Keynote-Anfragen⬇️",
-    "profile_url": "https://www.tiktok.com/@inkenai",
-    "primary": "AI",
-    "niches": [
-      "AI安全",
-      "AI伦理",
-      "AI创业"
-    ],
-    "pitch": "一位关注AI机遇与AI安全的女性AI博主，视频以探讨AI未来发展、安全与伦理为主，常出现对AI技术和未来趋势的观点输出。",
-    "reason_raw": "The influencer's content consistently focuses on AI, discussing its societal impact, future implications, and safety concerns, aligning perfectly with the description of an AI coding content creator. The visuals, though primarily featuring the speaker, often incorporate relevant graphics like charts and text overlays that relate to AI concepts.",
-    "videos": [
-      {
-        "title": "Hast du schonmal mit Absicht einen Rechtschreibfehler in eine Email geschrieben, um menschlich zu wirken? #ki #künstlicheintelligenz #menschlich #zukunft ",
-        "views": 1013,
-        "duration": "52s",
-        "when": "2026-05-25",
-        "thumb": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast2a-p-0037-euttp/o8DPAWlKEL4OgIFFQUIGlDewgf8egghLGMoXSj~tplv-tiktokx-cropcenter-q:300:400:q70.jpeg?dr=9232&refresh_token=1add4e64&x-expires=1779865200&x-signature=1cpJrcOx%2BosNxP0oD8OF3VVDaYU%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=132edbea&idc=useast2b&item=7643782952303873313&biz_tag=tt_video&s=PUBLISH&sc=cover",
-        "url": "https://www.tiktok.com/@inkenai/video/7643782952303873313"
-      },
-      {
-        "title": "Es steht uns wahrscheinlich eine Wissensexplosion bevor, aber oft ist das so abstrakt, dass man gar nicht richtig weiß, was das bedeutet. Das Video ist der Versuch hier eine mögliche Auswirkung zu zeigen. #künstlicheintelligenz #wachstum #szenario #zukunft #gedankenspiel",
-        "views": 7463,
-        "duration": "94s",
-        "when": "2026-05-24",
-        "thumb": "https://p19-common-sign.tiktokcdn-eu.com/tos-useast2a-p-0037-euttp/o0qzHmsExbIWEjlqATBQRNVFPfgCeJEmDDCBQd~tplv-tiktokx-cropcenter-q:300:400:q70.jpeg?dr=9232&refresh_token=8fbaae83&x-expires=1779865200&x-signature=C44Njf1dJAbmojs5KYfiSA7ejgc%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=132edbea&idc=useast2b&sc=cover&item=7643482839408807201&biz_tag=tt_video&s=PUBLISH",
-        "url": "https://www.tiktok.com/@inkenai/video/7643482839408807201"
-      },
-      {
-        "title": "Würdest du deine KI für dich daten lassen? Hi, ich bin Inken, ich denke Dinge gerne weiter und setze mich dafür ein, dass wir KI sicher gestalten. Also eine KI für dich daten zu lassen bringt in meinen Augen nicht den Ertrag. Außer, du möchtest die KI daten, aber dann haben wir ein ganz anderes Problem. #daten #ki #zukunft ",
-        "views": 726,
-        "duration": "68s",
-        "when": "2026-05-23",
-        "thumb": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast2a-p-0037-euttp/oQEe4VREQDAfcQQiJqIQgMKNmBFzbvEDVLNb2k~tplv-tiktokx-cropcenter-q:300:400:q70.jpeg?dr=9232&refresh_token=618d6a75&x-expires=1779865200&x-signature=yV1I40df0Epa02B4kqY4ckKJ%2B1s%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=132edbea&idc=useast2b&sc=cover&item=7642994353861938465&biz_tag=tt_video&s=PUBLISH",
-        "url": "https://www.tiktok.com/@inkenai/video/7642994353861938465"
-      },
-      {
-        "title": "75% glauben, KI wird massenhaft Jobs vernichten. Nur 15% denken, dass ihr eigener Job gefährdet ist. Das zeigt eine Gallup-Studie und dahinter verbirgt sich der „Third Person Effect“ #ki #studie #kiundjobs ",
-        "views": 893,
-        "duration": "40s",
-        "when": "2026-05-22",
-        "thumb": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast2a-p-0037-euttp/oIqEgtDjQgEOBoHEIqSgvDASFRFR2mfkeQaDTE~tplv-tiktokx-cropcenter-q:300:400:q70.jpeg?dr=9232&refresh_token=36987bcd&x-expires=1779865200&x-signature=gUUVh8wAp%2BoCReNIUx12NbeRmIU%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=132edbea&idc=useast2b&biz_tag=tt_video&s=PUBLISH&sc=cover&item=7642686126620151072",
-        "url": "https://www.tiktok.com/@inkenai/video/7642686126620151072"
-      }
-    ],
-    "campaign": "先锋新闻 / TikTok 替补",
-    "status": "backup",
-    "why": "AI 未来/安全/创业议题，若 Hood 无档期可补新闻短视频位。",
-    "score": 76.4,
-    "contact_status": "待确认档期",
-    "slot_role": "替补"
-  },
-  {
-    "name": "Christoph Magnussen",
-    "handle": "@christophmagnussen",
-    "platform": "YouTube",
-    "avatar": "https://yt3.googleusercontent.com/IBPA_ktdc_o6U1HENefENZjskqxRXF4nsMY5c5rN4NXVFaZC7hyQl0Ajmo0Q4yvA5HvXM-MJWA=s160-c-k-c0x00ffffff-no-rj",
-    "followers": 131000,
-    "avg_views": 20900,
-    "region": "DE",
-    "desc": "CREATOR at heart 💛 Blackboat CEO by profession 🔥  Seit über 15 Jahre \"befreie\" ich mit meinem Team bei Blackboat Menschen von ihren alten Arbeitsweisen. Die \"Supercharged Sunday\" Serie dreht sich genau darum: Wie verändern neue Technologien unsere Arbeit? Was wird AI mit unseren ",
-    "profile_url": "https://www.youtube.com/@christophmagnussen",
-    "primary": "先锋新闻 / YouTube",
-    "niches": [
-      "企业决策人 / Sarah"
-    ],
-    "pitch": "131K Blackboat CEO，\"DSGVO 不是 KI 障碍\"直接打中德国企业合规焦虑。Verdent 借力做\"决策人级背书\"。",
-    "reason_raw": "CEO/企业决策人背书位，德国市场合规/效率叙事强。",
-    "videos": [
-      {
-        "title": "Datenschutz ist kein KI-Verhinderer: Warum die DSGVO ein Verbündeter ist | Dr. Sebastian Kraska",
-        "views": 2700,
-        "duration": "1:11:43",
-        "when": "2 days ago",
-        "thumb": "https://i.ytimg.com/vi/g6lUrCUqgL0/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=g6lUrCUqgL0"
-      },
-      {
-        "title": "ALLE Agents mit PAPERCLIP AI steuern! Das UI der Zukunft?",
-        "views": 14000,
-        "duration": "12:17",
-        "when": "6 days ago",
-        "thumb": "https://i.ytimg.com/vi/kP53c_gjEm8/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=kP53c_gjEm8"
-      },
-      {
-        "title": "🔮 MiroFish simuliert die Zukunft mit tausenden Agents | Alles was du wissen musst!",
-        "views": 20000,
-        "duration": "20:10",
-        "when": "13 days ago",
-        "thumb": "https://i.ytimg.com/vi/lpQ3W8v-GS8/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=lpQ3W8v-GS8"
-      },
-      {
-        "title": "Eltern-Initiative statt Fingerpointing: Wie wir KI wirklich in die Schulen bringen | Verena Pausder",
-        "views": 3600,
-        "duration": "1:02:42",
-        "when": "2 weeks ago",
-        "thumb": "https://i.ytimg.com/vi/ifyzcjucVxs/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=ifyzcjucVxs"
-      }
-    ],
-    "status": "backup",
-    "campaign": "先锋新闻 / YouTube 替补",
-    "why": "企业决策人/合规视角替补；适合更偏企业背书，但 builder 主线下不放正选。",
-    "score": 94.2,
-    "contact_status": "待确认档期",
-    "slot_role": "替补"
-  },
-  {
-    "name": "Digitale Profis",
-    "handle": "@DigitaleProfis",
-    "platform": "YouTube",
-    "avatar": "https://yt3.googleusercontent.com/goMcKDy7P2YhPf66gAgBh0U_MUKyNijI425aXGeBJhbTxdXyDQbww2IFZFcC07-35L4qX_4jew=s160-c-k-c0x00ffffff-no-rj",
-    "followers": 166000,
-    "avg_views": 15320,
-    "region": "DE",
-    "desc": "Hey, wir sind Johannes Ruof und Timothy Meixner!  Wir sind studierte (und leidenschaftliche ;)) Informatiker und haben in der Vergangenheit mit Unternehmen wie Udemy, Google Deutschland und LinkedIn zusammengearbeitet.   Auf unserem Kanal gibt es alles zu Künstlicher Intelligenz.",
-    "profile_url": "https://www.youtube.com/@DigitaleProfis",
-    "primary": "先锋新闻 / YouTube",
-    "niches": [
-      "信息学决策人"
-    ],
-    "pitch": "166K 双信息学，\"AI Tool Trap\"+\"Codex 是最好的 KI-App\"——评测口吻 Builder 友好；月发 10 节奏强。",
-    "reason_raw": "AI 工具评测口吻强，能把 Verdent 放进工具/模型对比语境。",
-    "videos": [
-      {
-        "title": "Google I/O 2026: Our impressions of the year's most important AI conference, straight from Califo...",
-        "views": 9500,
-        "duration": "13:50",
-        "when": "3 days ago",
-        "thumb": "https://i.ytimg.com/vi/vkNmOWuDNqA/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=vkNmOWuDNqA"
-      },
-      {
-        "title": "The Great AI Tool Trap: Why Benchmarks, Rankings, and the Best Models Mislead You",
-        "views": 5700,
-        "duration": "13:01",
-        "when": "5 days ago",
-        "thumb": "https://i.ytimg.com/vi/-jvwWKjjmK8/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=-jvwWKjjmK8"
-      },
-      {
-        "title": "ChatGPT war gestern: Codex ist die beste KI-App von OpenAI (nicht nur fürs Programmieren)",
-        "views": 16000,
-        "duration": "26:14",
-        "when": "7 days ago",
-        "thumb": "https://i.ytimg.com/vi/ODWUfwjW5NI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=ODWUfwjW5NI"
-      },
-      {
-        "title": "Former OpenAI CEO showcases the future of AI: Interaction models from Thinking Machines and more ...",
-        "views": 15000,
-        "duration": "10:03",
-        "when": "12 days ago",
-        "thumb": "https://i.ytimg.com/vi/vuFOF3hm08A/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=vuFOF3hm08A"
-      }
-    ],
-    "status": "backup",
-    "campaign": "先锋新闻 / YouTube 替补",
-    "why": "新闻长视频替补：AI 工具评测强，但正选新闻长视频只保留 1 个；若 Everlast 无档期再替换。",
-    "score": 93.3,
-    "contact_status": "待确认档期",
-    "slot_role": "替补"
-  },
-  {
-    "name": "Toomarte",
-    "handle": "@Toomarte",
-    "platform": "YouTube",
-    "avatar": "https://yt3.googleusercontent.com/0kUcbgk6ajYjMpyMyutcpYgyuge8dxM4FaicTfKZrOSDPTJ4Mcx-1mLYWt-8Vbqmg2nnjUCOx60=s160-c-k-c0x00ffffff-no-rj",
-    "followers": 5660,
-    "avg_views": 22100,
-    "region": "DE",
-    "desc": "Ich mag Gurken  Für geschäftliche Anfragen: toomarte.business@gmail.com  ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬  Impressum: Angaben gemäß § 5 DDG  Toomarte c/o IP-Management #4788  Ludwig-Erhard-Str. 18 20459 Hamburg  E-Mail: toomarte.business@gmail.com Kontakt Formular: https://forms.gle/RtpRQY2y",
-    "profile_url": "https://www.youtube.com/@Toomarte",
-    "primary": "前端/游戏短视频邻近 / YouTube",
-    "niches": [
-      "Alex (YouTuber)"
-    ],
-    "pitch": "\"5 Devs/12 Devs 用 Verdent 做游戏挑战\"——德国 Builder 圈唯一的\"AI + 游戏\"内容生态位。占住 PDF 里 5/19 产品场景的空白叙事。",
-    "reason_raw": "AI + 游戏挑战稀缺生态位，适合 Ship pretty 的游戏/视觉方向补位。",
-    "videos": [
-      {
-        "title": "5 Devs Erstellen 5 Spiele Gegeneinander",
-        "views": 1700,
-        "duration": "25:25",
-        "when": "2 weeks ago",
-        "thumb": "https://i.ytimg.com/vi/EsVV6arKxtw/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=EsVV6arKxtw"
-      },
-      {
-        "title": "Das Dunkle Geheimnis Der Scratch Katze",
-        "views": 1200,
-        "duration": "2:48",
-        "when": "1 month ago",
-        "thumb": "https://i.ytimg.com/vi/ZPmrL-YWz7U/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=ZPmrL-YWz7U"
-      },
-      {
-        "title": "12 Devs Erstellen 2 Spiele Ohne Kommunikation",
-        "views": 54000,
-        "duration": "17:43",
-        "when": "4 months ago",
-        "thumb": "https://i.ytimg.com/vi/Ht6HA9xI8JI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Ht6HA9xI8JI"
-      },
-      {
-        "title": "Ich Habe Eine Gesamte Konsole In Scratch Erstellt",
-        "views": 68000,
-        "duration": "20:24",
-        "when": "5 months ago",
-        "thumb": "https://i.ytimg.com/vi/12hIWpjUkls/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=12hIWpjUkls"
-      }
-    ],
-    "status": "backup",
-    "campaign": "前端设计 / 短视频邻近替补",
-    "why": "AI+游戏挑战稀缺，适合 Ship pretty/游戏类视觉创作替补，但平台是 YouTube，非首选短视频。",
-    "score": 76.4,
-    "contact_status": "待确认档期",
-    "slot_role": "替补"
-  },
-  {
     "name": "WPerfolg - KI & Online Marketing meistern",
     "handle": "@wperfolg",
     "platform": "YouTube",
@@ -1494,7 +1611,7 @@
       }
     ],
     "status": "backup",
-    "campaign": "前端设计 / SMB YouTube 替补",
+    "campaign": "前端/SMB建站 / YouTube 替补",
     "why": "SMB 老板/marketer 自助建站叙事，作为前端/设计方向备选。",
     "score": 75.8,
     "contact_status": "待确认档期",
@@ -1613,5 +1730,123 @@
     "score": 68.6,
     "contact_status": "待确认档期",
     "slot_role": "替补"
+  },
+  {
+    "name": "Hood Informatik",
+    "handle": "@hoodinformatik",
+    "platform": "TikTok",
+    "avatar": "https://p19-common-sign.tiktokcdn-us.com/tos-useast2a-avt-0068-euttp/d65e8920e8d43ef2faa6c05d0fe80608~tplv-tiktokx-cropcenter:1080:1080.webp?dr=9640&refresh_token=cf2aff40&x-expires=1779951600&x-signature=wKLVt6fN%2FzVS5coNx8xIMMNv7uA%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=2472a6c6&idc=useast8",
+    "followers": 108285,
+    "avg_views": 95986,
+    "region": "DE",
+    "desc": "Informatik 🧑🏻‍💻 | IT-Security 🔒🥷\n📩 Kooperation:\nhoodinformatik@gmail.com",
+    "profile_url": "https://www.tiktok.com/@hoodinformatik",
+    "primary": "专业领域",
+    "niches": [
+      "IT-Security",
+      "Cybersecurity",
+      "IT-Sicherheit"
+    ],
+    "pitch": "一位专注于 IT 安全的博主，视频以安全资讯、工具测评和技术教程为主，常出现 Messenger、Linux 和 Python 等内容。",
+    "reason_raw": "The influencer's profile and posts align perfectly with the description of an AI coding content creator, featuring programming, IT security, and AI applications. Visuals like code snippets and computer interfaces are present, and the content is professional and focused.",
+    "videos": [
+      {
+        "title": "Whatsapp Backups brechen Ende zu Ende Verschlüsselung ?!  #informatik #messenger #whatsapp #itsicherheit #cybersecurity",
+        "views": 70942,
+        "duration": "69s",
+        "when": "2026-05-24",
+        "thumb": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast2a-p-0037-euttp/oYrAiBAiuEA1AIAonaCCLeIVFGvFBvOBThK1lS~tplv-tiktokx-cropcenter-q:300:400:q70.jpeg?dr=9232&refresh_token=30cc5421&x-expires=1779865200&x-signature=%2BoOBslRhPfGRo8L4JW97I7eoKqg%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=132edbea&idc=useast2b&biz_tag=tt_video&s=PUBLISH&sc=cover&item=7643380514421755169",
+        "url": "https://www.tiktok.com/@hoodinformatik/video/7643380514421755169"
+      },
+      {
+        "title": "Die CISA und ihre Klartext Passwörter... #informatik #cybersecurity #itsicherheit #news ",
+        "views": 83929,
+        "duration": "100s",
+        "when": "2026-05-22",
+        "thumb": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast2a-p-0037-euttp/o8qgb4iEA8RKAQuIECFqAeADQ4mXAD9JfHEEO8~tplv-tiktokx-cropcenter-q:300:400:q70.jpeg?dr=9232&refresh_token=10e240a9&x-expires=1779865200&x-signature=7RXUs19R4%2F8EauGnWDK068HMMeU%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=132edbea&idc=useast2b&biz_tag=tt_video&s=PUBLISH&sc=cover&item=7642741156337503520",
+        "url": "https://www.tiktok.com/@hoodinformatik/video/7642741156337503520"
+      },
+      {
+        "title": "Ist Informatik nur programmieren ?! #informatik #programming #code #itsicherheit ",
+        "views": 46572,
+        "duration": "69s",
+        "when": "2026-05-22",
+        "thumb": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast2a-p-0037-euttp/osQAiEy2qDAKL3CeADCsA6bDFA1EmIfRUEjRPG~tplv-tiktokx-cropcenter-q:300:400:q70.jpeg?dr=9232&refresh_token=73b522a1&x-expires=1779865200&x-signature=bJwSa1ToYizCUV%2BSIgltfJilWg4%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=132edbea&idc=useast2b&biz_tag=tt_video&s=PUBLISH&sc=cover&item=7642376848369896736",
+        "url": "https://www.tiktok.com/@hoodinformatik/video/7642376848369896736"
+      },
+      {
+        "title": "Ist Self-Hosting wirklich besser ?! #informatik #itsicherheit #cybersecurity #homelab",
+        "views": 74568,
+        "duration": "104s",
+        "when": "2026-05-20",
+        "thumb": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast2a-p-0037-euttp/oIAcuptfRqEHAmDkCZDNcTFdAOGDQAfE9l1AIE~tplv-tiktokx-cropcenter-q:300:400:q70.jpeg?dr=9232&refresh_token=78296566&x-expires=1779865200&x-signature=6a9GpNxzQIHvyuFS18fGiRrVkC8%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=132edbea&idc=useast2b&biz_tag=tt_video&s=PUBLISH&sc=cover&item=7641998223850130720",
+        "url": "https://www.tiktok.com/@hoodinformatik/video/7641998223850130720"
+      }
+    ],
+    "campaign": "不推荐",
+    "status": "rejected",
+    "why": "剔除：虽然近期播放高，但内容核心是 IT 安全/cybersecurity，和 Verdent builder/AI coding 受众偏离。",
+    "score": 90.9,
+    "contact_status": "待确认档期",
+    "slot_role": "剔除"
+  },
+  {
+    "name": "abez9na",
+    "handle": "@den0ver",
+    "platform": "TikTok",
+    "avatar": "https://p19-common-sign.tiktokcdn-us.com/tos-maliva-avt-0068/8b6406ad795a026bef749d49bb2e0a15~tplv-tiktokx-cropcenter:1080:1080.webp?dr=9640&refresh_token=54109b4b&x-expires=1779951600&x-signature=83C742mo7aK77GtzJdRZuwiBOfk%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=2472a6c6&idc=useast8",
+    "followers": 8960,
+    "avg_views": 59933,
+    "region": "DE",
+    "desc": "",
+    "profile_url": "https://www.tiktok.com/@den0ver",
+    "primary": "专业领域",
+    "niches": [
+      "Junior Programmer",
+      "Coding Journey",
+      "Python Development"
+    ],
+    "pitch": "一位年轻的亚裔男性程序员，分享从 Trainee 到 Junior 的学习和开发日常，视频以编程教学和生活Vlog为主，常出现电脑、代码和游戏场景。",
+    "reason_raw": "The influencer's profile and posts align with the 'AI coding content creator' description, featuring programming tutorials, code demonstrations, and discussions on AI applications. The visuals include code snippets and computer interfaces, with a consistent theme of programming setups and learning.",
+    "videos": [
+      {
+        "title": "тгк: IT_abez9na #programming ",
+        "views": 1606,
+        "duration": "19s",
+        "when": "2026-05-18",
+        "thumb": "https://p16-common-sign.tiktokcdn-eu.com/tos-alisg-p-0037/o8BKxqwBfAIYiiopEBI1zYAUEiAoiCVYBQvI81~tplv-tiktokx-cropcenter-q:300:400:q70.jpeg?dr=9232&refresh_token=2b4e9d48&x-expires=1779865200&x-signature=Z6FT%2Banu7C3Z8dVuVLiHNQHv%2Bpo%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=132edbea&idc=useast2b&biz_tag=tt_video&s=PUBLISH&sc=cover",
+        "url": "https://www.tiktok.com/@den0ver/video/7640938956506369298"
+      },
+      {
+        "title": "#программирование #junior #python #django ",
+        "views": 6176,
+        "duration": "33s",
+        "when": "2026-04-21",
+        "thumb": "https://p16-common-sign.tiktokcdn-eu.com/tos-alisg-p-0037/oEfeENQBBGAn7tm8MCXwnFf0puSFcRAxMFfG21~tplv-tiktokx-cropcenter-q:300:400:q70.jpeg?dr=9232&refresh_token=fdbf8587&x-expires=1779865200&x-signature=Jx2bwsHSFKxwhnZFK5ttSFT9C9o%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=132edbea&idc=useast2b&biz_tag=tt_video&s=PUBLISH&sc=cover",
+        "url": "https://www.tiktok.com/@den0ver/video/7631079797283786002"
+      },
+      {
+        "title": "#программирование #django ",
+        "views": 5634,
+        "duration": "41s",
+        "when": "2026-03-23",
+        "thumb": "https://p16-common-sign.tiktokcdn-eu.com/tos-alisg-p-0037/oofeEtvjDp4zIgivPyMiaE9BBXr4wIRA60UACB~tplv-tiktokx-cropcenter-q:300:400:q70.jpeg?dr=9232&refresh_token=a0dcf494&x-expires=1779865200&x-signature=KE67H0IfLrwy00xTpHmCmXTCC9k%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=132edbea&idc=useast2b&sc=cover&biz_tag=tt_video&s=PUBLISH",
+        "url": "https://www.tiktok.com/@den0ver/video/7620159737581161749"
+      },
+      {
+        "title": "показать сайт? #программирование #пайтон #джуниор ",
+        "views": 89196,
+        "duration": "24s",
+        "when": "2026-03-20",
+        "thumb": "https://p19-common-sign.tiktokcdn-eu.com/tos-alisg-p-0037/ocFvGsDSeeIffQlA8vUAwnQEF04FQRm3GQAAEK~tplv-tiktokx-cropcenter-q:300:400:q70.jpeg?dr=9232&refresh_token=651eefd5&x-expires=1779865200&x-signature=NvSHyS7oOTQbPhBYrc%2FWo3%2Frl5g%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=132edbea&idc=useast2b&biz_tag=tt_video&s=PUBLISH&sc=cover",
+        "url": "https://www.tiktok.com/@den0ver/video/7619044064880561428"
+      }
+    ],
+    "campaign": "不推荐",
+    "status": "rejected",
+    "why": "剔除：近期内容明显俄语/西里尔文字，不符合德语 KOL 预期。",
+    "score": 89.1,
+    "contact_status": "待确认档期",
+    "slot_role": "剔除"
   }
 ]
