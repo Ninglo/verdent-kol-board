@@ -1,461 +1,78 @@
 <!DOCTYPE html>
-<html lang="zh">
+<html lang="zh-CN">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Verdent · 德国 KOL 候选评估（3 分类 × 1/2/3）</title>
+<meta name="robots" content="noindex,nofollow,noarchive,noimageindex">
+<meta name="googlebot" content="noindex,nofollow,noarchive,noimageindex">
+<title>Verdent · 6月德国 KOL 推荐名单</title>
 <style>
-:root{
-  --bg:#fafafa;
-  --bg-soft:#f5f5f5;
-  --surface:#ffffff;
-  --border:#e5e5e5;
-  --text:#0f172a;
-  --text-2:#475569;
-  --text-3:#94a3b8;
-  --pick:#10b981;     /* emerald */
-  --backup:#3b82f6;   /* blue */
-  --rank3:#94a3b8;    /* slate */
-  --filter:#cbd5e1;
-  --catA:#10b981;     /* 个人 builder */
-  --catB:#06b6d4;     /* SMB */
-  --catC:#8b5cf6;     /* 头部/决策 */
-  --shadow:0 1px 2px rgba(15,23,42,.04), 0 4px 12px rgba(15,23,42,.04);
-}
-*{box-sizing:border-box}
-html,body{margin:0;padding:0;background:var(--bg);color:var(--text);font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",PingFang SC,"Helvetica Neue",Helvetica,Arial,sans-serif;font-size:14px;line-height:1.55;-webkit-font-smoothing:antialiased}
-a{color:inherit;text-decoration:none}
-
-header.hero{padding:48px 32px 28px;max-width:1400px;margin:0 auto}
-.hero h1{font-size:28px;font-weight:700;margin:0 0 8px;letter-spacing:-.01em}
-.hero .meta{color:var(--text-2);font-size:13px}
-.hero .meta b{color:var(--text);font-weight:600}
-.hero p{color:var(--text-2);max-width:840px;margin:18px 0 0}
-.hero p.dim{font-size:12.5px;color:var(--text-3);margin-top:8px}
-
-.framework{max-width:1400px;margin:24px auto 0;padding:0 32px;display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:14px}
-.f-card{background:var(--surface);border:1px solid var(--border);border-radius:12px;padding:18px;border-top:3px solid}
-.f-card.A{border-top-color:var(--catA)}
-.f-card.B{border-top-color:var(--catB)}
-.f-card.C{border-top-color:var(--catC)}
-.f-card .h{font-weight:700;font-size:15px;color:var(--text);margin-bottom:4px;display:flex;align-items:center;gap:8px}
-.f-card .h .let{display:inline-flex;align-items:center;justify-content:center;width:22px;height:22px;border-radius:5px;font-size:12px;font-weight:700;color:#fff}
-.f-card.A .h .let{background:var(--catA)}
-.f-card.B .h .let{background:var(--catB)}
-.f-card.C .h .let{background:var(--catC)}
-.f-card .sub{color:var(--text-2);font-size:12.5px;line-height:1.6;margin-top:6px}
-.f-card .picks{color:var(--text-3);font-size:11.5px;margin-top:8px;font-variant-numeric:tabular-nums}
-.f-card .picks b{color:var(--text);font-weight:600}
-
-.stats{max-width:1400px;margin:18px auto 0;padding:0 32px;display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:12px}
-.stat{background:var(--surface);border:1px solid var(--border);border-radius:10px;padding:14px 16px;display:flex;align-items:baseline;gap:10px;flex-wrap:wrap}
-.stat .num{font-size:22px;font-weight:700;letter-spacing:-.02em}
-.stat .lbl{color:var(--text-2);font-size:12px}
-
-.controls{max-width:1400px;margin:28px auto 0;padding:0 32px;display:flex;gap:10px;flex-wrap:wrap;align-items:center;justify-content:space-between}
-.tabs{display:flex;gap:6px;flex-wrap:wrap}
-.tab{padding:8px 14px;border:1px solid var(--border);background:var(--surface);border-radius:999px;cursor:pointer;font-size:13px;color:var(--text-2);transition:all .15s}
-.tab:hover{border-color:#cbd5e1;color:var(--text)}
-.tab.active{background:var(--text);color:#fff;border-color:var(--text)}
-.tab .count{display:inline-block;margin-left:6px;font-size:11px;opacity:.7}
-.search{display:flex;align-items:center;gap:8px;background:var(--surface);border:1px solid var(--border);border-radius:8px;padding:6px 12px}
-.search input{border:0;outline:0;background:transparent;font-size:13px;width:200px;color:var(--text)}
-.search svg{flex:0 0 16px;color:var(--text-3)}
-
-main{max-width:1400px;margin:0 auto;padding:24px 32px 80px}
-
-/* === Category sections === */
-.cat-section{margin:36px 0 24px}
-.cat-header{display:flex;align-items:flex-end;gap:14px;padding:0 0 16px;border-bottom:2px solid;margin-bottom:18px;flex-wrap:wrap}
-.cat-section.A .cat-header{border-bottom-color:var(--catA)}
-.cat-section.B .cat-header{border-bottom-color:var(--catB)}
-.cat-section.C .cat-header{border-bottom-color:var(--catC)}
-.cat-letter{display:inline-flex;align-items:center;justify-content:center;width:36px;height:36px;border-radius:8px;font-weight:800;font-size:18px;color:#fff;letter-spacing:-.02em}
-.cat-section.A .cat-letter{background:var(--catA)}
-.cat-section.B .cat-letter{background:var(--catB)}
-.cat-section.C .cat-letter{background:var(--catC)}
-.cat-title{font-weight:700;font-size:20px;letter-spacing:-.01em}
-.cat-desc{color:var(--text-2);font-size:13px;flex:1;min-width:200px}
-.cat-summary{margin-left:auto;color:var(--text-3);font-size:12px;font-variant-numeric:tabular-nums;white-space:nowrap}
-.cat-summary b{color:var(--pick);font-weight:700}
-
-.tier-block{margin-bottom:20px}
-.tier-label{display:flex;align-items:center;gap:10px;padding:6px 0 12px;color:var(--text-2);font-size:12.5px}
-.tier-label .num{display:inline-flex;align-items:center;justify-content:center;width:22px;height:22px;border-radius:50%;font-size:11px;font-weight:700;background:var(--text);color:#fff}
-.tier-label .name{font-weight:600;color:var(--text)}
-.tier-label .meta{color:var(--text-3);font-size:11.5px}
-
-/* === Cards === */
-.cards{display:grid;grid-template-columns:repeat(auto-fill,minmax(420px,1fr));gap:14px}
-.card{background:var(--surface);border:1px solid var(--border);border-radius:14px;padding:18px;display:flex;flex-direction:column;gap:13px;box-shadow:var(--shadow);position:relative;transition:transform .15s,box-shadow .15s;border-left:3px solid transparent}
-.card:hover{transform:translateY(-2px);box-shadow:0 4px 14px rgba(15,23,42,.06),0 12px 30px rgba(15,23,42,.06)}
-.card.pick{border-left-color:var(--pick)}
-.card.backup{border-left-color:var(--backup)}
-.card.rank3{border-left-color:var(--rank3);opacity:.85}
-
-.card-top{display:flex;gap:12px;align-items:flex-start}
-.avatar{width:44px;height:44px;border-radius:50%;background:#eee;flex:0 0 44px;object-fit:cover}
-.title{flex:1;min-width:0}
-.title h3{margin:0 0 2px;font-size:15px;font-weight:700;letter-spacing:-.01em;line-height:1.3;overflow:hidden;text-overflow:ellipsis;display:-webkit-box;-webkit-line-clamp:1;-webkit-box-orient:vertical}
-.title .handle{color:var(--text-3);font-size:11.5px;font-variant-numeric:tabular-nums}
-
-.status-badge{font-size:10.5px;font-weight:700;letter-spacing:.04em;padding:4px 8px;border-radius:5px;text-transform:uppercase;flex:0 0 auto;white-space:nowrap;display:inline-flex;align-items:center;gap:4px}
-.status-badge.pick{color:#047857;background:#d1fae5}
-.status-badge.backup{color:#1e40af;background:#dbeafe}
-.status-badge.rank3{color:#475569;background:#f1f5f9}
-
-.kpis{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:6px;background:var(--bg-soft);border-radius:10px;padding:10px}
-.kpi{text-align:center}
-.kpi .v{font-size:14px;font-weight:700;font-variant-numeric:tabular-nums;letter-spacing:-.01em}
-.kpi .l{color:var(--text-3);font-size:10.5px;text-transform:uppercase;letter-spacing:.04em;margin-top:2px}
-
-.tags{display:flex;gap:6px;flex-wrap:wrap}
-.tag{font-size:11px;padding:3px 8px;border-radius:5px;background:var(--bg-soft);color:var(--text-2);font-weight:500;border:1px solid #ececec}
-.tag.persona{background:#fef3c7;color:#92400e;border-color:#fde68a}
-.tag.bk{background:#dbeafe;color:#1e40af;border-color:#bfdbfe}
-
-.why{font-size:12.5px;color:var(--text-2);background:#f0fdf4;border-left:2.5px solid var(--pick);padding:8px 11px;border-radius:0 6px 6px 0;line-height:1.55}
-.card.backup .why{background:#eff6ff;border-left-color:var(--backup)}
-.card.rank3 .why{background:#f8fafc;border-left-color:var(--rank3)}
-.why b{color:var(--text);font-weight:600}
-
-.videos{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px}
-.vid{display:flex;flex-direction:column;gap:6px;color:inherit;border-radius:8px;padding:0;transition:background .15s}
-.vid:hover{background:var(--bg-soft)}
-.vid .cover{position:relative;aspect-ratio:16/9;background:#0f172a;border-radius:6px;overflow:hidden;display:block}
-.vid .cover img{width:100%;height:100%;object-fit:cover;display:block;background:#1e293b}
-.vid .cover .views{position:absolute;left:4px;bottom:4px;background:rgba(0,0,0,.78);color:#fff;font-size:10px;font-weight:600;padding:2px 6px;border-radius:4px;font-variant-numeric:tabular-nums;line-height:1.4}
-.vid .cover .dur{position:absolute;right:4px;bottom:4px;background:rgba(0,0,0,.78);color:#fff;font-size:10px;padding:2px 5px;border-radius:4px;font-variant-numeric:tabular-nums}
-.vid .vtitle{font-size:12px;line-height:1.4;color:var(--text);font-weight:500;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;padding:0 2px}
-.vid .vmeta{font-size:11px;color:var(--text-3);font-variant-numeric:tabular-nums;padding:0 2px}
-
-.actions{display:flex;gap:8px;flex-wrap:wrap;margin-top:auto}
-.btn{display:inline-flex;align-items:center;gap:5px;padding:7px 11px;border-radius:7px;font-size:12px;font-weight:500;border:1px solid var(--border);background:var(--surface);color:var(--text-2);transition:all .15s}
-.btn:hover{border-color:#cbd5e1;color:var(--text);background:var(--bg-soft)}
-.btn.primary{background:var(--text);color:#fff;border-color:var(--text)}
-.btn.primary:hover{background:#1e293b;color:#fff}
-.btn svg{flex:0 0 13px;width:13px;height:13px}
-
-.desc{color:var(--text-2);font-size:12px;line-height:1.5;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
-
-/* === Filter list === */
-.filter-section{margin-top:48px}
-.filter-header{display:flex;align-items:flex-end;gap:14px;padding:0 0 16px;border-bottom:2px solid var(--text-3);margin-bottom:18px}
-.filter-list{background:var(--surface);border:1px solid var(--border);border-radius:12px;overflow:hidden}
-.filter-row{display:grid;grid-template-columns:40px 1.5fr 0.8fr 0.6fr 2.5fr;gap:14px;padding:11px 16px;align-items:center;border-bottom:1px solid #f0f0f0;color:var(--text-2);font-size:12.5px}
-.filter-row:last-child{border-bottom:none}
-.filter-row:hover{background:var(--bg-soft)}
-.filter-row.head{background:var(--bg-soft);font-weight:600;color:var(--text-3);font-size:11px;text-transform:uppercase;letter-spacing:.04em}
-.filter-row .av{width:28px;height:28px;border-radius:50%;object-fit:cover;background:#eee}
-.filter-row .nm{display:flex;flex-direction:column;gap:1px;min-width:0}
-.filter-row .nm a{color:var(--text);font-weight:500;font-size:13px;text-overflow:ellipsis;overflow:hidden;white-space:nowrap;display:block}
-.filter-row .nm small{color:var(--text-3);font-size:11px;font-variant-numeric:tabular-nums}
-.filter-row .reason{font-style:italic;color:#94a3b8;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
-
-.empty{text-align:center;padding:60px 20px;color:var(--text-3)}
-
-@media (max-width:900px){
-  .hero{padding:32px 20px 16px}
-  .framework{grid-template-columns:1fr;padding:0 20px}
-  .stats{grid-template-columns:repeat(2,1fr);padding:0 20px}
-  .controls{padding:0 20px;flex-direction:column;align-items:stretch}
-  .search input{width:100%}
-  main{padding:16px 20px 60px}
-  .cards{grid-template-columns:1fr}
-  .filter-row{grid-template-columns:28px 1fr 1.5fr;gap:8px;padding:9px 12px;font-size:12px}
-  .filter-row .h-subs,.filter-row .h-mo,.filter-row .nm-subs,.filter-row .nm-mo{display:none}
-}
-footer{max-width:1400px;margin:0 auto;padding:24px 32px;color:var(--text-3);font-size:12px;border-top:1px solid var(--border)}
-.legend{display:flex;gap:14px;flex-wrap:wrap;margin-top:16px}
-.legend span{display:inline-flex;align-items:center;gap:6px;font-size:12px;color:var(--text-2)}
-.legend i{width:8px;height:8px;border-radius:2px;display:inline-block}
-.legend i.ll{width:14px;height:3px;border-radius:2px;display:inline-block}
+:root{--bg:#f7f7f7;--surface:#fff;--border:#e5e7eb;--text:#111827;--muted:#6b7280;--soft:#f3f4f6;--green:#059669;--blue:#2563eb;--amber:#d97706;--red:#dc2626;--shadow:0 1px 2px rgba(0,0,0,.04)}
+*{box-sizing:border-box}html,body{margin:0;padding:0;background:var(--bg);color:var(--text);font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",PingFang SC,"Helvetica Neue",Arial,sans-serif;font-size:14px;line-height:1.55}a{color:inherit;text-decoration:none}a:hover{text-decoration:underline}.wrap{max-width:1440px;margin:0 auto;padding:28px 32px 60px}.topbar{display:flex;justify-content:space-between;gap:18px;align-items:flex-start;margin-bottom:18px}.title h1{font-size:24px;line-height:1.25;margin:0 0 8px}.title p{margin:0;color:var(--muted);max-width:900px}.meta{font-size:12px;color:var(--muted);text-align:right;white-space:nowrap}.summary{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:10px;margin:18px 0 22px}.stat{background:var(--surface);border:1px solid var(--border);border-radius:10px;padding:12px 14px;box-shadow:var(--shadow)}.stat b{display:block;font-size:22px;line-height:1.1}.stat span{display:block;color:var(--muted);font-size:12px;margin-top:4px}.notice{background:#fff7ed;border:1px solid #fed7aa;color:#9a3412;border-radius:10px;padding:12px 14px;margin-bottom:20px}.controls{display:flex;justify-content:space-between;gap:12px;align-items:center;margin:20px 0}.tabs{display:flex;gap:8px;flex-wrap:wrap}.tab{border:1px solid var(--border);background:var(--surface);border-radius:999px;padding:7px 12px;color:#374151;cursor:pointer}.tab.active{background:#111827;color:white;border-color:#111827}.search input{width:260px;max-width:100%;border:1px solid var(--border);background:var(--surface);border-radius:8px;padding:8px 10px;outline:none}.section{margin-top:28px}.section-head{display:flex;justify-content:space-between;align-items:flex-end;gap:16px;border-bottom:1px solid var(--border);padding-bottom:10px;margin-bottom:14px}.section-head h2{font-size:18px;margin:0}.section-head p{margin:4px 0 0;color:var(--muted);font-size:13px}.section-count{font-size:12px;color:var(--muted)}.table{display:grid;gap:10px}.card{background:var(--surface);border:1px solid var(--border);border-radius:12px;box-shadow:var(--shadow);overflow:hidden}.card-main{display:grid;grid-template-columns:76px 1.1fr .75fr 1.8fr;gap:14px;padding:14px}.avatar{width:64px;height:64px;border-radius:50%;object-fit:cover;background:#e5e7eb;border:1px solid var(--border)}.name h3{font-size:15px;margin:0 0 4px}.handle{color:var(--muted);font-size:12px}.tags{display:flex;gap:6px;flex-wrap:wrap;margin-top:8px}.tag{display:inline-flex;align-items:center;border-radius:999px;padding:2px 7px;font-size:11px;background:var(--soft);color:#374151}.tag.primary{background:#d1fae5;color:#065f46}.tag.backup{background:#dbeafe;color:#1e40af}.tag.yt{background:#fee2e2;color:#991b1b}.tag.tt{background:#e0f2fe;color:#075985}.metrics{display:grid;grid-template-columns:repeat(2,1fr);gap:8px;align-content:start}.metric{background:var(--soft);border-radius:8px;padding:8px}.metric b{display:block;font-size:16px}.metric span{display:block;color:var(--muted);font-size:11px;margin-top:2px}.reason{font-size:13px;color:#374151}.reason b{color:var(--text)}.links{display:flex;gap:8px;flex-wrap:wrap;margin-top:10px}.btn{display:inline-flex;border:1px solid var(--border);border-radius:7px;padding:5px 9px;background:#fff;color:#374151;font-size:12px}.videos{border-top:1px solid var(--border);background:#fafafa;padding:12px 14px;display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:10px}.video{display:grid;grid-template-columns:72px 1fr;gap:8px;min-width:0}.thumb{width:72px;aspect-ratio:16/10;border-radius:6px;object-fit:cover;background:#d1d5db}.vtitle{font-size:12px;line-height:1.35;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}.vmeta{font-size:11px;color:var(--muted);margin-top:3px}.replacement{background:var(--surface);border:1px solid var(--border);border-radius:10px;padding:12px 14px;margin-top:12px}.replacement h3{font-size:14px;margin:0 0 8px}.replacement ul{margin:0;padding-left:20px;color:#374151}.replacement li{margin:5px 0}.empty{padding:30px;text-align:center;color:var(--muted);background:var(--surface);border:1px solid var(--border);border-radius:12px}.footer{border-top:1px solid var(--border);margin-top:36px;padding-top:16px;color:var(--muted);font-size:12px}@media(max-width:1000px){.summary{grid-template-columns:repeat(2,1fr)}.card-main{grid-template-columns:64px 1fr}.metrics,.reason{grid-column:2}.videos{grid-template-columns:repeat(2,1fr)}.topbar{flex-direction:column}.meta{text-align:left}.controls{flex-direction:column;align-items:stretch}.search input{width:100%}}@media(max-width:640px){.wrap{padding:20px 16px 44px}.summary{grid-template-columns:1fr}.videos{grid-template-columns:1fr}.video{grid-template-columns:88px 1fr}.thumb{width:88px}.metrics{grid-template-columns:1fr}}
 </style>
 </head>
 <body>
+<div class="wrap">
+  <div class="topbar">
+    <div class="title">
+      <h1>Verdent 6月德国 KOL 推荐名单</h1>
+      <p>按最新口径重排：正选 <b>4 个 YouTube + 6 个短视频</b>；主线聚焦 builder / AI coding / 前端构建场景，先锋新闻类只保留长短各 1 个。所有人默认先确认档期，若无档期则从同方向替补池顺位替换。</p>
+    </div>
+    <div class="meta">Noindex / nofollow<br>数据源：已有候选库 + EasyKOL HAR</div>
+  </div>
 
-<header class="hero">
-  <div class="meta"><b>Verdent · 德国 KOL 候选评估 v3</b> &nbsp;·&nbsp; 6 Builder + 4 头部资讯 = 10 推荐 &nbsp;·&nbsp; SMB 业主作为备选方案 &nbsp;·&nbsp; 数据 2026-05-25</div>
-  <h1>Builder 受众主推（6）+ 头部曝光/资讯（4）</h1>
-  <p>本次基于 <b>《产品功能介绍-26.5》</b> + <b>ENG-May Verdent KOL Brief</b>。Verdent 目标用户是有真实需求的 <b>builder</b>。SMB 业主类候选整体质量不达标，整组撤出主推、降为<b>备选方案</b>（如要测 SMB 角度可启用）。最终 10 推荐 = <b>6 Builder + 4 头部/资讯</b>，覆盖 Sarah/Mike/Alex 主线 + Tom（备选）+ 决策人 + 大众曝光。</p>
-  <p class="dim">每张卡片左侧色条：<span style="color:var(--pick)">绿=推荐主投</span> · <span style="color:var(--backup)">蓝=备选</span> · <span style="color:var(--rank3)">灰=同类未选（覆盖于上层 KOL）</span></p>
-</header>
+  <div class="notice">说明：飞书文档暂时无权限，本页先基于用户给定比例、已有 YouTube 候选数据、EasyKOL TikTok LIKE 集合推进。平台分数仅作召回参考，不作为绝对筛选标准。</div>
 
-<div class="framework">
-  <div class="f-card A">
-    <div class="h"><span class="let">A</span>独立 Builder / 个人创作者 <span style="margin-left:auto;font-size:11px;color:var(--pick);font-weight:700">主推</span></div>
-    <div class="sub">Solo Founder（Mike）+ YouTuber（Alex）+ 应届/转码者（Tom）。从 0 做产品、副业变现。内容形态：Vibe Coding 实战、SaaS 案例、挑战赛 vlog。</div>
-    <div class="picks">候选 9 · 推荐 <b>6</b> · 备选 1 · T3 未选 2</div>
+  <div class="summary" id="summary"></div>
+
+  <div class="controls">
+    <div class="tabs">
+      <button class="tab active" data-filter="all">全部</button>
+      <button class="tab" data-filter="primary">正选</button>
+      <button class="tab" data-filter="backup">替补</button>
+      <button class="tab" data-filter="YouTube">YouTube</button>
+      <button class="tab" data-filter="TikTok">TikTok</button>
+      <button class="tab" data-filter="AI Coding">AI Coding</button>
+      <button class="tab" data-filter="前端">前端/设计</button>
+      <button class="tab" data-filter="先锋">先锋新闻</button>
+    </div>
+    <div class="search"><input id="search" placeholder="搜索名称 / handle / 视频标题 / 推荐理由"></div>
   </div>
-  <div class="f-card B" style="opacity:.75">
-    <div class="h"><span class="let">B</span>中小企业主 / Business Owner <span style="margin-left:auto;font-size:11px;color:var(--backup);font-weight:700">备选方案</span></div>
-    <div class="sub">整体质量不达标（体量小 / 内容不够具体），<b>整组降为备选方案</b>。如想测 SMB 合规叙事可启用，主推阶段不投。</div>
-    <div class="picks">候选 4 · 推荐 0 · 备选 <b>3</b> · T3 未选 1</div>
-  </div>
-  <div class="f-card C">
-    <div class="h"><span class="let">C</span>决策人 / 头部曝光 <span style="margin-left:auto;font-size:11px;color:var(--pick);font-weight:700">主推</span></div>
-    <div class="sub">Sarah PM + 企业 IT 决策 + 大众 AI 关注者。建立"值得关注"心智、对比已有方案。内容形态：评测对比、AI 周报、CEO 访谈。</div>
-    <div class="picks">候选 6 · 推荐 <b>4</b> · 备选 2 · T3 未选 0</div>
-  </div>
+
+  <section class="section">
+    <div class="section-head"><div><h2>正选：默认先联系并填满</h2><p>结构为 YouTube 4 个、短视频 6 个。新闻类仅长短各 1 个，其余都围绕 builder。</p></div><div class="section-count" id="primaryCount"></div></div>
+    <div class="table" id="primaryList"></div>
+  </section>
+
+  <section class="section">
+    <div class="section-head"><div><h2>替补：无档期 / 不合作时替换</h2><p>优先从同 campaign、同平台或相近 builder 受众里替换。</p></div><div class="section-count" id="backupCount"></div></div>
+    <div class="replacement">
+      <h3>替换规则</h3>
+      <ul>
+        <li>AI Coding YouTube 正选无档期：优先 The Morpheus Tutorials / AI mit Arnie / Sebastian Claes。</li>
+        <li>AI Coding 短视频正选无档期：优先 TechSnack / Nader Ait-Laouad / Michael Truch。</li>
+        <li>前端/设计短视频正选无档期：优先 Ully AI；如接受 YouTube 补位再看 Toomarte / WPerfolg。</li>
+        <li>新闻长视频无档期：Digitale Profis 或 Christoph Magnussen；新闻短视频无档期：inkenai。</li>
+      </ul>
+    </div>
+    <div class="table" id="backupList"></div>
+  </section>
+
+  <div class="footer">为减少被搜索引擎收录，页面已加入 <code>robots</code> noindex/nofollow meta，并提供 <code>robots.txt</code> 禁止抓取。GitHub Pages 仍是公开 URL，请勿放入敏感信息。</div>
 </div>
-
-<div class="stats" id="stats"></div>
-
-<div class="controls">
-  <div class="tabs" id="tabs">
-    <button class="tab active" data-view="ALL">全部</button>
-    <button class="tab" data-view="pick">10 推荐</button>
-    <button class="tab" data-view="backup">6 备选</button>
-    <button class="tab" data-view="A">A · 独立 Builder（主推）</button>
-    <button class="tab" data-view="B">B · SMB 业主（备选方案）</button>
-    <button class="tab" data-view="C">C · 决策人/头部（主推）</button>
-    <button class="tab" data-view="filter">23 已剔除</button>
-  </div>
-  <div class="search">
-    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
-    <input id="q" placeholder="搜索频道名/视频标题">
-  </div>
-</div>
-
-<main id="main"></main>
-
-<footer>
-  <div>页面说明：每张卡片含状态标签（推荐/备选/同类未选）+ Persona 标签 + 选它的理由 + 4 个最近视频封面与标题 + YouTube 直链 + 邮箱。</div>
-  <div class="legend">
-    <span><i class="ll" style="background:var(--pick)"></i>推荐主投（10）</span>
-    <span><i class="ll" style="background:var(--backup)"></i>备选（6）</span>
-    <span><i class="ll" style="background:var(--rank3)"></i>同类未选（2）</span>
-    <span><i style="background:var(--catA)"></i>分类 A · 独立 Builder</span>
-    <span><i style="background:var(--catB)"></i>分类 B · SMB</span>
-    <span><i style="background:var(--catC)"></i>分类 C · 决策人</span>
-  </div>
-</footer>
-
 <script>
-const CAT_INFO = {
-  A: {name:'独立 Builder / 个人创作者（主推）', desc:'Solo Founder（Mike）+ YouTuber（Alex）+ 应届/转码者（Tom）。从 0 做产品、副业变现。'},
-  B: {name:'中小企业主 / Business Owner（备选方案，主推阶段不投）', desc:'整体质量不达标，整组降为备选。如想测 SMB 合规/自助建站角度可启用。'},
-  C: {name:'决策人 / 头部曝光（主推）', desc:'Sarah PM + 企业 IT 决策 + 大众 AI 关注者。建立"值得关注"心智、对比已有方案。'},
-};
-const TIER_NAME = {1:'Tier 1 · 强对口 / 强推荐',2:'Tier 2 · 中等',3:'Tier 3 · 弱（同质或体量不足）'};
-
-let DATA = [];
-let activeView = 'ALL';
-let q = '';
-
-function nfmt(n){
-  if(!n && n !== 0) return '—';
-  if(n >= 1000000) return (n/1000000).toFixed(1)+'M';
-  if(n >= 1000) return (n/1000).toFixed(n>=10000?0:1)+'K';
-  return n.toString();
-}
-function escape(s){
-  if(!s) return '';
-  return String(s).replace(/[&<>"']/g, c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
-}
-
-function renderStats(){
-  const c = {pick:0,backup:0,rank3:0,filter:0};
-  let pickSubs = 0;
-  DATA.forEach(r=>{c[r.status]++; if(r.status==='pick') pickSubs+=r.subs});
-  document.getElementById('stats').innerHTML = `
-    <div class="stat"><span class="num">${DATA.length}</span><span class="lbl">候选总数</span></div>
-    <div class="stat"><span class="num" style="color:var(--pick)">${c.pick}</span><span class="lbl">推荐主投</span></div>
-    <div class="stat"><span class="num" style="color:var(--backup)">${c.backup}</span><span class="lbl">备选</span></div>
-    <div class="stat"><span class="num">${nfmt(pickSubs)}</span><span class="lbl">10 推荐总粉量</span></div>
-  `;
-}
-
-function thumbHtml(v){
-  const fallback = 'data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 9"><rect width="16" height="9" fill="%231e293b"/></svg>';
-  const meta = [v.views?nfmt(v.views)+' views':'', v.when||''].filter(Boolean).join(' · ');
-  return `<a class="vid" href="${escape(v.url)}" target="_blank" rel="noopener" title="${escape(v.title||'')}">
-    <span class="cover">
-      <img src="${escape(v.thumb||fallback)}" loading="lazy" referrerpolicy="no-referrer" onerror="this.src='${fallback}'">
-      ${v.views?`<span class="views">${nfmt(v.views)}</span>`:''}
-      ${v.duration?`<span class="dur">${escape(v.duration)}</span>`:''}
-    </span>
-    <div class="vtitle">${escape(v.title||'')}</div>
-    ${meta?`<div class="vmeta">${escape(meta)}</div>`:''}
-  </a>`;
-}
-
-function statusLabel(r){
-  if(r.status==='pick') return `<span class="status-badge pick">✓ 推荐</span>`;
-  if(r.status==='backup') return `<span class="status-badge backup">备选</span>`;
-  if(r.status==='rank3') return `<span class="status-badge rank3">未选</span>`;
-  return '';
-}
-
-function ytButton(r){
-  return r.yt_url?`<a class="btn primary" href="${escape(r.yt_url)}" target="_blank" rel="noopener"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M23 7.5c0-1.6-1.2-2.9-2.8-3.1C17.5 4 12 4 12 4s-5.5 0-8.2.4C2.2 4.6 1 5.9 1 7.5 1 10.2 1 12 1 12s0 1.8 0 4.5c0 1.6 1.2 2.9 2.8 3.1C6.5 20 12 20 12 20s5.5 0 8.2-.4c1.6-.2 2.8-1.5 2.8-3.1 0-2.7 0-4.5 0-4.5s0-1.8 0-4.5z"/><polygon points="9.75,15.5 16,12 9.75,8.5" fill="#fff"/></svg>YouTube</a>`:'';
-}
-function emailButton(r){
-  return r.email?`<a class="btn" href="mailto:${escape(r.email)}"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/><polyline points="22,6 12,13 2,6"/></svg>${escape(r.email)}</a>`:'<span class="btn" style="cursor:default;color:var(--text-3)">无邮箱</span>';
-}
-
-function cardHtml(r){
-  const vids = (r.videos||[]).slice(0,4);
-  const tags = [];
-  if(r.persona) tags.push(`<span class="tag persona">📌 ${escape(r.persona)}</span>`);
-  if(r.status==='backup' && r.backup_for) tags.push(`<span class="tag bk">替补 ${escape(r.backup_for)}</span>`);
-  return `<article class="card ${r.status}">
-    <div class="card-top">
-      <img class="avatar" src="${escape(r.avatar||'')}" referrerpolicy="no-referrer" alt="">
-      <div class="title">
-        <h3>${escape(r.name)}</h3>
-        <div class="handle">${escape(r.handle||'')} · ${escape(r.lang||'-')} · 最近发布 ${escape(r.last_pub||'—')}</div>
-      </div>
-      ${statusLabel(r)}
-    </div>
-    <div class="kpis">
-      <div class="kpi"><div class="v">${nfmt(r.subs)}</div><div class="l">subs</div></div>
-      <div class="kpi"><div class="v">${nfmt(r.avg_views)}</div><div class="l">avg view</div></div>
-      <div class="kpi"><div class="v">${r.eng_med?r.eng_med+'%':'—'}</div><div class="l">med eng</div></div>
-      <div class="kpi"><div class="v">${r.monthly_posts||0}</div><div class="l">/ month</div></div>
-    </div>
-    ${tags.length?`<div class="tags">${tags.join('')}</div>`:''}
-    <div class="why">${escape(r.why||'')}</div>
-    <div class="videos">${vids.map(thumbHtml).join('')}</div>
-    <div class="desc">${escape(r.desc||'')}</div>
-    <div class="actions">${ytButton(r)}${emailButton(r)}</div>
-  </article>`;
-}
-
-function filterRow(r){
-  return `<div class="filter-row">
-    <img class="av" src="${escape(r.avatar||'')}" referrerpolicy="no-referrer" alt="">
-    <div class="nm">
-      ${r.yt_url?`<a href="${escape(r.yt_url)}" target="_blank" rel="noopener">${escape(r.name)}</a>`:`<span>${escape(r.name)}</span>`}
-      <small>${escape(r.handle||'')} · 最近发布 ${escape(r.last_pub||'—')}</small>
-    </div>
-    <span class="nm-subs">${nfmt(r.subs)} subs</span>
-    <span class="nm-mo">${r.monthly_posts||0}/月</span>
-    <span class="reason">${escape(r.filter_reason||'')}</span>
-  </div>`;
-}
-
-function renderCategorySection(cat, items){
-  const info = CAT_INFO[cat];
-  const picksInCat = items.filter(r=>r.status==='pick');
-  const totalSubs = items.reduce((s,r)=>s+r.subs,0);
-  const tiers = {1:[],2:[],3:[]};
-  items.forEach(r=>{ if(r.tier) tiers[r.tier].push(r); });
-
-  let html = `<section class="cat-section ${cat}">
-    <div class="cat-header">
-      <span class="cat-letter">${cat}</span>
-      <div>
-        <div class="cat-title">${escape(info.name)}</div>
-        <div class="cat-desc">${escape(info.desc)}</div>
-      </div>
-      <div class="cat-summary">候选 ${items.length} · 推荐 <b>${picksInCat.length}</b> · 总粉量 ${nfmt(totalSubs)}</div>
-    </div>`;
-  [1,2,3].forEach(t=>{
-    if(!tiers[t].length) return;
-    const tPicks = tiers[t].filter(r=>r.status==='pick').length;
-    html += `<div class="tier-block">
-      <div class="tier-label">
-        <span class="num">${t}</span>
-        <span class="name">${escape(TIER_NAME[t].split('·')[0])}</span>
-        <span class="meta">· ${escape(TIER_NAME[t].split('·')[1].trim())}${tPicks?` · 推荐 ${tPicks} 个`:''}</span>
-      </div>
-      <div class="cards">${tiers[t].map(cardHtml).join('')}</div>
-    </div>`;
-  });
-  html += `</section>`;
-  return html;
-}
-
-function render(){
-  const ql = q.trim().toLowerCase();
-  const matches = r=>{
-    if(!ql) return true;
-    const hay = (r.name+' '+(r.desc||'')+' '+(r.handle||'')+' '+(r.why||'')+' '+(r.persona||'')+' '+(r.videos||[]).map(v=>v.title).join(' ')).toLowerCase();
-    return hay.includes(ql);
-  };
-
-  let inCat = DATA.filter(r=>r.cat && matches(r));
-  let filtered = DATA.filter(r=>r.status==='filter' && matches(r));
-
-  // Apply tab
-  if(activeView==='pick'){ inCat = inCat.filter(r=>r.status==='pick'); filtered = []; }
-  else if(activeView==='backup'){ inCat = inCat.filter(r=>r.status==='backup'); filtered = []; }
-  else if(activeView==='A' || activeView==='B' || activeView==='C'){ inCat = inCat.filter(r=>r.cat===activeView); filtered = []; }
-  else if(activeView==='filter'){
-    inCat = DATA.filter(r=>r.status==='rank3' && matches(r));
-    // rank3 also goes into filter view alongside actual filter
-  }
-
-  let html = '';
-  if(activeView==='filter'){
-    const allFilteredOut = [...inCat, ...filtered].sort((a,b)=>b.subs-a.subs);
-    if(allFilteredOut.length){
-      html += `<section class="filter-section">
-        <div class="filter-header">
-          <div>
-            <div class="cat-title">已剔除（${allFilteredOut.length}）</div>
-            <div class="cat-desc">不建议接洽：停更 / 翻译搬运号 / 政府机构 / 受众错位 / 同类已被覆盖</div>
-          </div>
-        </div>
-        <div class="filter-list">
-          <div class="filter-row head">
-            <span></span><span>频道</span><span class="h-subs">订阅数</span><span class="h-mo">月发</span><span>剔除原因</span>
-          </div>
-          ${allFilteredOut.map(filterRow).join('')}
-        </div>
-      </section>`;
-    }
-  } else {
-    ['A','B','C'].forEach(c=>{
-      const items = inCat.filter(r=>r.cat===c);
-      if(items.length) html += renderCategorySection(c, items);
-    });
-    if(activeView==='ALL' && filtered.length){
-      // Also show all filter-out (rank3 + filter) as compact list at the bottom of ALL view
-      const rank3 = DATA.filter(r=>r.status==='rank3' && matches(r));
-      const allFilteredOut = [...rank3, ...filtered].sort((a,b)=>b.subs-a.subs);
-      html += `<section class="filter-section">
-        <div class="filter-header">
-          <div>
-            <div class="cat-title">已剔除（${allFilteredOut.length}）</div>
-            <div class="cat-desc">不建议接洽：停更 / 翻译搬运号 / 政府机构 / 受众错位 / 同类已被覆盖</div>
-          </div>
-        </div>
-        <div class="filter-list">
-          <div class="filter-row head">
-            <span></span><span>频道</span><span class="h-subs">订阅数</span><span class="h-mo">月发</span><span>剔除原因</span>
-          </div>
-          ${allFilteredOut.map(filterRow).join('')}
-        </div>
-      </section>`;
-    }
-  }
-
-  if(!html) html = '<div class="empty">没有匹配的候选</div>';
-  document.getElementById('main').innerHTML = html;
-}
-
-document.getElementById('tabs').addEventListener('click', e=>{
-  const b = e.target.closest('.tab');
-  if(!b) return;
-  document.querySelectorAll('.tab').forEach(x=>x.classList.remove('active'));
-  b.classList.add('active');
-  activeView = b.dataset.view;
-  render();
-});
-document.getElementById('q').addEventListener('input', e=>{
-  q = e.target.value;
-  render();
-});
-
-fetch('kol.json').then(r=>r.json()).then(d=>{
-  DATA = d;
-  renderStats();
-  render();
-}).catch(err=>{
-  document.getElementById('main').innerHTML = '<div class="empty">数据加载失败：'+err.message+'</div>';
-});
+const fmt=n=>{if(!n)return '—'; if(n>=1000000)return (n/1000000).toFixed(n%1000000?1:0)+'M'; if(n>=1000)return (n/1000).toFixed(n%1000?1:0)+'K'; return String(n)};
+const esc=s=>String(s??'').replace(/[&<>'"]/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;',"'":'&#39;','"':'&quot;'}[m]));
+let DATA=[], filter='all', q='';
+function video(v){return `<a class="video" href="${esc(v.url||'#')}" target="_blank" rel="noreferrer"><img class="thumb" loading="lazy" src="${esc(v.thumb||'')}" alt=""><div><div class="vtitle">${esc(v.title||'')}</div><div class="vmeta">${fmt(v.views)} views · ${esc(v.when||'recent')}</div></div></a>`}
+function card(x){return `<article class="card"><div class="card-main"><img class="avatar" loading="lazy" src="${esc(x.avatar)}" alt="${esc(x.name)}"><div class="name"><h3><a href="${esc(x.profile_url||'#')}" target="_blank" rel="noreferrer">${esc(x.name)}</a></h3><div class="handle">${esc(x.handle)} · ${esc(x.region||'DE')}</div><div class="tags"><span class="tag ${x.status==='primary'?'primary':'backup'}">${x.status==='primary'?'正选':'替补'}</span><span class="tag ${x.platform==='YouTube'?'yt':'tt'}">${esc(x.platform)}</span><span class="tag">${esc(x.campaign)}</span></div></div><div class="metrics"><div class="metric"><b>${fmt(x.followers)}</b><span>粉丝/订阅</span></div><div class="metric"><b>${fmt(x.avg_views)}</b><span>均播</span></div><div class="metric"><b>${esc(x.contact_status||'待确认')}</b><span>档期</span></div><div class="metric"><b>${esc(x.score)}</b><span>参考分</span></div></div><div class="reason"><b>推荐理由：</b>${esc(x.why||x.reason_raw||'')}<div class="links"><a class="btn" href="${esc(x.profile_url||'#')}" target="_blank" rel="noreferrer">主页</a></div></div></div><div class="videos">${(x.videos||[]).slice(0,4).map(video).join('')}</div></article>`}
+function hay(x){return [x.name,x.handle,x.platform,x.campaign,x.why,x.pitch,...(x.videos||[]).map(v=>v.title)].join(' ').toLowerCase()}
+function pass(x){const h=hay(x);return (filter==='all'||x.status===filter||x.platform===filter||h.includes(filter.toLowerCase())) && (!q||h.includes(q.toLowerCase()))}
+function render(){const p=DATA.filter(x=>x.status==='primary'&&pass(x));const b=DATA.filter(x=>x.status==='backup'&&pass(x));document.getElementById('primaryList').innerHTML=p.length?p.map(card).join(''):'<div class="empty">没有匹配的正选</div>';document.getElementById('backupList').innerHTML=b.length?b.map(card).join(''):'<div class="empty">没有匹配的替补</div>';document.getElementById('primaryCount').textContent=`${p.length} 个`;document.getElementById('backupCount').textContent=`${b.length} 个`;}
+function summary(){const primary=DATA.filter(x=>x.status==='primary');const yt=primary.filter(x=>x.platform==='YouTube').length;const tt=primary.filter(x=>x.platform==='TikTok').length;const news=primary.filter(x=>x.campaign.includes('先锋')).length;const frontend=primary.filter(x=>x.campaign.includes('前端')).length;document.getElementById('summary').innerHTML=[['10','正选总数'],[yt,'YouTube 正选'],[tt,'短视频正选'],[frontend,'前端/设计短视频'],[news,'先锋新闻（长短各 1）']].map(([n,l])=>`<div class="stat"><b>${n}</b><span>${l}</span></div>`).join('')}
+fetch('kol-june.json').then(r=>r.json()).then(d=>{DATA=d;summary();render()});
+document.querySelectorAll('.tab').forEach(btn=>btn.addEventListener('click',()=>{document.querySelectorAll('.tab').forEach(x=>x.classList.remove('active'));btn.classList.add('active');filter=btn.dataset.filter;render()}));
+document.getElementById('search').addEventListener('input',e=>{q=e.target.value.trim();render()});
 </script>
 </body>
 </html>
