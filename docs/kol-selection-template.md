@@ -150,3 +150,67 @@ Disallow: /
 8. 剔除重要误选样本，并写清剔除原因。
 9. 最终数据字段包括：name, handle, platform, avatar, followers, avg_views, campaign, status, slot_role, contact_status, why, videos。
 ```
+
+## 11. Existing-contact dedupe workflow / 已联系 KOL 查重流程
+
+本项目固定使用以下飞书多维表格作为“已联系 / 执行中 / 已发布”查重来源：
+
+- Base: `https://cybercreate.feishu.cn/base/Tjvzb84ayacQEJsNxWgcLcxBndh?table=tblvyU3GKeS2TP2z&view=vewAukWAAu`
+- Base token: `Tjvzb84ayacQEJsNxWgcLcxBndh`
+- Table: `tblvyU3GKeS2TP2z` / `执行总表`
+- Key fields:
+  - `博主名称`
+  - `Agency`
+  - `执行状态`
+  - `国家/地区`
+  - `语言`
+
+### 11.1 标准步骤
+
+1. 先完成 KOL 筛选，得到我们“看得上”的 `primary` 名单。
+2. 读取 `执行总表` 的字段结构，确认字段名没有变化。
+3. 导出 `博主名称 / Agency / 执行状态 / 国家/地区 / 语言`。
+4. 用 KOL 的 handle / profile URL 里的 `@handle` 与 `博主名称` 做归一化精确匹配。
+5. 不使用宽松模糊匹配，避免误判，例如 `julia` 不等于 `Julian Ivanov`。
+6. 输出两段文本：
+   - `未命中：可给 Agency 新联系`
+   - `已命中：交给已有 Agency 跟进`
+7. 暂不投空位单独列出，不发给 Agency。
+
+### 11.2 归一化匹配规则
+
+- 全部转小写。
+- 去掉开头 `@`。
+- 从 YouTube / TikTok URL 中提取 `@handle`。
+- 去掉非字母数字字符。
+- 只做精确匹配，不做短子串匹配。
+
+### 11.3 Agency handoff 文本模板
+
+```markdown
+## 未在执行总表命中：可整理给 Agency 新联系
+- KOL Name — https://platform.com/@handle
+
+## 已在执行总表命中：优先交给已有 Agency 跟进
+- KOL Name — https://platform.com/@handle
+  - Agency: AgencyName×N
+  - 状态: 发布×N / 沟通中×N / 创作中×N
+  - 命中记录数: N
+
+## 暂不投 / 待讨论空位
+- Slot Name — 暂不投原因
+```
+
+### 11.4 Reusable prompt add-on
+
+```text
+筛选完成后，请先用固定的飞书多维表格执行总表查重：
+https://cybercreate.feishu.cn/base/Tjvzb84ayacQEJsNxWgcLcxBndh?table=tblvyU3GKeS2TP2z&view=vewAukWAAu
+
+查重字段使用：博主名称、Agency、执行状态、国家/地区、语言。
+匹配时用 KOL handle / profile URL @handle 与「博主名称」归一化精确匹配，不要做宽松模糊匹配。
+输出两部分：
+1. 未联系过：给 Agency 新联系，只包含名称和主页链接。
+2. 已联系过：列名称、主页链接、命中的 Agency 和执行状态，交给已有 Agency 跟进。
+暂不投空位单独列出。
+```
