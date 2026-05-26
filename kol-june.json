@@ -22,7 +22,8 @@
         "duration": "25:50",
         "when": "16 hours ago",
         "thumb": "https://i.ytimg.com/vi/XkgkqBkwA9c/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=XkgkqBkwA9c"
+        "url": "https://www.youtube.com/watch?v=XkgkqBkwA9c",
+        "title_en": ""
       },
       {
         "title": "Use Claude Code for free: Unlimited coding without a powerful PC",
@@ -30,7 +31,8 @@
         "duration": "10:03",
         "when": "4 days ago",
         "thumb": "https://i.ytimg.com/vi/vx0-0RjwIsQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=vx0-0RjwIsQ"
+        "url": "https://www.youtube.com/watch?v=vx0-0RjwIsQ",
+        "title_en": ""
       },
       {
         "title": "Claude Code vom Handy für dich arbeiten lassen (Remote Control)",
@@ -38,7 +40,8 @@
         "duration": "22:56",
         "when": "8 days ago",
         "thumb": "https://i.ytimg.com/vi/pvhphecd70Y/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=pvhphecd70Y"
+        "url": "https://www.youtube.com/watch?v=pvhphecd70Y",
+        "title_en": "Have Claude Code work for you from your phone (remote control)"
       },
       {
         "title": "I have set Claude Code as my video editor.",
@@ -46,7 +49,8 @@
         "duration": "23:16",
         "when": "13 days ago",
         "thumb": "https://i.ytimg.com/vi/_7bhJYTi5e0/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=_7bhJYTi5e0"
+        "url": "https://www.youtube.com/watch?v=_7bhJYTi5e0",
+        "title_en": ""
       }
     ],
     "status": "primary",
@@ -79,7 +83,8 @@
         "duration": "30:05",
         "when": "3 days ago",
         "thumb": "https://i.ytimg.com/vi/5KHfiL7Fmzs/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=5KHfiL7Fmzs"
+        "url": "https://www.youtube.com/watch?v=5KHfiL7Fmzs",
+        "title_en": ""
       },
       {
         "title": "Anthropic has replaced Markdown. Should you too?",
@@ -87,7 +92,8 @@
         "duration": "14:18",
         "when": "13 days ago",
         "thumb": "https://i.ytimg.com/vi/E5I1Jfuhiqc/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=E5I1Jfuhiqc"
+        "url": "https://www.youtube.com/watch?v=E5I1Jfuhiqc",
+        "title_en": ""
       },
       {
         "title": "This means your Claude code is among the top 1%.",
@@ -95,7 +101,8 @@
         "duration": "10:06",
         "when": "2 weeks ago",
         "thumb": "https://i.ytimg.com/vi/C9Omu4wWGK0/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=C9Omu4wWGK0"
+        "url": "https://www.youtube.com/watch?v=C9Omu4wWGK0",
+        "title_en": ""
       },
       {
         "title": "Anthropic, we need to talk...",
@@ -103,7 +110,8 @@
         "duration": "17:07",
         "when": "3 weeks ago",
         "thumb": "https://i.ytimg.com/vi/gK5hEPoaKSQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=gK5hEPoaKSQ"
+        "url": "https://www.youtube.com/watch?v=gK5hEPoaKSQ",
+        "title_en": ""
       }
     ],
     "status": "primary",
@@ -136,7 +144,8 @@
         "duration": "33:56",
         "when": "15 hours ago",
         "thumb": "https://i.ytimg.com/vi/-bVnOc26NoE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=-bVnOc26NoE"
+        "url": "https://www.youtube.com/watch?v=-bVnOc26NoE",
+        "title_en": "My new skill builds complete SME systems in 90 minutes (Claude Code)"
       },
       {
         "title": "So baust du 2026 eine Website in unter 30 Min (mit Claude)",
@@ -144,7 +153,8 @@
         "duration": "26:53",
         "when": "3 weeks ago",
         "thumb": "https://i.ytimg.com/vi/ncGflhZubTg/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=ncGflhZubTg"
+        "url": "https://www.youtube.com/watch?v=ncGflhZubTg",
+        "title_en": "How to build a website in under 30 minutes in 2026 (with Claude)"
       },
       {
         "title": "Vom ersten Klick bis Onboarding: Die Kundenmaschine (Vibe Coding)",
@@ -152,7 +162,8 @@
         "duration": "20:45",
         "when": "4 weeks ago",
         "thumb": "https://i.ytimg.com/vi/zYH3cOc_Eps/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=zYH3cOc_Eps"
+        "url": "https://www.youtube.com/watch?v=zYH3cOc_Eps",
+        "title_en": "From first click to onboarding: the customer machine (vibe coding)"
       },
       {
         "title": "GPT Image 2 ist da... (WAHNSINN)",
@@ -160,7 +171,8 @@
         "duration": "21:09",
         "when": "1 month ago",
         "thumb": "https://i.ytimg.com/vi/e_XtSsZPeLY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=e_XtSsZPeLY"
+        "url": "https://www.youtube.com/watch?v=e_XtSsZPeLY",
+        "title_en": "GPT Image 2 is here... (insane)"
       }
     ],
     "status": "primary",
@@ -193,7 +205,8 @@
         "duration": "33:09",
         "when": "1 day ago",
         "thumb": "https://i.ytimg.com/vi/zzJp0EcdIDc/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=zzJp0EcdIDc"
+        "url": "https://www.youtube.com/watch?v=zzJp0EcdIDc",
+        "title_en": "Gemini 3.5: everyone overlooks this problem & what Omni can really do (+ AI Act update interview)"
       },
       {
         "title": "STREITGESPRÄCH: Die Abschaffung des Menschen & das wahre Ziel von KI",
@@ -201,7 +214,8 @@
         "duration": "2:37:50",
         "when": "3 days ago",
         "thumb": "https://i.ytimg.com/vi/vSwmJDMw4xY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=vSwmJDMw4xY"
+        "url": "https://www.youtube.com/watch?v=vSwmJDMw4xY",
+        "title_en": "Debate: the abolition of humans & the real goal of AI"
       },
       {
         "title": "KI-Forscher: Vergiss ChatGPT, DAS ist der nächste Durchbruch! Weltmodelle erklärt (Daniel Cremers)",
@@ -209,7 +223,8 @@
         "duration": "1:06:03",
         "when": "5 days ago",
         "thumb": "https://i.ytimg.com/vi/FvSRHiwQN0w/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=FvSRHiwQN0w"
+        "url": "https://www.youtube.com/watch?v=FvSRHiwQN0w",
+        "title_en": "AI researcher: forget ChatGPT, this is the next breakthrough! World models explained (Daniel Cremers)"
       },
       {
         "title": "KI-News: DAS kommt NACH KI-Agenten! Claude ist ZURÜCK, Codex in ChatGPT & BCI-Interview",
@@ -217,7 +232,8 @@
         "duration": "27:17",
         "when": "8 days ago",
         "thumb": "https://i.ytimg.com/vi/bKK0GP8OXlo/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=bKK0GP8OXlo"
+        "url": "https://www.youtube.com/watch?v=bKK0GP8OXlo",
+        "title_en": "AI news: this comes after AI agents! Claude is back, Codex in ChatGPT & BCI interview"
       }
     ],
     "status": "primary",
@@ -252,7 +268,8 @@
         "duration": "13s",
         "when": "2026-05-23",
         "thumb": "https://p16-common-sign.tiktokcdn-eu.com/tos-no1a-p-0037-no/ooDA5CEuxuDAVrga8NAqFlOFfekAAqIC7vEZ8N~tplv-tiktokx-cropcenter-q:300:400:q70.jpeg?dr=9232&refresh_token=15146f63&x-expires=1779865200&x-signature=zuBmBckLEMsgpfGtIVTR6KsBA8g%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=132edbea&idc=useast2b&biz_tag=tt_video&s=PUBLISH&sc=cover",
-        "url": "https://www.tiktok.com/@technic_tricks_de/video/7642308511161961750"
+        "url": "https://www.tiktok.com/@technic_tricks_de/video/7642308511161961750",
+        "title_en": "A website worth saving ;) #lifehack"
       },
       {
         "title": "Versteckte Funktionen der Windows-Taste? #lifehack #pctipps",
@@ -260,7 +277,8 @@
         "duration": "22s",
         "when": "2026-05-21",
         "thumb": "https://p19-common-sign.tiktokcdn-eu.com/tos-no1a-p-0037-no/osAfuF2RA1WVKDqSQQ2FpbAdAfECDqTkgACdIF~tplv-tiktokx-cropcenter-q:300:400:q70.jpeg?dr=9232&refresh_token=27aa7c6b&x-expires=1779865200&x-signature=JvbiRivm3YNbZ5Wtous%2FdMgFsWQ%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=132edbea&idc=useast2b&biz_tag=tt_video&s=PUBLISH&sc=cover",
-        "url": "https://www.tiktok.com/@technic_tricks_de/video/7642306919390022934"
+        "url": "https://www.tiktok.com/@technic_tricks_de/video/7642306919390022934",
+        "title_en": "Hidden functions of the Windows key? #lifehack #PCtips"
       },
       {
         "title": "Einen eigenen KI Mitarbeiter im Handy? #LifeHack #pctipps #ki Anzeige",
@@ -268,7 +286,8 @@
         "duration": "46s",
         "when": "2026-05-15",
         "thumb": "https://p19-common-sign.tiktokcdn-eu.com/tos-useast2a-p-0037-euttp/oYlqJvueAAA8ARi0QEFwBKmDCf6Ko4iEDECAGI~tplv-tiktokx-cropcenter-q:300:400:q70.jpeg?dr=9232&refresh_token=043d2698&x-expires=1779865200&x-signature=8bFKD3YJjKafp1hTOJUJUjGugvM%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=132edbea&idc=useast2b&s=PUBLISH&sc=cover&item=7639841678035078432&biz_tag=tt_video",
-        "url": "https://www.tiktok.com/@technic_tricks_de/video/7639841678035078432"
+        "url": "https://www.tiktok.com/@technic_tricks_de/video/7639841678035078432",
+        "title_en": "Your own AI employee on your phone? #lifehack #PCtips #AI ad"
       },
       {
         "title": "KI kann mittlerweile mehr als nur Fragen beantworten! #LifeHack #ki Anzeige ",
@@ -276,7 +295,8 @@
         "duration": "43s",
         "when": "2026-05-14",
         "thumb": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast2a-p-0037-euttp/osYEzq3HEihKAFjAeAmEAQDrq4ABCXDpEIPfRL~tplv-tiktokx-cropcenter-q:300:400:q70.jpeg?dr=9232&refresh_token=01b2c228&x-expires=1779865200&x-signature=y92XiQ5XhDapO6TQiUVH1stMMLw%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=132edbea&idc=useast2b&s=PUBLISH&sc=cover&item=7639421059900607776&biz_tag=tt_video",
-        "url": "https://www.tiktok.com/@technic_tricks_de/video/7639421059900607776"
+        "url": "https://www.tiktok.com/@technic_tricks_de/video/7639421059900607776",
+        "title_en": "AI can now do more than just answer questions! #lifehack #AI ad"
       }
     ],
     "campaign": "前端/工具发现 / TikTok",
@@ -311,7 +331,8 @@
         "duration": "41s",
         "when": "2026-05-12",
         "thumb": "https://p19-common-sign.tiktokcdn-eu.com/tos-no1a-p-0037-no/o4EACUbEjFDALAr9rMIAAFELFGDUMBA4ef2eLI~tplv-tiktokx-cropcenter-q:300:400:q70.jpeg?dr=9232&refresh_token=bd288514&x-expires=1779865200&x-signature=VCFcBjMpARhHVgR5EUyfXYqXMFI%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=132edbea&idc=useast2b&biz_tag=tt_video&s=PUBLISH&sc=cover",
-        "url": "https://www.tiktok.com/@ully.lemisa/video/7638695196191919382"
+        "url": "https://www.tiktok.com/@ully.lemisa/video/7638695196191919382",
+        "title_en": "ChatGPT gives wrong answers in 27% of cases — but you can change that with a hidden setting and a meta-cognitive reasoning prompt."
       },
       {
         "title": "Wenn du diese 5 Begriffe kennst, verstehst du KI sofort besser. Kontextfenster, Tokens, Halluzination, RAG und System-Prompt -genau diese Begriffe brauchst du, wenn du mit ChatGPT bessere Ergebnisse bekommen willst. Speicher dir das ab und folge mir für einfache KI-Tipps. #ki #künstlicheintelligenz #chatgpt #aitools #kiwissen",
@@ -319,7 +340,8 @@
         "duration": "94s",
         "when": "2026-05-07",
         "thumb": "https://p16-common-sign.tiktokcdn-eu.com/tos-no1a-p-0037-no/o8s3IIOEzGAvf4AkAvLOLrTAHEfAHF09Q9e22I~tplv-tiktokx-cropcenter-q:300:400:q70.jpeg?dr=9232&refresh_token=d4949cd7&x-expires=1779865200&x-signature=e8xSu6n1xXWRJyNkSabFJVZyDwY%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=132edbea&idc=useast2b&biz_tag=tt_video&s=PUBLISH&sc=cover",
-        "url": "https://www.tiktok.com/@ully.lemisa/video/7636837785676156182"
+        "url": "https://www.tiktok.com/@ully.lemisa/video/7636837785676156182",
+        "title_en": "If you know these 5 terms, you will understand AI much better: context window, tokens, hallucination, RAG and system prompt."
       },
       {
         "title": "7 KI-Tools, die dir echte Zeit sparen und für jede Aufgabe das richtige. 🤖✨ Hier ist deine Kurzübersicht: ⏱ Zeit sparen: ChatGPT 🖼 KI-Bilder: Nano Banana oder GPT Image 2.0  📧 E-Mails schreiben: Claude  📚 Neues lernen: NotebookLM  🎬 KI-Videos: Higgsfield  🌐 Website bauen: bolt.new  🎙 Meeting-Assistent: Supernormal Speicher diesen Post - du wirst ihn brauchen!  💾 Und wenn du mehr über KI erfahren willst: Folge mir für mehr Praxis-Content. 💛 Welches Tool überrascht dich am meisten? 👇 #KITools #ChatGPT #KünstlicheIntelligenz #ai #AITools",
@@ -327,7 +349,8 @@
         "duration": "22s",
         "when": "2026-04-30",
         "thumb": "https://p16-common-sign.tiktokcdn-eu.com/tos-no1a-p-0037-no/ocrEIZSKABhJ7DBECAwiqfE9EPVW0SiBxAU9yA~tplv-tiktokx-cropcenter-q:300:400:q70.jpeg?dr=9232&refresh_token=005e3f1a&x-expires=1779865200&x-signature=R7k5uvV6xUbZd6IYghGYSZOrzRo%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=132edbea&idc=useast2b&biz_tag=tt_video&s=PUBLISH&sc=cover",
-        "url": "https://www.tiktok.com/@ully.lemisa/video/7634256983951953174"
+        "url": "https://www.tiktok.com/@ully.lemisa/video/7634256983951953174",
+        "title_en": "7 AI tools that really save time: ChatGPT, Nano Banana/GPT Image 2.0, Claude, NotebookLM, Higgsfield, bolt.new and Supernormal."
       },
       {
         "title": "🚨 BREAKING: ChatGPT Images 2.0 ist LIVE! 🎨   Seit gestern, dem 21. April kannst du:  ✨ Perfekte Schrift in Bildern erzeugen  ✨ Ganze Karussells in 1 Prompt bauen  ✨ Bis zu 8 zusammenhängende Bilder erstellen  ✨ 2K-Auflösung + Thinking-Modus nutzen   Speicher dir das Reel, damit du es gleich testest!  💛 Folge mir für mehr KI-Hacks ✨ Quelle Video: https://openai.com/index/introducing-chatgpt-images-2-0/ #chatgpt #kitools #openai #selbstständig #künstlicheintelligenz",
@@ -335,7 +358,8 @@
         "duration": "70s",
         "when": "2026-04-23",
         "thumb": "https://p16-common-sign.tiktokcdn-eu.com/tos-no1a-p-0037-no/oMAARIA4pkpAiQjHG2EICF6CVF3DTg9kNEfDfo~tplv-tiktokx-cropcenter-q:300:400:q70.jpeg?dr=9232&refresh_token=cbbeacde&x-expires=1779865200&x-signature=oTx3y9nsSdnkjI8YPaEBDhCTsF4%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=132edbea&idc=useast2b&biz_tag=tt_video&s=PUBLISH&sc=cover",
-        "url": "https://www.tiktok.com/@ully.lemisa/video/7631665674812689686"
+        "url": "https://www.tiktok.com/@ully.lemisa/video/7631665674812689686",
+        "title_en": "Breaking: ChatGPT Images 2.0 is live — better text in images, carousels in one prompt, up to 8 connected images and 2K resolution."
       }
     ],
     "campaign": "前端/AI工具教程 / TikTok",
@@ -369,7 +393,8 @@
         "duration": "73s",
         "when": "2026-05-25",
         "thumb": "https://p16-common-sign.tiktokcdn-eu.com/tos-no1a-p-4864-no/oUBgICFTB1UnykCRUMDXoIBZiVavrGYTdihIA~tplv-tiktokx-cropcenter-q:300:400:q70.jpeg?dr=9232&refresh_token=944bfccd&x-expires=1779865200&x-signature=7LsGAzwrX6MjjZ%2FTgEpizffPfYg%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=132edbea&idc=useast2b&biz_tag=tt_video&s=PUBLISH&sc=cover",
-        "url": "https://www.tiktok.com/@herr_programmierer/video/7643836894714907926"
+        "url": "https://www.tiktok.com/@herr_programmierer/video/7643836894714907926",
+        "title_en": "The ideal roadmap for learning to code 😍💻 #beginner #learnprogramming #roadmap"
       },
       {
         "title": "Du solltest einen Passwort-Manager nutzen #passwort #manager #realtalk",
@@ -377,7 +402,8 @@
         "duration": "58s",
         "when": "2026-05-24",
         "thumb": "https://p16-common-sign.tiktokcdn-eu.com/tos-no1a-p-4864-no/o8EBPyQmxge12vD3BgfsFBEkFuQa0SjHFwEqFw~tplv-tiktokx-cropcenter-q:300:400:q70.jpeg?dr=9232&refresh_token=866ee6a4&x-expires=1779865200&x-signature=msUheJuqB62PUfsRB2PFkQkweUw%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=132edbea&idc=useast2b&biz_tag=tt_video&s=PUBLISH&sc=cover",
-        "url": "https://www.tiktok.com/@herr_programmierer/video/7643465744507850006"
+        "url": "https://www.tiktok.com/@herr_programmierer/video/7643465744507850006",
+        "title_en": "You should use a password manager #password #manager #realtalk"
       },
       {
         "title": "Antwort auf @IceBear  Warum nehmt ihr das so ernst?? #mac #windows #linux #programmieren #softwareentwickler ",
@@ -385,7 +411,8 @@
         "duration": "62s",
         "when": "2026-05-22",
         "thumb": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast2a-p-0037-euttp/oE4MEhgBD26IQAPiapnai4lEro5J0N5BaBIiZ~tplv-tiktokx-cropcenter-q:300:400:q70.jpeg?dr=9232&refresh_token=a9378629&x-expires=1779865200&x-signature=bxkWsyazL93JVuSUZ83p2lbCSdQ%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=132edbea&idc=useast2b&biz_tag=tt_video&s=PUBLISH&sc=cover&item=7642723748633791776",
-        "url": "https://www.tiktok.com/@herr_programmierer/video/7642723748633791776"
+        "url": "https://www.tiktok.com/@herr_programmierer/video/7642723748633791776",
+        "title_en": "Reply to @IceBear: why do you take this so seriously? #Mac #Windows #Linux #programming #softwaredeveloper"
       },
       {
         "title": "Schlechter VS Guter Programmierer #programmierenlernen #developer #gut #schlecht",
@@ -393,7 +420,8 @@
         "duration": "42s",
         "when": "2026-05-20",
         "thumb": "https://p16-common-sign.tiktokcdn-eu.com/tos-no1a-p-4864-no/oQyHBZoAPIhuYx1Ci1uw1LBziQfDCAbPIIANCI~tplv-tiktokx-cropcenter-q:300:400:q70.jpeg?dr=9232&refresh_token=083d587e&x-expires=1779865200&x-signature=mwSP7K9MKnTqc0Nx9fi4VVWO08o%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=132edbea&idc=useast2b&biz_tag=tt_video&s=PUBLISH&sc=cover",
-        "url": "https://www.tiktok.com/@herr_programmierer/video/7641981482164079894"
+        "url": "https://www.tiktok.com/@herr_programmierer/video/7641981482164079894",
+        "title_en": "Bad vs. good programmer #learnprogramming #developer #good #bad"
       }
     ],
     "campaign": "AI Coding / TikTok Builder",
@@ -428,7 +456,8 @@
         "duration": "30s",
         "when": "2026-05-16",
         "thumb": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast2a-p-0037-euttp/oUKzJ0C6IE9f1MzDFUqEIDsBCIoXmXcfQA8FUR~tplv-tiktokx-cropcenter-q:300:400:q70.jpeg?dr=9232&refresh_token=0169174c&x-expires=1779865200&x-signature=HPUz9NnfC7NVcvbRJtlkdKgXJJc%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=132edbea&idc=useast2b&biz_tag=tt_video&s=PUBLISH&sc=cover&item=7640447779277425953",
-        "url": "https://www.tiktok.com/@nader.aitlaouad/video/7640447779277425953"
+        "url": "https://www.tiktok.com/@nader.aitlaouad/video/7640447779277425953",
+        "title_en": "AI agent / Claude / artificial intelligence / entrepreneur hashtags"
       },
       {
         "title": "#ki #ai #aiagent #aigame ",
@@ -436,7 +465,8 @@
         "duration": "36s",
         "when": "2026-05-01",
         "thumb": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast2a-p-0037-euttp/okQjeIQpHnZeD0MDDg8OXNAMCgIIQTfpGQ6TCI~tplv-tiktokx-cropcenter-q:300:400:q70.jpeg?dr=9232&refresh_token=b04eab18&x-expires=1779865200&x-signature=SlpuwQeV%2BkizNNKm141auQeZDNk%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=132edbea&idc=useast2b&biz_tag=tt_video&s=PUBLISH&sc=cover&item=7634872956312636704",
-        "url": "https://www.tiktok.com/@nader.aitlaouad/video/7634872956312636704"
+        "url": "https://www.tiktok.com/@nader.aitlaouad/video/7634872956312636704",
+        "title_en": "AI / AI agent / AI game hashtags"
       },
       {
         "title": "#aiagent #ki #business #ai #chatgpt ",
@@ -444,7 +474,8 @@
         "duration": "214s",
         "when": "2026-04-25",
         "thumb": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast2a-p-0037-euttp/ossqvc0ERIyANmUferEBCGDp4JgFEDXLBQnCs7~tplv-tiktokx-cropcenter-q:300:400:q70.jpeg?dr=9232&refresh_token=ffc60da5&x-expires=1779865200&x-signature=G1rc5wBCQFcVP7zVMg5gbQZgpe4%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=132edbea&idc=useast2b&biz_tag=tt_video&s=PUBLISH&sc=cover&item=7632669864901037345",
-        "url": "https://www.tiktok.com/@nader.aitlaouad/video/7632669864901037345"
+        "url": "https://www.tiktok.com/@nader.aitlaouad/video/7632669864901037345",
+        "title_en": "AI agent / AI business / ChatGPT hashtags"
       },
       {
         "title": "#ai #ki #claude #gpt #aiagent",
@@ -452,7 +483,8 @@
         "duration": "71s",
         "when": "2026-04-23",
         "thumb": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast2a-p-0037-euttp/o0AQGI0TMIPGcjNQXiqeDLO1fGGb3HQl9Wznfg~tplv-tiktokx-cropcenter-q:300:400:q70.jpeg?dr=9232&refresh_token=6dfc4331&x-expires=1779865200&x-signature=rTEbhcQ91XU7HG5Wo1k%2BQgJg%2FyA%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=132edbea&idc=useast2b&item=7631977660851277088&biz_tag=tt_video&s=PUBLISH&sc=cover",
-        "url": "https://www.tiktok.com/@nader.aitlaouad/video/7631977660851277088"
+        "url": "https://www.tiktok.com/@nader.aitlaouad/video/7631977660851277088",
+        "title_en": "AI agent / Claude / artificial intelligence / entrepreneur hashtags"
       }
     ],
     "campaign": "AI Coding / TikTok Builder",
@@ -487,7 +519,8 @@
         "duration": "68s",
         "when": "2026-05-25",
         "thumb": "https://p19-common-sign.tiktokcdn-eu.com/tos-useast2a-p-0037-euttp/osHUS2D6EFAcIBBEkBEmPKEHDqyPfRlTqfUQQ6~tplv-tiktokx-dmt-logoccm:300:400:tos-useast2a-i-0068-euttp/o4IB1CAy8jhZCBn1hNSBcLAAiATUTwAEtofiIK.jpeg?dr=9231&refresh_token=74b01ed8&x-expires=1779865200&x-signature=HyTAniQxH57zdVaQFMSzfaz%2F42o%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=132edbea&idc=useast2b&biz_tag=tt_video&s=PUBLISH&sc=cover&item=7643498355095555360",
-        "url": "https://www.tiktok.com/@techfeed5/video/7643498355095555360"
+        "url": "https://www.tiktok.com/@techfeed5/video/7643498355095555360",
+        "title_en": "AI is getting much more expensive because we use more and billing is changing. The question is: are humans cheaper than AI models? #Microsoft #AI #tokens #programming #CS"
       },
       {
         "title": "Cursor schafft es für wenig Geld Task an die KI zu geben. In einer Zeit in der die AI Kosten steigen, kann das ein Game changer werden. #ai #cursor #agent #coding ",
@@ -495,7 +528,8 @@
         "duration": "30s",
         "when": "2026-05-22",
         "thumb": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast2a-p-0037-euttp/oMIRSmqAGSp0FhrQDDEUUEF0aIBBhQfeEZElOL~tplv-tiktokx-dmt-logoccm:300:400:tos-useast2a-i-0068-euttp/oYQGKYoAZAb2ff6gMNIveQXAIAAKnA8fQyRA6V.jpeg?dr=9231&refresh_token=99cd2a91&x-expires=1779865200&x-signature=TwzTaQN7ZvEhn3xTb2nhVjCtvJc%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=132edbea&idc=useast2b&sc=cover&item=7642719252528549152&biz_tag=tt_video&s=PUBLISH",
-        "url": "https://www.tiktok.com/@techfeed5/video/7642719252528549152"
+        "url": "https://www.tiktok.com/@techfeed5/video/7642719252528549152",
+        "title_en": "Cursor manages to assign tasks to AI for little money. As AI costs rise, this could become a game changer. #AI #Cursor #agent #coding"
       },
       {
         "title": "95% der Nutzer brauchen Basic Applikationen und daher nicht das top Model. Das spart massiv tokens und damit bares in der KI Entwicklung. GPT 5.4 XHigh reicht für alles aus. #openai #codex #informatik #programmieren #ai",
@@ -503,7 +537,8 @@
         "duration": "58s",
         "when": "2026-05-22",
         "thumb": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast2a-p-0037-euttp/oofmAA0zCABidq2EBIsQw6AGAHGo51q5BCIQi0~tplv-tiktokx-dmt-logoccm:300:400:tos-useast2a-i-0068-euttp/ocfQQwOEAXRgAIDEQCFqAAADQzmhADm5fAEEo1.jpeg?dr=9231&refresh_token=ae34acb0&x-expires=1779865200&x-signature=rBd3z%2FSSdtjdObuYrn5oUiI4Rnk%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=132edbea&idc=useast2b&biz_tag=tt_video&s=PUBLISH&sc=cover&item=7642612465271967008",
-        "url": "https://www.tiktok.com/@techfeed5/video/7642612465271967008"
+        "url": "https://www.tiktok.com/@techfeed5/video/7642612465271967008",
+        "title_en": "95% of users need basic applications, not the top model. That saves massive tokens and real money in AI development. GPT 5.4 XHigh is enough for everything. #OpenAI #Codex #CS #programming #AI"
       },
       {
         "title": "Karpathy geht zu Anthropic!  #ai #ki #anthropic #agents ",
@@ -511,7 +546,8 @@
         "duration": "63s",
         "when": "2026-05-20",
         "thumb": "https://p19-common-sign.tiktokcdn-eu.com/tos-useast2a-p-0037-euttp/oAEsCjEQmcAFUEapEvRnfDfUWYDaDByIABmqtN~tplv-tiktokx-dmt-logoccm:300:400:tos-useast2a-i-0068-euttp/oMADvZqYATRNEqTEFaAA5IQDbQsmDABCCRfeNm.jpeg?dr=9231&refresh_token=a8a933e5&x-expires=1779865200&x-signature=2FpBOILa5DVMbGUIRZItwsHuu0o%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=132edbea&idc=useast2b&biz_tag=tt_video&s=PUBLISH&sc=cover&item=7641947107292663072",
-        "url": "https://www.tiktok.com/@techfeed5/video/7641947107292663072"
+        "url": "https://www.tiktok.com/@techfeed5/video/7641947107292663072",
+        "title_en": "Karpathy is going to Anthropic! #AI #Anthropic #agents"
       }
     ],
     "campaign": "AI Coding / TikTok Builder",
@@ -567,7 +603,8 @@
         "duration": "39s",
         "when": "2026-03-26",
         "thumb": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast2a-p-0037-euttp/oElEd2o4fAIR4EviCBI0lmAOIiBziCPSohDIA5~tplv-tiktokx-dmt-logoccm:300:400:tos-useast2a-i-0068-euttp/o0BtEEaBiyDI3YAHAAdAQogEAiiPDciMp0ImH.jpeg?dr=9231&refresh_token=a21e5365&x-expires=1779865200&x-signature=bYRgMDMZtbsvz7tIeH8DS%2BOPK7g%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=132edbea&idc=useast2b&biz_tag=tt_video&s=PUBLISH&sc=cover&item=7621254248352779552",
-        "url": "https://www.tiktok.com/@herr.excel/video/7621254248352779552"
+        "url": "https://www.tiktok.com/@herr.excel/video/7621254248352779552",
+        "title_en": ""
       },
       {
         "title": "Anwesenheitsliste per VBA! #excel #büro #vba #fy #viral ",
@@ -575,7 +612,8 @@
         "duration": "79s",
         "when": "2026-03-17",
         "thumb": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast2a-p-0037-euttp/ogI5IDDFRYeuAxDpKFKofIuZdGyECEZQmvWiB9~tplv-tiktokx-dmt-logoccm:300:400:tos-useast2a-i-0068-euttp/owdypJQufAIMfIFAADRplFCqxEDmFEATHWAQu3.jpeg?dr=9231&refresh_token=8f40c775&x-expires=1779865200&x-signature=XiMN9oJp8oH%2FfXCF8dqnkjoT8sk%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=132edbea&idc=useast2b&s=PUBLISH&sc=cover&item=7618228150249508128&biz_tag=tt_video",
-        "url": "https://www.tiktok.com/@herr.excel/video/7618228150249508128"
+        "url": "https://www.tiktok.com/@herr.excel/video/7618228150249508128",
+        "title_en": ""
       },
       {
         "title": "Ki in Excel? 🤯🤯🤯 Bringe deine Excel skills auf ein ganz neues Level! #excel #lernenmittiktok #ap1 #excelshortcuts #ki",
@@ -583,7 +621,8 @@
         "duration": "59s",
         "when": "2026-03-15",
         "thumb": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast2a-p-0037-euttp/oUuDwKDuFUP6tv2PfRKcABzE5kSQQmEfQprAOE~tplv-tiktokx-dmt-logoccm:300:400:tos-useast2a-i-0068-euttp/ogQagAGAjelbAeGTLLLmeTv2Al2IPIAgMzXUFg.jpeg?dr=9231&refresh_token=8368589b&x-expires=1779865200&x-signature=t2oiYGhpA%2F22iZ0vkOn%2B5zia4Q4%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=132edbea&idc=useast2b&s=PUBLISH&sc=cover&item=7617483222875770145&biz_tag=tt_video",
-        "url": "https://www.tiktok.com/@herr.excel/video/7617483222875770145"
+        "url": "https://www.tiktok.com/@herr.excel/video/7617483222875770145",
+        "title_en": ""
       },
       {
         "title": "SVERWEIS in Excel!  Wusstest du, dass der Sverweis schon längst überholt ist? Es gibt deutlich effizientere Funktionen in Excel wie beispielsweise der XVerweis! Wenn du dich weiterbilden möchtest wenn es um Excel Formeln geht, dann schau auf den Link in meiner bio!  #lernenmittiktok #fyp #ap1 #excelshortcuts #excel ",
@@ -591,7 +630,8 @@
         "duration": "89s",
         "when": "2026-03-15",
         "thumb": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast2a-p-0037-euttp/oMffZFJSAx0RpDkDQ4kDH2no2lEEtpSmQEB1QV~tplv-tiktokx-dmt-logoccm:300:400:tos-useast2a-i-0068-euttp/o4ibMvAEEgicgy1BCATkxaipBFA08WdACIaj0.jpeg?dr=9231&refresh_token=ad78f7c3&x-expires=1779865200&x-signature=ZXIuG%2FWBvB5rHBszNgiN8Ukv%2Fso%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=132edbea&idc=useast2b&biz_tag=tt_video&s=PUBLISH&sc=cover&item=7617156050298490145",
-        "url": "https://www.tiktok.com/@herr.excel/video/7617156050298490145"
+        "url": "https://www.tiktok.com/@herr.excel/video/7617156050298490145",
+        "title_en": ""
       }
     ],
     "campaign": "前端/办公自动化 / TikTok 替补",
@@ -626,7 +666,8 @@
         "duration": "48s",
         "when": "2026-05-26",
         "thumb": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast2a-p-4864-euttp/oQfAEYuCK7z3cRAVxaAoI0iNoBi3B1CpCCBzyi~tplv-tiktokx-cropcenter-q:300:400:q70.jpeg?dr=9232&refresh_token=26ab3bdb&x-expires=1779865200&x-signature=x1JarUl7XXhOH1jcjZAxvnkg1S0%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=132edbea&idc=useast2b&biz_tag=tt_video&s=PUBLISH&sc=cover",
-        "url": "https://www.tiktok.com/@dawid_przybylski/video/7644076910464486688"
+        "url": "https://www.tiktok.com/@dawid_przybylski/video/7644076910464486688",
+        "title_en": ""
       },
       {
         "title": "Kommentiere mit \"Tool\" und ich schick's dir zu! --- Sprachnachrichten kosten dich kostbare Zeit? Eine KI-Lösung wandelt deine eingehenden Sprachnachrichten automatisch in Text um und fasst lange Nachrichten sogar zusammen – alles direkt in deinem Chat.",
@@ -634,7 +675,8 @@
         "duration": "30s",
         "when": "2026-05-26",
         "thumb": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast2a-p-4864-euttp/owfTUX4CBBAiUxoi6lBIz1IwCEKdwjAMki9YI3~tplv-tiktokx-cropcenter-q:300:400:q70.jpeg?dr=9232&refresh_token=9cf5bd99&x-expires=1779865200&x-signature=aemoRZ6AU%2FyqGBXGcHw7bzn52C4%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=132edbea&idc=useast2b&biz_tag=tt_video&s=PUBLISH&sc=cover",
-        "url": "https://www.tiktok.com/@dawid_przybylski/video/7643891705082580256"
+        "url": "https://www.tiktok.com/@dawid_przybylski/video/7643891705082580256",
+        "title_en": ""
       },
       {
         "title": "Kommentiere mit \"BILD\" und ich schicke dir die Schritt-für-Schritt-Anleitung zu! --- Claude kann jetzt Bilder generieren – direkt im Chat. Mit dem Higgsfield MCP Connector erstellst du KI-Bilder ohne Tool-Wechsel. Perfekt für Unternehmer, die Content-Erstellung automatisieren wollen. Claude Bildgenerierung KI Tools Business Automatisierung.",
@@ -642,7 +684,8 @@
         "duration": "27s",
         "when": "2026-05-25",
         "thumb": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast2a-p-4864-euttp/oYTyK0ijXgvP3mBBiZ4h55aLMMMBcIBP4EAE8~tplv-tiktokx-cropcenter-q:300:400:q70.jpeg?dr=9232&refresh_token=c8619ef5&x-expires=1779865200&x-signature=UPifkRPH1Xbd3%2F%2BLpCPjoNGL3pA%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=132edbea&idc=useast2b&biz_tag=tt_video&s=PUBLISH&sc=cover",
-        "url": "https://www.tiktok.com/@dawid_przybylski/video/7643706113560464673"
+        "url": "https://www.tiktok.com/@dawid_przybylski/video/7643706113560464673",
+        "title_en": ""
       },
       {
         "title": "Kommentiere mit \"Higgsfield\" für die Prompts!",
@@ -650,7 +693,8 @@
         "duration": "32s",
         "when": "2026-05-25",
         "thumb": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast2a-p-4864-euttp/oAzBs61ITE1BHAqPoyzXZfiYiYCAEBC1mB46KE~tplv-tiktokx-cropcenter-q:300:400:q70.jpeg?dr=9232&refresh_token=83931b0d&x-expires=1779865200&x-signature=QX4vlhHpHbT4UCYP2%2FCSgRmrykI%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=132edbea&idc=useast2b&sc=cover&biz_tag=tt_video&s=PUBLISH",
-        "url": "https://www.tiktok.com/@dawid_przybylski/video/7643520567764684064"
+        "url": "https://www.tiktok.com/@dawid_przybylski/video/7643520567764684064",
+        "title_en": ""
       }
     ],
     "campaign": "AI Cofounder / TikTok 替补",
@@ -685,7 +729,8 @@
         "duration": "65s",
         "when": "2026-05-24",
         "thumb": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast2a-p-0037-euttp/osfnATcAuqWSIQEf1LRFwEgDC6AAEQRlr1mAAD~tplv-tiktokx-cropcenter-q:300:400:q70.jpeg?dr=9232&refresh_token=b569b697&x-expires=1779865200&x-signature=wP25cqm10F3UsG8pucOnPXoWpi8%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=132edbea&idc=useast2b&item=7643429780418874657&biz_tag=tt_video&s=PUBLISH&sc=cover",
-        "url": "https://www.tiktok.com/@max_froehlich/video/7643429780418874657"
+        "url": "https://www.tiktok.com/@max_froehlich/video/7643429780418874657",
+        "title_en": ""
       },
       {
         "title": "Science-Fiction wird zum Real Life. Zumindest in China 🇨🇳 Dort kann man sich für schlappe 650.000$ den ersten bemannten Riesen-Roboter vorbestellen.  Ist mir die Frage für was man den als Privatperson braucht 🧐😅  Folgt für mehr KI Content 🤖  #ki #china #wissen #erklärt ",
@@ -693,7 +738,8 @@
         "duration": "68s",
         "when": "2026-05-22",
         "thumb": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast2a-p-0037-euttp/owY5zGPwDQQtMgycAjFDmfR4nBfIq8DQEAQEEE~tplv-tiktokx-cropcenter-q:300:400:q70.jpeg?dr=9232&refresh_token=3c9d7250&x-expires=1779865200&x-signature=YGCMjPVz18tK1oiMJ1L4yoMuvP0%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=132edbea&idc=useast2b&item=7642722243209940257&biz_tag=tt_video&s=PUBLISH&sc=cover",
-        "url": "https://www.tiktok.com/@max_froehlich/video/7642722243209940257"
+        "url": "https://www.tiktok.com/@max_froehlich/video/7642722243209940257",
+        "title_en": ""
       },
       {
         "title": "Ein einfacher Trick um KI Bilder zu enttarnen 🙌 Basiert auf Geometrie aus der 6. Klasse: Fluchtpunkte.  Aber Vorsicht, nur weil ein Bild diesen Test nicht besteht, heißt es nicht automatisch, dass es KI generiert ist. Genauso andersrum: Wenn es den Test besteht kann es trotzdem KI generiert sein.  Quelle: https://www.science.org/content/article/deepfakes-are-everywhere-godfather-digital-forensics-fighting-back #ki #bild #erklärt #wissen ",
@@ -701,7 +747,8 @@
         "duration": "90s",
         "when": "2026-05-20",
         "thumb": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast2a-p-0037-euttp/oYJiLCAdITIzUCUcOfy2NIug1WNwZBIvBCioAB~tplv-tiktokx-cropcenter-q:300:400:q70.jpeg?dr=9232&refresh_token=9ea42c9a&x-expires=1779865200&x-signature=AxUPjiGH2%2Fdqsmvn4gC9lAyxfys%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=132edbea&idc=useast2b&biz_tag=tt_video&s=PUBLISH&sc=cover&item=7641976738196622624",
-        "url": "https://www.tiktok.com/@max_froehlich/video/7641976738196622624"
+        "url": "https://www.tiktok.com/@max_froehlich/video/7641976738196622624",
+        "title_en": ""
       },
       {
         "title": "CEOs feuern Tausende wegen KI und zerstören damit ihr eigenes Geschäftsmodell. Das Paradox heißt „AI Layoff Trap\" und ein Forscherteam aus Wharton hat es gerade in einer Studie gezeigt: Selbst wenn jeder CEO den Abgrund sieht, kann keiner bremsen. Klassisches Gefangenendilemma. 🔥 Quellen: -Falk & Tsoukalas (2026): „The AI Layoff Trap\", Wharton/Boston University – https://arxiv.org/abs/2603.20617 -CNN Business: Block lays off nearly half its staff because of AI (Feb 2026) – https://www.cnn.com/2026/02/26/business/block-layoffs-ai-jack-dorsey -Fortune: Salesforce CEO cuts 4,000 customer service roles (Sep 2025) – https://fortune.com/2025/09/02/salesforce-ceo-billionaire-marc-benioff-ai-agents-jobs-layoffs-customer-service-sales/ #ki #erklärt #wissen",
@@ -709,7 +756,8 @@
         "duration": "83s",
         "when": "2026-05-19",
         "thumb": "https://p16-common-sign.tiktokcdn-eu.com/tos-no1a-p-0037-no/oAk1fHPV8EZuCKtFipZgQTB9iZfAACbADIO7A1~tplv-tiktokx-cropcenter-q:300:400:q70.jpeg?dr=9232&refresh_token=3a7246eb&x-expires=1779865200&x-signature=HebJ6b7FRHAFYAKSla%2BFkpJEhvA%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=132edbea&idc=useast2b&sc=cover&biz_tag=tt_video&s=PUBLISH",
-        "url": "https://www.tiktok.com/@max_froehlich/video/7636743499714415875"
+        "url": "https://www.tiktok.com/@max_froehlich/video/7636743499714415875",
+        "title_en": ""
       }
     ],
     "status": "backup",
@@ -744,7 +792,8 @@
         "duration": "49s",
         "when": "2026-05-07",
         "thumb": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast2a-p-0037-euttp/oIF7AeRegFHAhI3AITED34f2QA8EguB0GM2Paj~tplv-tiktokx-cropcenter-q:300:400:q70.jpeg?dr=9232&refresh_token=848f6aee&x-expires=1779865200&x-signature=yLiWY%2F%2FAUfgVx57LE1PG%2B2KwRck%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=132edbea&idc=useast2b&sc=cover&item=7636833426972134689&biz_tag=tt_video&s=PUBLISH",
-        "url": "https://www.tiktok.com/@sven_schnurr/video/7636833426972134689"
+        "url": "https://www.tiktok.com/@sven_schnurr/video/7636833426972134689",
+        "title_en": ""
       },
       {
         "title": "ChatGPT Prompt für emotionale Instagram-Captions mit Storytelling #chatgpt #prompt #aihack",
@@ -752,7 +801,8 @@
         "duration": "42s",
         "when": "2026-04-26",
         "thumb": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast2a-p-4864-euttp/oI5z0BIymBBioMC9E3bYAdUsnziwAeIihmXuvZ~tplv-tiktokx-cropcenter-q:300:400:q70.jpeg?dr=9232&refresh_token=64caf249&x-expires=1779865200&x-signature=wmXgeDK%2BaI4mj2ubz1HQiC391LQ%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=132edbea&idc=useast2b&biz_tag=tt_video&s=PUBLISH&sc=cover",
-        "url": "https://www.tiktok.com/@sven_schnurr/video/7632729497694915873"
+        "url": "https://www.tiktok.com/@sven_schnurr/video/7632729497694915873",
+        "title_en": ""
       },
       {
         "title": "Ad | Es war noch nie so einfach ein Online Business aufzubauen 🚀 #ki #fyp #emergent ",
@@ -760,7 +810,8 @@
         "duration": "47s",
         "when": "2026-04-25",
         "thumb": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast2a-p-0037-euttp/oo4smcoIibBA9zMigvAwb0BOzmwBICCDIu3DfT~tplv-tiktokx-cropcenter-q:300:400:q70.jpeg?dr=9232&refresh_token=7e3cbf5e&x-expires=1779865200&x-signature=QpfAUf1Op96AUC0p3dUPwfNM7xk%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=132edbea&idc=useast2b&item=7632483551765663009&biz_tag=tt_video&s=PUBLISH&sc=cover",
-        "url": "https://www.tiktok.com/@sven_schnurr/video/7632483551765663009"
+        "url": "https://www.tiktok.com/@sven_schnurr/video/7632483551765663009",
+        "title_en": ""
       },
       {
         "title": "Diese 3 Apps machen 200€ Video-Software kostenlos überflüssig! 🤯 #aitools #fyp #viral",
@@ -768,7 +819,8 @@
         "duration": "54s",
         "when": "2026-04-24",
         "thumb": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast2a-p-4864-euttp/ok76mElIDdddkBRgQEf3ExBGRFbRMpDwp5eBsq~tplv-tiktokx-cropcenter-q:300:400:q70.jpeg?dr=9232&refresh_token=b708f343&x-expires=1779865200&x-signature=C5uS5yuS42c79vJH9f3hZQzsXtM%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=132edbea&idc=useast2b&biz_tag=tt_video&s=PUBLISH&sc=cover",
-        "url": "https://www.tiktok.com/@sven_schnurr/video/7631991099115965728"
+        "url": "https://www.tiktok.com/@sven_schnurr/video/7631991099115965728",
+        "title_en": ""
       }
     ],
     "status": "backup",
@@ -803,7 +855,8 @@
         "duration": "52s",
         "when": "2026-05-25",
         "thumb": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast2a-p-0037-euttp/o8DPAWlKEL4OgIFFQUIGlDewgf8egghLGMoXSj~tplv-tiktokx-cropcenter-q:300:400:q70.jpeg?dr=9232&refresh_token=1add4e64&x-expires=1779865200&x-signature=1cpJrcOx%2BosNxP0oD8OF3VVDaYU%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=132edbea&idc=useast2b&item=7643782952303873313&biz_tag=tt_video&s=PUBLISH&sc=cover",
-        "url": "https://www.tiktok.com/@inkenai/video/7643782952303873313"
+        "url": "https://www.tiktok.com/@inkenai/video/7643782952303873313",
+        "title_en": ""
       },
       {
         "title": "Es steht uns wahrscheinlich eine Wissensexplosion bevor, aber oft ist das so abstrakt, dass man gar nicht richtig weiß, was das bedeutet. Das Video ist der Versuch hier eine mögliche Auswirkung zu zeigen. #künstlicheintelligenz #wachstum #szenario #zukunft #gedankenspiel",
@@ -811,7 +864,8 @@
         "duration": "94s",
         "when": "2026-05-24",
         "thumb": "https://p19-common-sign.tiktokcdn-eu.com/tos-useast2a-p-0037-euttp/o0qzHmsExbIWEjlqATBQRNVFPfgCeJEmDDCBQd~tplv-tiktokx-cropcenter-q:300:400:q70.jpeg?dr=9232&refresh_token=8fbaae83&x-expires=1779865200&x-signature=C44Njf1dJAbmojs5KYfiSA7ejgc%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=132edbea&idc=useast2b&sc=cover&item=7643482839408807201&biz_tag=tt_video&s=PUBLISH",
-        "url": "https://www.tiktok.com/@inkenai/video/7643482839408807201"
+        "url": "https://www.tiktok.com/@inkenai/video/7643482839408807201",
+        "title_en": ""
       },
       {
         "title": "Würdest du deine KI für dich daten lassen? Hi, ich bin Inken, ich denke Dinge gerne weiter und setze mich dafür ein, dass wir KI sicher gestalten. Also eine KI für dich daten zu lassen bringt in meinen Augen nicht den Ertrag. Außer, du möchtest die KI daten, aber dann haben wir ein ganz anderes Problem. #daten #ki #zukunft ",
@@ -819,7 +873,8 @@
         "duration": "68s",
         "when": "2026-05-23",
         "thumb": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast2a-p-0037-euttp/oQEe4VREQDAfcQQiJqIQgMKNmBFzbvEDVLNb2k~tplv-tiktokx-cropcenter-q:300:400:q70.jpeg?dr=9232&refresh_token=618d6a75&x-expires=1779865200&x-signature=yV1I40df0Epa02B4kqY4ckKJ%2B1s%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=132edbea&idc=useast2b&sc=cover&item=7642994353861938465&biz_tag=tt_video&s=PUBLISH",
-        "url": "https://www.tiktok.com/@inkenai/video/7642994353861938465"
+        "url": "https://www.tiktok.com/@inkenai/video/7642994353861938465",
+        "title_en": ""
       },
       {
         "title": "75% glauben, KI wird massenhaft Jobs vernichten. Nur 15% denken, dass ihr eigener Job gefährdet ist. Das zeigt eine Gallup-Studie und dahinter verbirgt sich der „Third Person Effect“ #ki #studie #kiundjobs ",
@@ -827,7 +882,8 @@
         "duration": "40s",
         "when": "2026-05-22",
         "thumb": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast2a-p-0037-euttp/oIqEgtDjQgEOBoHEIqSgvDASFRFR2mfkeQaDTE~tplv-tiktokx-cropcenter-q:300:400:q70.jpeg?dr=9232&refresh_token=36987bcd&x-expires=1779865200&x-signature=gUUVh8wAp%2BoCReNIUx12NbeRmIU%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=132edbea&idc=useast2b&biz_tag=tt_video&s=PUBLISH&sc=cover&item=7642686126620151072",
-        "url": "https://www.tiktok.com/@inkenai/video/7642686126620151072"
+        "url": "https://www.tiktok.com/@inkenai/video/7642686126620151072",
+        "title_en": ""
       }
     ],
     "campaign": "先锋新闻 / TikTok 暂不正投",
@@ -862,7 +918,8 @@
         "duration": "54s",
         "when": "2026-05-22",
         "thumb": "https://p16-common-sign.tiktokcdn-eu.com/tos-no1a-p-4864-no/owE0HfvlDFwqFZSwLgEpF6QeEBkQw0tgzwBsPE~tplv-tiktokx-cropcenter-q:300:400:q70.jpeg?dr=9232&refresh_token=fa2174a6&x-expires=1779865200&x-signature=ErlsF4hHFJZQF9lnmZUz6wPhYbA%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=132edbea&idc=useast2b&biz_tag=tt_video&s=PUBLISH&sc=cover",
-        "url": "https://www.tiktok.com/@akademie4ki/video/7642700784135703830"
+        "url": "https://www.tiktok.com/@akademie4ki/video/7642700784135703830",
+        "title_en": ""
       },
       {
         "title": "ChatGPT, bitte merke dir den Code! 🫠 #chatgpt #künstlicheintelligenz #ki",
@@ -870,7 +927,8 @@
         "duration": "92s",
         "when": "2026-05-20",
         "thumb": "https://p16-common-sign.tiktokcdn-eu.com/tos-no1a-p-4864-no/oUdhQeXKIeINccbNLFMJQtG7DZUAxDMge4Qu8a~tplv-tiktokx-cropcenter-q:300:400:q70.jpeg?dr=9232&refresh_token=ac2fb3e3&x-expires=1779865200&x-signature=DKDstdFiwQct62rMsW95cKgOaV4%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=132edbea&idc=useast2b&biz_tag=tt_video&s=PUBLISH&sc=cover",
-        "url": "https://www.tiktok.com/@akademie4ki/video/7641981591006301462"
+        "url": "https://www.tiktok.com/@akademie4ki/video/7641981591006301462",
+        "title_en": ""
       },
       {
         "title": "Die besten KI-Tools für Bilderstellung 🚀 #künstlicheintelligenz #chatgpt #canva #nanobanana #gemini",
@@ -878,7 +936,8 @@
         "duration": "65s",
         "when": "2026-05-18",
         "thumb": "https://p16-common-sign.tiktokcdn-eu.com/tos-no1a-p-4864-no/oUGaLreUJifkULeguqvDJbIkIFQLIQ2AD5wRGH~tplv-tiktokx-cropcenter-q:300:400:q70.jpeg?dr=9232&refresh_token=cdd13343&x-expires=1779865200&x-signature=qAcgTWHxPza3%2BkqIoeYoPSZO20o%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=132edbea&idc=useast2b&biz_tag=tt_video&s=PUBLISH&sc=cover",
-        "url": "https://www.tiktok.com/@akademie4ki/video/7641239283843583254"
+        "url": "https://www.tiktok.com/@akademie4ki/video/7641239283843583254",
+        "title_en": ""
       },
       {
         "title": "Das beste KI-Tool für jeden Anwendungsbereich 🚀 #künstlicheintelligenz #chatgpt #claude",
@@ -886,7 +945,8 @@
         "duration": "62s",
         "when": "2026-05-16",
         "thumb": "https://p16-common-sign.tiktokcdn-eu.com/tos-no1a-p-4864-no/oIkQDPcvUQI7g6LjfDEFIIeEQiDIL6J1nAf28z~tplv-tiktokx-cropcenter-q:300:400:q70.jpeg?dr=9232&refresh_token=a634bf35&x-expires=1779865200&x-signature=P%2BWjPnMhjAYgOt7aESWLaie2N6E%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=132edbea&idc=useast2b&biz_tag=tt_video&s=PUBLISH&sc=cover",
-        "url": "https://www.tiktok.com/@akademie4ki/video/7640497237650541847"
+        "url": "https://www.tiktok.com/@akademie4ki/video/7640497237650541847",
+        "title_en": ""
       }
     ],
     "status": "backup",
@@ -921,7 +981,8 @@
         "duration": "144s",
         "when": "2026-05-25",
         "thumb": "https://p19-common-sign.tiktokcdn-eu.com/tos-useast2a-p-0037-euttp/o4oZE0MFQrnRAIKwqeQcGxF9ErDUmEfSByCADO~tplv-tiktokx-cropcenter-q:300:400:q70.jpeg?dr=9232&refresh_token=dc741243&x-expires=1779865200&x-signature=lMJ%2Bub1HGNK6O61VHz%2B26EZB4yU%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=132edbea&idc=useast2b&biz_tag=tt_video&s=PUBLISH&sc=cover&item=7643816966934777120",
-        "url": "https://www.tiktok.com/@michael.truch/video/7643816966934777120"
+        "url": "https://www.tiktok.com/@michael.truch/video/7643816966934777120",
+        "title_en": ""
       },
       {
         "title": "Claude ist mit einem einzigen kostenlosen Tool gerade gefühlt hundertmal stärker geworden.  „Everything Claude Code“ verwandelt Claude von einem einzelnen Helfer in ein komplettes Entwicklerteam mit Dutzenden spezialisierten Agenten, Skills und persistentem Speicher – ein Open‑Source‑Setup, das auf GitHub schon zehntausende Stars eingesammelt hat.  #claudecode #github #aidev #opensource",
@@ -929,7 +990,8 @@
         "duration": "67s",
         "when": "2026-05-25",
         "thumb": "https://p19-common-sign.tiktokcdn-eu.com/tos-useast2a-p-0037-euttp/oYp1QSi0XALyBIqEoEiQCMzBSfOC8WZiBCA0TI~tplv-tiktokx-cropcenter-q:300:400:q70.jpeg?dr=9232&refresh_token=7da37215&x-expires=1779865200&x-signature=oZI7%2BYeHLKqNqZCeYAJzQzM%2BcLA%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=132edbea&idc=useast2b&sc=cover&item=7643507279983037728&biz_tag=tt_video&s=PUBLISH",
-        "url": "https://www.tiktok.com/@michael.truch/video/7643507279983037728"
+        "url": "https://www.tiktok.com/@michael.truch/video/7643507279983037728",
+        "title_en": ""
       },
       {
         "title": "GitHub hat gerade ziemlich klar gemacht, was der nächste große KI-Job sein wird. GH600 zertifiziert offiziell Entwickler, die agentische KI‑Workflows planen, überwachen und in echte Produktionssysteme bringen – genau das Skillset, das in den nächsten Jahren überall gefragt sein wird. Wenn du mit KI wirklich durchstarten willst, sind solche Zertifizierungen kein „Nice to have“, sondern dein Ticket an die Frontlinie der neuen Tech-Jobs.   https://learn.microsoft.com/en-us/credentials/certifications/agentic-ai-developer/?practice-assessment-type=certification #github #aidev #agenticAI #futureofwork ",
@@ -937,7 +999,8 @@
         "duration": "21s",
         "when": "2026-05-23",
         "thumb": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast2a-p-0037-euttp/owCEIkEozDAisiOyMVIz9CfUrVBqBAHI1Bu1RR~tplv-tiktokx-cropcenter-q:300:400:q70.jpeg?dr=9232&refresh_token=910dee7b&x-expires=1779865200&x-signature=F4v3IhRIdxLosVk%2B1SumeLm1%2BO0%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=132edbea&idc=useast2b&biz_tag=tt_video&s=PUBLISH&sc=cover&item=7643113104515042592",
-        "url": "https://www.tiktok.com/@michael.truch/video/7643113104515042592"
+        "url": "https://www.tiktok.com/@michael.truch/video/7643113104515042592",
+        "title_en": ""
       },
       {
         "title": "Ein menschlicher Praktikant schlägt einen 39-Milliarden-Dollar-Roboter in einem 10‑Stunden‑„Mensch gegen Maschine“-Marathon – aber nur um 192 Pakete. Figure AIs FO3 sortiert im Livestream fast genauso schnell wie Aimé, fällt nur wegen einer Toilettenpause zurück und läuft inzwischen in über 100 Stunden Dauerbetrieb live im Netz – das ist der Moment, in dem Robotik nicht mehr nach Sci‑Fi, sondern nach unmittelbarer Zukunft der Arbeit aussieht.   #FigureAI #HumanoidRobots #FutureOfWork #technews ",
@@ -945,7 +1008,8 @@
         "duration": "82s",
         "when": "2026-05-22",
         "thumb": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast2a-p-0037-euttp/oIgJQMIGaEeGE6YFeUPgIlUQXlLtejAIFjDCPg~tplv-tiktokx-cropcenter-q:300:400:q70.jpeg?dr=9232&refresh_token=e315c6c2&x-expires=1779865200&x-signature=%2B35c21gK9X6Wgi3Ag76ftl3aCzo%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=132edbea&idc=useast2b&biz_tag=tt_video&s=PUBLISH&sc=cover&item=7642742085912907041",
-        "url": "https://www.tiktok.com/@michael.truch/video/7642742085912907041"
+        "url": "https://www.tiktok.com/@michael.truch/video/7642742085912907041",
+        "title_en": ""
       }
     ],
     "campaign": "AI Coding / TikTok 替补",
@@ -980,7 +1044,8 @@
         "duration": "66s",
         "when": "2026-05-26",
         "thumb": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast2a-p-0037-euttp/o4SgQGmDqBE5tfNFEZ1I3AQnEDbpfFcQYRQJAn~tplv-tiktokx-cropcenter-q:300:400:q70.jpeg?dr=9232&refresh_token=107a9d95&x-expires=1779865200&x-signature=v7HZnZpV7U1%2FcDnoCJ7jpM69zHQ%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=132edbea&idc=useast2b&s=PUBLISH&sc=cover&item=7643884291256110369&biz_tag=tt_video",
-        "url": "https://www.tiktok.com/@frederikdiekmann/video/7643884291256110369"
+        "url": "https://www.tiktok.com/@frederikdiekmann/video/7643884291256110369",
+        "title_en": ""
       },
       {
         "title": "Sehr sinnvolles Captcha #programmieren #ki #informatik ",
@@ -988,7 +1053,8 @@
         "duration": "67s",
         "when": "2026-05-25",
         "thumb": "https://p19-common-sign.tiktokcdn-eu.com/tos-useast2a-p-0037-euttp/oQfRIE4wU1xKAeWTYPBCQITTQBFkDqA0EsDmSE~tplv-tiktokx-cropcenter-q:300:400:q70.jpeg?dr=9232&refresh_token=021cb07f&x-expires=1779865200&x-signature=Kt5dZnXNsSo0qBfOYWDhrE8fb40%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=132edbea&idc=useast2b&biz_tag=tt_video&s=PUBLISH&sc=cover&item=7643539015215500577",
-        "url": "https://www.tiktok.com/@frederikdiekmann/video/7643539015215500577"
+        "url": "https://www.tiktok.com/@frederikdiekmann/video/7643539015215500577",
+        "title_en": ""
       },
       {
         "title": "So würde ich vorgehen, wenn ich eine App entwickle. Kommentiere PROMPTS und ich schick dir die prompts #programmieren #ki #informatik ",
@@ -996,7 +1062,8 @@
         "duration": "78s",
         "when": "2026-05-24",
         "thumb": "https://p19-common-sign.tiktokcdn-eu.com/tos-useast2a-p-0037-euttp/oMQIjFUtfD6yGPD0QfbBjMGgEUeAuI0XygjAjR~tplv-tiktokx-cropcenter-q:300:400:q70.jpeg?dr=9232&refresh_token=7d48f0b2&x-expires=1779865200&x-signature=WxNAs2zqb3N6sbKPgbt2UZrX12M%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=132edbea&idc=useast2b&biz_tag=tt_video&s=PUBLISH&sc=cover&item=7643163925294353697",
-        "url": "https://www.tiktok.com/@frederikdiekmann/video/7643163925294353697"
+        "url": "https://www.tiktok.com/@frederikdiekmann/video/7643163925294353697",
+        "title_en": ""
       },
       {
         "title": "So ist das manchmal mit dem Code #programmieren #ki #informatik ",
@@ -1004,7 +1071,8 @@
         "duration": "64s",
         "when": "2026-05-23",
         "thumb": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast2a-p-0037-euttp/o8jiqCAbI5IzUsTayfx6QIFs1lDtiBNUCDioAB~tplv-tiktokx-cropcenter-q:300:400:q70.jpeg?dr=9232&refresh_token=ad32d783&x-expires=1779865200&x-signature=AV0yDQc1TzSwAI1nc8clIGcGJaU%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=132edbea&idc=useast2b&biz_tag=tt_video&s=PUBLISH&sc=cover&item=7642809008696446241",
-        "url": "https://www.tiktok.com/@frederikdiekmann/video/7642809008696446241"
+        "url": "https://www.tiktok.com/@frederikdiekmann/video/7642809008696446241",
+        "title_en": ""
       }
     ],
     "campaign": "AI Coding / TikTok 替补",
@@ -1038,7 +1106,8 @@
         "duration": "83s",
         "when": "2026-05-25",
         "thumb": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast8-p-0068-tx2/oopM0GKLQAqjfPBIpIZIU706tIEjAeLlUUCE0e~tplv-tiktokx-cropcenter-q:300:400:q70.jpeg?dr=9232&refresh_token=0d7e685c&x-expires=1779865200&x-signature=uZvAFB%2FYgW5y7JwG7o7dSSwejdM%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=132edbea&idc=useast2b&biz_tag=tt_video&s=PUBLISH&sc=cover",
-        "url": "https://www.tiktok.com/@tonymagi19/video/7643847209271741727"
+        "url": "https://www.tiktok.com/@tonymagi19/video/7643847209271741727",
+        "title_en": ""
       },
       {
         "title": "Bachelor Informatik ALLES, was du VORHER wissen musst -Teil 1 #viral #viralvideos #it #foryoupage #programmieren ",
@@ -1046,7 +1115,8 @@
         "duration": "99s",
         "when": "2026-05-25",
         "thumb": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast8-p-0068-tx2/oYAhEBowUhBU6lwaX9IViAiZRPREEdG6HiAMB~tplv-tiktokx-cropcenter-q:300:400:q70.jpeg?dr=9232&refresh_token=77fcae03&x-expires=1779865200&x-signature=6l8VnJMppVAVMX%2BAHMYzPzUlROE%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=132edbea&idc=useast2b&biz_tag=tt_video&s=PUBLISH&sc=cover",
-        "url": "https://www.tiktok.com/@tonymagi19/video/7643846646912027935"
+        "url": "https://www.tiktok.com/@tonymagi19/video/7643846646912027935",
+        "title_en": ""
       },
       {
         "title": "Was bedeuten die Zahlen eines Laptop wirklich?-Teil 8 #viral #viralvideos #it #foryoupage #programmieren ",
@@ -1054,7 +1124,8 @@
         "duration": "66s",
         "when": "2026-05-21",
         "thumb": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast8-p-0068-tx2/oQEkIVFftJOEGJERt3DqYAFr8FnDI0AEA9eKOB~tplv-tiktokx-cropcenter-q:300:400:q70.jpeg?dr=9232&refresh_token=52a1fb85&x-expires=1779865200&x-signature=AIbsLSwhNByz86XjXD10smOUg5g%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=132edbea&idc=useast2b&biz_tag=tt_video&s=PUBLISH&sc=cover",
-        "url": "https://www.tiktok.com/@tonymagi19/video/7642288079822179615"
+        "url": "https://www.tiktok.com/@tonymagi19/video/7642288079822179615",
+        "title_en": ""
       },
       {
         "title": "Was bedeuten die Zahlen eines Laptop wirklich? -Teil 7 #viral #viralvideos #it #foryoupage #programmieren ",
@@ -1062,7 +1133,8 @@
         "duration": "90s",
         "when": "2026-05-21",
         "thumb": "https://p19-common-sign.tiktokcdn-eu.com/tos-useast8-p-0068-tx2/o8cEcYFDIEDCKqAA3MUAfjEfqOIwR6xEViiszB~tplv-tiktokx-cropcenter-q:300:400:q70.jpeg?dr=9232&refresh_token=ecb89636&x-expires=1779865200&x-signature=Wh%2Be%2BdvmoB9WqlmE2Gkjs%2B2%2FEJ8%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=132edbea&idc=useast2b&biz_tag=tt_video&s=PUBLISH&sc=cover",
-        "url": "https://www.tiktok.com/@tonymagi19/video/7642272254637657374"
+        "url": "https://www.tiktok.com/@tonymagi19/video/7642272254637657374",
+        "title_en": ""
       }
     ],
     "status": "backup",
@@ -1095,7 +1167,8 @@
         "duration": "12:00",
         "when": "12 hours ago",
         "thumb": "https://i.ytimg.com/vi/7aabLS2qlvY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=7aabLS2qlvY"
+        "url": "https://www.youtube.com/watch?v=7aabLS2qlvY",
+        "title_en": ""
       },
       {
         "title": "OpenClaw für Dummies",
@@ -1103,7 +1176,8 @@
         "duration": "18:09",
         "when": "4 weeks ago",
         "thumb": "https://i.ytimg.com/vi/3FreGdxznSs/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=3FreGdxznSs"
+        "url": "https://www.youtube.com/watch?v=3FreGdxznSs",
+        "title_en": ""
       },
       {
         "title": "EINE NEUE ÄRA",
@@ -1111,7 +1185,8 @@
         "duration": "13:19",
         "when": "1 month ago",
         "thumb": "https://i.ytimg.com/vi/Ps9PtVpIAx8/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Ps9PtVpIAx8"
+        "url": "https://www.youtube.com/watch?v=Ps9PtVpIAx8",
+        "title_en": ""
       },
       {
         "title": "Paperclip ist NEXT LEVEL!!",
@@ -1119,7 +1194,8 @@
         "duration": "9:50",
         "when": "1 month ago",
         "thumb": "https://i.ytimg.com/vi/Vzaccv7-qNw/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Vzaccv7-qNw"
+        "url": "https://www.youtube.com/watch?v=Vzaccv7-qNw",
+        "title_en": ""
       }
     ],
     "status": "backup",
@@ -1152,7 +1228,8 @@
         "duration": "26:12",
         "when": "3 days ago",
         "thumb": "https://i.ytimg.com/vi/ZIpkJjQy4Kg/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=ZIpkJjQy4Kg"
+        "url": "https://www.youtube.com/watch?v=ZIpkJjQy4Kg",
+        "title_en": ""
       },
       {
         "title": "Ich hab OpenClaw allein auf meinen Code gelassen",
@@ -1160,7 +1237,8 @@
         "duration": "22:40",
         "when": "1 month ago",
         "thumb": "https://i.ytimg.com/vi/S60pby2p7Yw/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=S60pby2p7Yw"
+        "url": "https://www.youtube.com/watch?v=S60pby2p7Yw",
+        "title_en": ""
       },
       {
         "title": "Stop AI from botching things up!",
@@ -1168,7 +1246,8 @@
         "duration": "22:26",
         "when": "2 months ago",
         "thumb": "https://i.ytimg.com/vi/CEYDefSEDxY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=CEYDefSEDxY"
+        "url": "https://www.youtube.com/watch?v=CEYDefSEDxY",
+        "title_en": ""
       },
       {
         "title": "I can't go on like this any longer.",
@@ -1176,7 +1255,8 @@
         "duration": "23:30",
         "when": "4 months ago",
         "thumb": "https://i.ytimg.com/vi/-i8tpM4AIuA/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=-i8tpM4AIuA"
+        "url": "https://www.youtube.com/watch?v=-i8tpM4AIuA",
+        "title_en": ""
       }
     ],
     "status": "backup",
@@ -1209,7 +1289,8 @@
         "duration": "25:25",
         "when": "2 weeks ago",
         "thumb": "https://i.ytimg.com/vi/EsVV6arKxtw/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=EsVV6arKxtw"
+        "url": "https://www.youtube.com/watch?v=EsVV6arKxtw",
+        "title_en": ""
       },
       {
         "title": "Das Dunkle Geheimnis Der Scratch Katze",
@@ -1217,7 +1298,8 @@
         "duration": "2:48",
         "when": "1 month ago",
         "thumb": "https://i.ytimg.com/vi/ZPmrL-YWz7U/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=ZPmrL-YWz7U"
+        "url": "https://www.youtube.com/watch?v=ZPmrL-YWz7U",
+        "title_en": ""
       },
       {
         "title": "12 Devs Erstellen 2 Spiele Ohne Kommunikation",
@@ -1225,7 +1307,8 @@
         "duration": "17:43",
         "when": "4 months ago",
         "thumb": "https://i.ytimg.com/vi/Ht6HA9xI8JI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Ht6HA9xI8JI"
+        "url": "https://www.youtube.com/watch?v=Ht6HA9xI8JI",
+        "title_en": ""
       },
       {
         "title": "Ich Habe Eine Gesamte Konsole In Scratch Erstellt",
@@ -1233,7 +1316,8 @@
         "duration": "20:24",
         "when": "5 months ago",
         "thumb": "https://i.ytimg.com/vi/12hIWpjUkls/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=12hIWpjUkls"
+        "url": "https://www.youtube.com/watch?v=12hIWpjUkls",
+        "title_en": ""
       }
     ],
     "status": "backup",
@@ -1266,7 +1350,8 @@
         "duration": "1:11:43",
         "when": "2 days ago",
         "thumb": "https://i.ytimg.com/vi/g6lUrCUqgL0/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=g6lUrCUqgL0"
+        "url": "https://www.youtube.com/watch?v=g6lUrCUqgL0",
+        "title_en": ""
       },
       {
         "title": "ALLE Agents mit PAPERCLIP AI steuern! Das UI der Zukunft?",
@@ -1274,7 +1359,8 @@
         "duration": "12:17",
         "when": "6 days ago",
         "thumb": "https://i.ytimg.com/vi/kP53c_gjEm8/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=kP53c_gjEm8"
+        "url": "https://www.youtube.com/watch?v=kP53c_gjEm8",
+        "title_en": ""
       },
       {
         "title": "🔮 MiroFish simuliert die Zukunft mit tausenden Agents | Alles was du wissen musst!",
@@ -1282,7 +1368,8 @@
         "duration": "20:10",
         "when": "13 days ago",
         "thumb": "https://i.ytimg.com/vi/lpQ3W8v-GS8/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=lpQ3W8v-GS8"
+        "url": "https://www.youtube.com/watch?v=lpQ3W8v-GS8",
+        "title_en": ""
       },
       {
         "title": "Eltern-Initiative statt Fingerpointing: Wie wir KI wirklich in die Schulen bringen | Verena Pausder",
@@ -1290,7 +1377,8 @@
         "duration": "1:02:42",
         "when": "2 weeks ago",
         "thumb": "https://i.ytimg.com/vi/ifyzcjucVxs/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=ifyzcjucVxs"
+        "url": "https://www.youtube.com/watch?v=ifyzcjucVxs",
+        "title_en": ""
       }
     ],
     "status": "backup",
@@ -1323,7 +1411,8 @@
         "duration": "19:01",
         "when": "16 hours ago",
         "thumb": "https://i.ytimg.com/vi/jw1YkWX4ACA/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=jw1YkWX4ACA"
+        "url": "https://www.youtube.com/watch?v=jw1YkWX4ACA",
+        "title_en": ""
       },
       {
         "title": "Claude Code turned my computer into a super AI",
@@ -1331,7 +1420,8 @@
         "duration": "26:01",
         "when": "3 days ago",
         "thumb": "https://i.ytimg.com/vi/iTRZat7urvs/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=iTRZat7urvs"
+        "url": "https://www.youtube.com/watch?v=iTRZat7urvs",
+        "title_en": ""
       },
       {
         "title": "Claude Code is building me an affiliate business without any of his own products.",
@@ -1339,7 +1429,8 @@
         "duration": "5:11",
         "when": "7 days ago",
         "thumb": "https://i.ytimg.com/vi/JdVMF4dJfb0/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=JdVMF4dJfb0"
+        "url": "https://www.youtube.com/watch?v=JdVMF4dJfb0",
+        "title_en": ""
       },
       {
         "title": "Claude Code makes stock analyses unfair",
@@ -1347,7 +1438,8 @@
         "duration": "8:25",
         "when": "10 days ago",
         "thumb": "https://i.ytimg.com/vi/hCDEa8MTc-I/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=hCDEa8MTc-I"
+        "url": "https://www.youtube.com/watch?v=hCDEa8MTc-I",
+        "title_en": ""
       }
     ],
     "status": "backup",
@@ -1380,7 +1472,8 @@
         "duration": "2:59:53",
         "when": "6 days ago",
         "thumb": "https://i.ytimg.com/vi/1rjNmOr8Q-E/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=1rjNmOr8Q-E"
+        "url": "https://www.youtube.com/watch?v=1rjNmOr8Q-E",
+        "title_en": ""
       },
       {
         "title": "Create an interactive dashboard in Excel | Complete guide",
@@ -1388,7 +1481,8 @@
         "duration": "31:49",
         "when": "12 days ago",
         "thumb": "https://i.ytimg.com/vi/tP7EXHCNCCU/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=tP7EXHCNCCU"
+        "url": "https://www.youtube.com/watch?v=tP7EXHCNCCU",
+        "title_en": ""
       },
       {
         "title": "Power BI Tutorial Deutsch | Komplettkurs für Anfänger",
@@ -1396,7 +1490,8 @@
         "duration": "5:04:13",
         "when": "1 month ago",
         "thumb": "https://i.ytimg.com/vi/00kikim8fyE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=00kikim8fyE"
+        "url": "https://www.youtube.com/watch?v=00kikim8fyE",
+        "title_en": ""
       },
       {
         "title": "AI Agents | Beginner's Course",
@@ -1404,7 +1499,8 @@
         "duration": "46:33",
         "when": "2 months ago",
         "thumb": "https://i.ytimg.com/vi/a6Zf9pe1Zvc/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=a6Zf9pe1Zvc"
+        "url": "https://www.youtube.com/watch?v=a6Zf9pe1Zvc",
+        "title_en": ""
       }
     ],
     "status": "backup",
@@ -1437,7 +1533,8 @@
         "duration": "13:50",
         "when": "3 days ago",
         "thumb": "https://i.ytimg.com/vi/vkNmOWuDNqA/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=vkNmOWuDNqA"
+        "url": "https://www.youtube.com/watch?v=vkNmOWuDNqA",
+        "title_en": ""
       },
       {
         "title": "The Great AI Tool Trap: Why Benchmarks, Rankings, and the Best Models Mislead You",
@@ -1445,7 +1542,8 @@
         "duration": "13:01",
         "when": "5 days ago",
         "thumb": "https://i.ytimg.com/vi/-jvwWKjjmK8/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=-jvwWKjjmK8"
+        "url": "https://www.youtube.com/watch?v=-jvwWKjjmK8",
+        "title_en": ""
       },
       {
         "title": "ChatGPT war gestern: Codex ist die beste KI-App von OpenAI (nicht nur fürs Programmieren)",
@@ -1453,7 +1551,8 @@
         "duration": "26:14",
         "when": "7 days ago",
         "thumb": "https://i.ytimg.com/vi/ODWUfwjW5NI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=ODWUfwjW5NI"
+        "url": "https://www.youtube.com/watch?v=ODWUfwjW5NI",
+        "title_en": ""
       },
       {
         "title": "Former OpenAI CEO showcases the future of AI: Interaction models from Thinking Machines and more ...",
@@ -1461,7 +1560,8 @@
         "duration": "10:03",
         "when": "12 days ago",
         "thumb": "https://i.ytimg.com/vi/vuFOF3hm08A/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=vuFOF3hm08A"
+        "url": "https://www.youtube.com/watch?v=vuFOF3hm08A",
+        "title_en": ""
       }
     ],
     "status": "backup",
@@ -1494,7 +1594,8 @@
         "duration": "9:56",
         "when": "11 days ago",
         "thumb": "https://i.ytimg.com/vi/C3QuOl3JB1c/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=C3QuOl3JB1c"
+        "url": "https://www.youtube.com/watch?v=C3QuOl3JB1c",
+        "title_en": ""
       },
       {
         "title": "Diese KI ersetzt ALLE Menschen in einer Firma",
@@ -1502,7 +1603,8 @@
         "duration": "11:50",
         "when": "1 month ago",
         "thumb": "https://i.ytimg.com/vi/LPcC5-cEoOo/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=LPcC5-cEoOo"
+        "url": "https://www.youtube.com/watch?v=LPcC5-cEoOo",
+        "title_en": ""
       },
       {
         "title": "Das Ende für Entwickler? Das passiert gerade WIRKLICH",
@@ -1510,7 +1612,8 @@
         "duration": "14:01",
         "when": "1 month ago",
         "thumb": "https://i.ytimg.com/vi/fcnxbeyZhPI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=fcnxbeyZhPI"
+        "url": "https://www.youtube.com/watch?v=fcnxbeyZhPI",
+        "title_en": ""
       },
       {
         "title": "Ein Tag als selbstständiger Softwareentwickler",
@@ -1518,7 +1621,8 @@
         "duration": "24:27",
         "when": "1 month ago",
         "thumb": "https://i.ytimg.com/vi/k_n6KCk9Zck/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=k_n6KCk9Zck"
+        "url": "https://www.youtube.com/watch?v=k_n6KCk9Zck",
+        "title_en": ""
       }
     ],
     "status": "backup",
@@ -1551,7 +1655,8 @@
         "duration": "6:01",
         "when": "2 days ago",
         "thumb": "https://i.ytimg.com/vi/mt8SbIfEhVo/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=mt8SbIfEhVo"
+        "url": "https://www.youtube.com/watch?v=mt8SbIfEhVo",
+        "title_en": ""
       },
       {
         "title": "Codex: ChatGPT mit Händen",
@@ -1559,7 +1664,8 @@
         "duration": "38:29",
         "when": "7 days ago",
         "thumb": "https://i.ytimg.com/vi/PMNh7vA-2BY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=PMNh7vA-2BY"
+        "url": "https://www.youtube.com/watch?v=PMNh7vA-2BY",
+        "title_en": ""
       },
       {
         "title": "Claude Code reicht nicht mehr",
@@ -1567,7 +1673,8 @@
         "duration": "56:44",
         "when": "9 days ago",
         "thumb": "https://i.ytimg.com/vi/hAdmhDMYauk/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=hAdmhDMYauk"
+        "url": "https://www.youtube.com/watch?v=hAdmhDMYauk",
+        "title_en": ""
       },
       {
         "title": "Ist dieser KI-Durchbruch echt?",
@@ -1575,7 +1682,8 @@
         "duration": "15:00",
         "when": "2 weeks ago",
         "thumb": "https://i.ytimg.com/vi/akcOsDi7aVc/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=akcOsDi7aVc"
+        "url": "https://www.youtube.com/watch?v=akcOsDi7aVc",
+        "title_en": ""
       }
     ],
     "status": "backup",
@@ -1608,7 +1716,8 @@
         "duration": "20:00",
         "when": "4 days ago",
         "thumb": "https://i.ytimg.com/vi/UHr6lTyCAWs/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=UHr6lTyCAWs"
+        "url": "https://www.youtube.com/watch?v=UHr6lTyCAWs",
+        "title_en": ""
       },
       {
         "title": "Claude Design in 18 Minuten meistern (als totaler Einsteiger)",
@@ -1616,7 +1725,8 @@
         "duration": "19:56",
         "when": "1 month ago",
         "thumb": "https://i.ytimg.com/vi/wDphHjW6btA/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=wDphHjW6btA"
+        "url": "https://www.youtube.com/watch?v=wDphHjW6btA",
+        "title_en": ""
       },
       {
         "title": "ChatGPT Tutorial für 2026 (Deutsch): In 30 Minuten zum Profi!",
@@ -1624,7 +1734,8 @@
         "duration": "35:31",
         "when": "1 month ago",
         "thumb": "https://i.ytimg.com/vi/6F1HQzkunAU/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=6F1HQzkunAU"
+        "url": "https://www.youtube.com/watch?v=6F1HQzkunAU",
+        "title_en": ""
       },
       {
         "title": "19 geheime Claude Tipps die Du noch nicht kennst (in 2026)",
@@ -1632,7 +1743,8 @@
         "duration": "23:14",
         "when": "1 month ago",
         "thumb": "https://i.ytimg.com/vi/wbDvay2RWhs/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=wbDvay2RWhs"
+        "url": "https://www.youtube.com/watch?v=wbDvay2RWhs",
+        "title_en": ""
       }
     ],
     "status": "backup",
@@ -1665,7 +1777,8 @@
         "duration": "9:08",
         "when": "2 days ago",
         "thumb": "https://i.ytimg.com/vi/kQDjYDHeIuk/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=kQDjYDHeIuk"
+        "url": "https://www.youtube.com/watch?v=kQDjYDHeIuk",
+        "title_en": ""
       },
       {
         "title": "Claude oder OpenAI Codex — Lohnt sich der Wechsel wirklich?",
@@ -1673,7 +1786,8 @@
         "duration": "10:57",
         "when": "11 days ago",
         "thumb": "https://i.ytimg.com/vi/ujEEv-FnCyw/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=ujEEv-FnCyw"
+        "url": "https://www.youtube.com/watch?v=ujEEv-FnCyw",
+        "title_en": ""
       },
       {
         "title": "Claude CLI einfach erklärt — so steuerst du externe Programme ohne MCP-Server",
@@ -1681,7 +1795,8 @@
         "duration": "10:41",
         "when": "2 weeks ago",
         "thumb": "https://i.ytimg.com/vi/ThtKwn8E2KY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=ThtKwn8E2KY"
+        "url": "https://www.youtube.com/watch?v=ThtKwn8E2KY",
+        "title_en": ""
       },
       {
         "title": "NotebookLM Update: Personalisierung und Kontrolle wie nie zuvor",
@@ -1689,7 +1804,8 @@
         "duration": "8:30",
         "when": "3 weeks ago",
         "thumb": "https://i.ytimg.com/vi/B65BUHC8250/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=B65BUHC8250"
+        "url": "https://www.youtube.com/watch?v=B65BUHC8250",
+        "title_en": ""
       }
     ],
     "status": "backup",
@@ -1722,7 +1838,8 @@
         "duration": "4:58",
         "when": "4 days ago",
         "thumb": "https://i.ytimg.com/vi/MoowuYI7rp0/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=MoowuYI7rp0"
+        "url": "https://www.youtube.com/watch?v=MoowuYI7rp0",
+        "title_en": ""
       },
       {
         "title": "Website mit KI erstellen: NotebookLM + Hostinger Horizons – kein Designer, kein Code",
@@ -1730,7 +1847,8 @@
         "duration": "9:05",
         "when": "7 days ago",
         "thumb": "https://i.ytimg.com/vi/8Jk-zsuk22I/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=8Jk-zsuk22I"
+        "url": "https://www.youtube.com/watch?v=8Jk-zsuk22I",
+        "title_en": ""
       },
       {
         "title": "Lade keine Dateien mehr in Gemini hoch ohne dieses Update",
@@ -1738,7 +1856,8 @@
         "duration": "8:38",
         "when": "12 days ago",
         "thumb": "https://i.ytimg.com/vi/70S-jN4CVBQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=70S-jN4CVBQ"
+        "url": "https://www.youtube.com/watch?v=70S-jN4CVBQ",
+        "title_en": ""
       },
       {
         "title": "Lade KEINE Firmendaten in Claude Cowork! Du haftest persönlich (EU AI Act 2026)",
@@ -1746,7 +1865,8 @@
         "duration": "10:37",
         "when": "2 weeks ago",
         "thumb": "https://i.ytimg.com/vi/xFI1VLBQUlY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=xFI1VLBQUlY"
+        "url": "https://www.youtube.com/watch?v=xFI1VLBQUlY",
+        "title_en": ""
       }
     ],
     "status": "backup",
@@ -1781,7 +1901,8 @@
         "duration": "69s",
         "when": "2026-05-24",
         "thumb": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast2a-p-0037-euttp/oYrAiBAiuEA1AIAonaCCLeIVFGvFBvOBThK1lS~tplv-tiktokx-cropcenter-q:300:400:q70.jpeg?dr=9232&refresh_token=30cc5421&x-expires=1779865200&x-signature=%2BoOBslRhPfGRo8L4JW97I7eoKqg%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=132edbea&idc=useast2b&biz_tag=tt_video&s=PUBLISH&sc=cover&item=7643380514421755169",
-        "url": "https://www.tiktok.com/@hoodinformatik/video/7643380514421755169"
+        "url": "https://www.tiktok.com/@hoodinformatik/video/7643380514421755169",
+        "title_en": "WhatsApp backups break end-to-end encryption?! #CS #messenger #WhatsApp #ITsecurity #cybersecurity"
       },
       {
         "title": "Die CISA und ihre Klartext Passwörter... #informatik #cybersecurity #itsicherheit #news ",
@@ -1789,7 +1910,8 @@
         "duration": "100s",
         "when": "2026-05-22",
         "thumb": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast2a-p-0037-euttp/o8qgb4iEA8RKAQuIECFqAeADQ4mXAD9JfHEEO8~tplv-tiktokx-cropcenter-q:300:400:q70.jpeg?dr=9232&refresh_token=10e240a9&x-expires=1779865200&x-signature=7RXUs19R4%2F8EauGnWDK068HMMeU%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=132edbea&idc=useast2b&biz_tag=tt_video&s=PUBLISH&sc=cover&item=7642741156337503520",
-        "url": "https://www.tiktok.com/@hoodinformatik/video/7642741156337503520"
+        "url": "https://www.tiktok.com/@hoodinformatik/video/7642741156337503520",
+        "title_en": "CISA and its plaintext passwords... #CS #cybersecurity #ITsecurity #news"
       },
       {
         "title": "Ist Informatik nur programmieren ?! #informatik #programming #code #itsicherheit ",
@@ -1797,7 +1919,8 @@
         "duration": "69s",
         "when": "2026-05-22",
         "thumb": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast2a-p-0037-euttp/osQAiEy2qDAKL3CeADCsA6bDFA1EmIfRUEjRPG~tplv-tiktokx-cropcenter-q:300:400:q70.jpeg?dr=9232&refresh_token=73b522a1&x-expires=1779865200&x-signature=bJwSa1ToYizCUV%2BSIgltfJilWg4%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=132edbea&idc=useast2b&biz_tag=tt_video&s=PUBLISH&sc=cover&item=7642376848369896736",
-        "url": "https://www.tiktok.com/@hoodinformatik/video/7642376848369896736"
+        "url": "https://www.tiktok.com/@hoodinformatik/video/7642376848369896736",
+        "title_en": "Is computer science only programming?! #CS #programming #code #ITsecurity"
       },
       {
         "title": "Ist Self-Hosting wirklich besser ?! #informatik #itsicherheit #cybersecurity #homelab",
@@ -1805,7 +1928,8 @@
         "duration": "104s",
         "when": "2026-05-20",
         "thumb": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast2a-p-0037-euttp/oIAcuptfRqEHAmDkCZDNcTFdAOGDQAfE9l1AIE~tplv-tiktokx-cropcenter-q:300:400:q70.jpeg?dr=9232&refresh_token=78296566&x-expires=1779865200&x-signature=6a9GpNxzQIHvyuFS18fGiRrVkC8%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=132edbea&idc=useast2b&biz_tag=tt_video&s=PUBLISH&sc=cover&item=7641998223850130720",
-        "url": "https://www.tiktok.com/@hoodinformatik/video/7641998223850130720"
+        "url": "https://www.tiktok.com/@hoodinformatik/video/7641998223850130720",
+        "title_en": "Is self-hosting really better?! #CS #ITsecurity #cybersecurity #homelab"
       }
     ],
     "campaign": "不推荐",
@@ -1840,7 +1964,8 @@
         "duration": "19s",
         "when": "2026-05-18",
         "thumb": "https://p16-common-sign.tiktokcdn-eu.com/tos-alisg-p-0037/o8BKxqwBfAIYiiopEBI1zYAUEiAoiCVYBQvI81~tplv-tiktokx-cropcenter-q:300:400:q70.jpeg?dr=9232&refresh_token=2b4e9d48&x-expires=1779865200&x-signature=Z6FT%2Banu7C3Z8dVuVLiHNQHv%2Bpo%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=132edbea&idc=useast2b&biz_tag=tt_video&s=PUBLISH&sc=cover",
-        "url": "https://www.tiktok.com/@den0ver/video/7640938956506369298"
+        "url": "https://www.tiktok.com/@den0ver/video/7640938956506369298",
+        "title_en": "Telegram channel: IT_abez9na #programming"
       },
       {
         "title": "#программирование #junior #python #django ",
@@ -1848,7 +1973,8 @@
         "duration": "33s",
         "when": "2026-04-21",
         "thumb": "https://p16-common-sign.tiktokcdn-eu.com/tos-alisg-p-0037/oEfeENQBBGAn7tm8MCXwnFf0puSFcRAxMFfG21~tplv-tiktokx-cropcenter-q:300:400:q70.jpeg?dr=9232&refresh_token=fdbf8587&x-expires=1779865200&x-signature=Jx2bwsHSFKxwhnZFK5ttSFT9C9o%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=132edbea&idc=useast2b&biz_tag=tt_video&s=PUBLISH&sc=cover",
-        "url": "https://www.tiktok.com/@den0ver/video/7631079797283786002"
+        "url": "https://www.tiktok.com/@den0ver/video/7631079797283786002",
+        "title_en": "#programming #junior #python #django"
       },
       {
         "title": "#программирование #django ",
@@ -1856,7 +1982,8 @@
         "duration": "41s",
         "when": "2026-03-23",
         "thumb": "https://p16-common-sign.tiktokcdn-eu.com/tos-alisg-p-0037/oofeEtvjDp4zIgivPyMiaE9BBXr4wIRA60UACB~tplv-tiktokx-cropcenter-q:300:400:q70.jpeg?dr=9232&refresh_token=a0dcf494&x-expires=1779865200&x-signature=KE67H0IfLrwy00xTpHmCmXTCC9k%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=132edbea&idc=useast2b&sc=cover&biz_tag=tt_video&s=PUBLISH",
-        "url": "https://www.tiktok.com/@den0ver/video/7620159737581161749"
+        "url": "https://www.tiktok.com/@den0ver/video/7620159737581161749",
+        "title_en": "#programming #django"
       },
       {
         "title": "показать сайт? #программирование #пайтон #джуниор ",
@@ -1864,7 +1991,8 @@
         "duration": "24s",
         "when": "2026-03-20",
         "thumb": "https://p19-common-sign.tiktokcdn-eu.com/tos-alisg-p-0037/ocFvGsDSeeIffQlA8vUAwnQEF04FQRm3GQAAEK~tplv-tiktokx-cropcenter-q:300:400:q70.jpeg?dr=9232&refresh_token=651eefd5&x-expires=1779865200&x-signature=NvSHyS7oOTQbPhBYrc%2FWo3%2Frl5g%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=132edbea&idc=useast2b&biz_tag=tt_video&s=PUBLISH&sc=cover",
-        "url": "https://www.tiktok.com/@den0ver/video/7619044064880561428"
+        "url": "https://www.tiktok.com/@den0ver/video/7619044064880561428",
+        "title_en": "Show the website? #programming #Python #junior"
       }
     ],
     "campaign": "不推荐",
