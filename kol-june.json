@@ -522,63 +522,29 @@
     "slot_role": "正选"
   },
   {
-    "name": "inkenai",
-    "handle": "@inkenai",
+    "name": "先锋新闻短视频位：暂不投",
+    "handle": "—",
     "platform": "TikTok",
-    "avatar": "https://p19-common-sign.tiktokcdn-us.com/tos-useast2a-avt-0068-euttp/0d7e4f492d8ae7407d70ef30310e559f~tplv-tiktokx-cropcenter:1080:1080.webp?dr=9640&refresh_token=adfb5156&x-expires=1779951600&x-signature=ErjN7B0vRFrEEzUPsD38ZOUXTcs%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=2472a6c6&idc=useast8",
-    "followers": 35656,
-    "avg_views": 2672,
+    "avatar": "",
+    "followers": 0,
+    "avg_views": 0,
     "region": "DE",
-    "desc": "💚 Ich setze mich dafür ein, \ndass wir KI sicher gestalten. \n👩🏻‍💻Women in AI Safety Germany\n🎤Podcast Co-Host: Reboot Society\n💌 Keynote-Anfragen⬇️",
-    "profile_url": "https://www.tiktok.com/@inkenai",
-    "primary": "AI",
+    "desc": "当前候选池里没有足够好的德语先锋新闻类短视频 KOL。",
+    "profile_url": "#",
+    "primary": "暂不投",
     "niches": [
-      "AI安全",
-      "AI伦理",
-      "AI创业"
+      "宁缺毋滥",
+      "待讨论"
     ],
-    "pitch": "一位关注AI机遇与AI安全的女性AI博主，视频以探讨AI未来发展、安全与伦理为主，常出现对AI技术和未来趋势的观点输出。",
-    "reason_raw": "The influencer's content consistently focuses on AI, discussing its societal impact, future implications, and safety concerns, aligning perfectly with the description of an AI coding content creator. The visuals, though primarily featuring the speaker, often incorporate relevant graphics like charts and text overlays that relate to AI concepts.",
-    "videos": [
-      {
-        "title": "Hast du schonmal mit Absicht einen Rechtschreibfehler in eine Email geschrieben, um menschlich zu wirken? #ki #künstlicheintelligenz #menschlich #zukunft ",
-        "views": 1013,
-        "duration": "52s",
-        "when": "2026-05-25",
-        "thumb": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast2a-p-0037-euttp/o8DPAWlKEL4OgIFFQUIGlDewgf8egghLGMoXSj~tplv-tiktokx-cropcenter-q:300:400:q70.jpeg?dr=9232&refresh_token=1add4e64&x-expires=1779865200&x-signature=1cpJrcOx%2BosNxP0oD8OF3VVDaYU%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=132edbea&idc=useast2b&item=7643782952303873313&biz_tag=tt_video&s=PUBLISH&sc=cover",
-        "url": "https://www.tiktok.com/@inkenai/video/7643782952303873313"
-      },
-      {
-        "title": "Es steht uns wahrscheinlich eine Wissensexplosion bevor, aber oft ist das so abstrakt, dass man gar nicht richtig weiß, was das bedeutet. Das Video ist der Versuch hier eine mögliche Auswirkung zu zeigen. #künstlicheintelligenz #wachstum #szenario #zukunft #gedankenspiel",
-        "views": 7463,
-        "duration": "94s",
-        "when": "2026-05-24",
-        "thumb": "https://p19-common-sign.tiktokcdn-eu.com/tos-useast2a-p-0037-euttp/o0qzHmsExbIWEjlqATBQRNVFPfgCeJEmDDCBQd~tplv-tiktokx-cropcenter-q:300:400:q70.jpeg?dr=9232&refresh_token=8fbaae83&x-expires=1779865200&x-signature=C44Njf1dJAbmojs5KYfiSA7ejgc%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=132edbea&idc=useast2b&sc=cover&item=7643482839408807201&biz_tag=tt_video&s=PUBLISH",
-        "url": "https://www.tiktok.com/@inkenai/video/7643482839408807201"
-      },
-      {
-        "title": "Würdest du deine KI für dich daten lassen? Hi, ich bin Inken, ich denke Dinge gerne weiter und setze mich dafür ein, dass wir KI sicher gestalten. Also eine KI für dich daten zu lassen bringt in meinen Augen nicht den Ertrag. Außer, du möchtest die KI daten, aber dann haben wir ein ganz anderes Problem. #daten #ki #zukunft ",
-        "views": 726,
-        "duration": "68s",
-        "when": "2026-05-23",
-        "thumb": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast2a-p-0037-euttp/oQEe4VREQDAfcQQiJqIQgMKNmBFzbvEDVLNb2k~tplv-tiktokx-cropcenter-q:300:400:q70.jpeg?dr=9232&refresh_token=618d6a75&x-expires=1779865200&x-signature=yV1I40df0Epa02B4kqY4ckKJ%2B1s%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=132edbea&idc=useast2b&sc=cover&item=7642994353861938465&biz_tag=tt_video&s=PUBLISH",
-        "url": "https://www.tiktok.com/@inkenai/video/7642994353861938465"
-      },
-      {
-        "title": "75% glauben, KI wird massenhaft Jobs vernichten. Nur 15% denken, dass ihr eigener Job gefährdet ist. Das zeigt eine Gallup-Studie und dahinter verbirgt sich der „Third Person Effect“ #ki #studie #kiundjobs ",
-        "views": 893,
-        "duration": "40s",
-        "when": "2026-05-22",
-        "thumb": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast2a-p-0037-euttp/oIqEgtDjQgEOBoHEIqSgvDASFRFR2mfkeQaDTE~tplv-tiktokx-cropcenter-q:300:400:q70.jpeg?dr=9232&refresh_token=36987bcd&x-expires=1779865200&x-signature=gUUVh8wAp%2BoCReNIUx12NbeRmIU%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=132edbea&idc=useast2b&biz_tag=tt_video&s=PUBLISH&sc=cover&item=7642686126620151072",
-        "url": "https://www.tiktok.com/@inkenai/video/7642686126620151072"
-      }
-    ],
-    "campaign": "先锋新闻 / TikTok",
+    "pitch": "建议内部讨论：这个 20% 新闻短视频位是否改投长视频新闻/AI coding builder，或重新发起 EasyKOL 搜索补候选。",
+    "reason_raw": "",
+    "videos": [],
     "status": "primary",
-    "why": "新闻短视频唯一正选：德语；AI 未来、创业、安全/伦理议题，近期“知识爆炸”7.5K，比 IT 安全类更接近 AI builder 受众。",
-    "score": 76.4,
-    "contact_status": "待确认档期",
-    "slot_role": "正选"
+    "campaign": "先锋新闻 / 短视频暂不投",
+    "why": "宁缺毋滥：当前短视频资讯候选没有明显达到可投标准的德语 KOL，因此该位先标注为暂不投，不强行用 inkenai/Hood Informatik 补。建议和团队讨论是否把这个名额转给长视频新闻或 AI Coding builder。",
+    "score": "N/A",
+    "contact_status": "暂不联系",
+    "slot_role": "空位"
   },
   {
     "name": "Herr.Excel",
@@ -809,6 +775,65 @@
     "campaign": "短视频替补",
     "why": "德语短视频替补候选。",
     "score": 0,
+    "contact_status": "待确认档期",
+    "slot_role": "替补"
+  },
+  {
+    "name": "inkenai",
+    "handle": "@inkenai",
+    "platform": "TikTok",
+    "avatar": "https://p19-common-sign.tiktokcdn-us.com/tos-useast2a-avt-0068-euttp/0d7e4f492d8ae7407d70ef30310e559f~tplv-tiktokx-cropcenter:1080:1080.webp?dr=9640&refresh_token=adfb5156&x-expires=1779951600&x-signature=ErjN7B0vRFrEEzUPsD38ZOUXTcs%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=2472a6c6&idc=useast8",
+    "followers": 35656,
+    "avg_views": 2672,
+    "region": "DE",
+    "desc": "💚 Ich setze mich dafür ein, \ndass wir KI sicher gestalten. \n👩🏻‍💻Women in AI Safety Germany\n🎤Podcast Co-Host: Reboot Society\n💌 Keynote-Anfragen⬇️",
+    "profile_url": "https://www.tiktok.com/@inkenai",
+    "primary": "AI",
+    "niches": [
+      "AI安全",
+      "AI伦理",
+      "AI创业"
+    ],
+    "pitch": "一位关注AI机遇与AI安全的女性AI博主，视频以探讨AI未来发展、安全与伦理为主，常出现对AI技术和未来趋势的观点输出。",
+    "reason_raw": "The influencer's content consistently focuses on AI, discussing its societal impact, future implications, and safety concerns, aligning perfectly with the description of an AI coding content creator. The visuals, though primarily featuring the speaker, often incorporate relevant graphics like charts and text overlays that relate to AI concepts.",
+    "videos": [
+      {
+        "title": "Hast du schonmal mit Absicht einen Rechtschreibfehler in eine Email geschrieben, um menschlich zu wirken? #ki #künstlicheintelligenz #menschlich #zukunft ",
+        "views": 1013,
+        "duration": "52s",
+        "when": "2026-05-25",
+        "thumb": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast2a-p-0037-euttp/o8DPAWlKEL4OgIFFQUIGlDewgf8egghLGMoXSj~tplv-tiktokx-cropcenter-q:300:400:q70.jpeg?dr=9232&refresh_token=1add4e64&x-expires=1779865200&x-signature=1cpJrcOx%2BosNxP0oD8OF3VVDaYU%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=132edbea&idc=useast2b&item=7643782952303873313&biz_tag=tt_video&s=PUBLISH&sc=cover",
+        "url": "https://www.tiktok.com/@inkenai/video/7643782952303873313"
+      },
+      {
+        "title": "Es steht uns wahrscheinlich eine Wissensexplosion bevor, aber oft ist das so abstrakt, dass man gar nicht richtig weiß, was das bedeutet. Das Video ist der Versuch hier eine mögliche Auswirkung zu zeigen. #künstlicheintelligenz #wachstum #szenario #zukunft #gedankenspiel",
+        "views": 7463,
+        "duration": "94s",
+        "when": "2026-05-24",
+        "thumb": "https://p19-common-sign.tiktokcdn-eu.com/tos-useast2a-p-0037-euttp/o0qzHmsExbIWEjlqATBQRNVFPfgCeJEmDDCBQd~tplv-tiktokx-cropcenter-q:300:400:q70.jpeg?dr=9232&refresh_token=8fbaae83&x-expires=1779865200&x-signature=C44Njf1dJAbmojs5KYfiSA7ejgc%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=132edbea&idc=useast2b&sc=cover&item=7643482839408807201&biz_tag=tt_video&s=PUBLISH",
+        "url": "https://www.tiktok.com/@inkenai/video/7643482839408807201"
+      },
+      {
+        "title": "Würdest du deine KI für dich daten lassen? Hi, ich bin Inken, ich denke Dinge gerne weiter und setze mich dafür ein, dass wir KI sicher gestalten. Also eine KI für dich daten zu lassen bringt in meinen Augen nicht den Ertrag. Außer, du möchtest die KI daten, aber dann haben wir ein ganz anderes Problem. #daten #ki #zukunft ",
+        "views": 726,
+        "duration": "68s",
+        "when": "2026-05-23",
+        "thumb": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast2a-p-0037-euttp/oQEe4VREQDAfcQQiJqIQgMKNmBFzbvEDVLNb2k~tplv-tiktokx-cropcenter-q:300:400:q70.jpeg?dr=9232&refresh_token=618d6a75&x-expires=1779865200&x-signature=yV1I40df0Epa02B4kqY4ckKJ%2B1s%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=132edbea&idc=useast2b&sc=cover&item=7642994353861938465&biz_tag=tt_video&s=PUBLISH",
+        "url": "https://www.tiktok.com/@inkenai/video/7642994353861938465"
+      },
+      {
+        "title": "75% glauben, KI wird massenhaft Jobs vernichten. Nur 15% denken, dass ihr eigener Job gefährdet ist. Das zeigt eine Gallup-Studie und dahinter verbirgt sich der „Third Person Effect“ #ki #studie #kiundjobs ",
+        "views": 893,
+        "duration": "40s",
+        "when": "2026-05-22",
+        "thumb": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast2a-p-0037-euttp/oIqEgtDjQgEOBoHEIqSgvDASFRFR2mfkeQaDTE~tplv-tiktokx-cropcenter-q:300:400:q70.jpeg?dr=9232&refresh_token=36987bcd&x-expires=1779865200&x-signature=gUUVh8wAp%2BoCReNIUx12NbeRmIU%3D&t=bacd0480&ps=933b5bde&shp=d05b14bd&shcp=132edbea&idc=useast2b&biz_tag=tt_video&s=PUBLISH&sc=cover&item=7642686126620151072",
+        "url": "https://www.tiktok.com/@inkenai/video/7642686126620151072"
+      }
+    ],
+    "campaign": "先锋新闻 / TikTok 暂不正投",
+    "status": "backup",
+    "why": "降级：质量和近期热度不足以作为新闻短视频正选；如必须保留短视频新闻位，可作为低优先级备选。",
+    "score": 76.4,
     "contact_status": "待确认档期",
     "slot_role": "替补"
   },
